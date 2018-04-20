@@ -1,0 +1,6146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BirchPress Scheduler Business Plus v2.8.24.BP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-25 17:24+0800\n"
+"Last-Translator: Artem\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:216
+#: framework/includes/birchpress/util/package.php:337
+#: framework/includes/birchpress/util/package.php:346
+#: framework/includes/birchpress/util/package.php:416
+msgid "Sun"
+msgstr "Вс"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:217
+#: framework/includes/birchpress/util/package.php:338
+#: framework/includes/birchpress/util/package.php:347
+#: framework/includes/birchpress/util/package.php:417
+msgid "Mon"
+msgstr "Пн"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:218
+#: framework/includes/birchpress/util/package.php:339
+#: framework/includes/birchpress/util/package.php:348
+#: framework/includes/birchpress/util/package.php:418
+msgid "Tue"
+msgstr "Вт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:219
+#: framework/includes/birchpress/util/package.php:340
+#: framework/includes/birchpress/util/package.php:349
+#: framework/includes/birchpress/util/package.php:419
+msgid "Wed"
+msgstr "Ср"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:220
+#: framework/includes/birchpress/util/package.php:341
+#: framework/includes/birchpress/util/package.php:350
+#: framework/includes/birchpress/util/package.php:420
+msgid "Thu"
+msgstr "Чт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:221
+#: framework/includes/birchpress/util/package.php:342
+#: framework/includes/birchpress/util/package.php:351
+#: framework/includes/birchpress/util/package.php:421
+msgid "Fri"
+msgstr "Пт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:222
+#: framework/includes/birchpress/util/package.php:343
+#: framework/includes/birchpress/util/package.php:352
+#: framework/includes/birchpress/util/package.php:422
+msgid "Sat"
+msgstr "Сб"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:228
+#: includes/view/calendar/package.php:255
+msgid "Month"
+msgstr "Месяц"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:229
+#: includes/view/calendar/package.php:259
+msgid "Week"
+msgstr "Неделя"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:230
+#: includes/view/calendar/package.php:263
+msgid "Day"
+msgstr "День"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:276
+msgid "Mr"
+msgstr "Г-н"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:277
+msgid "Mrs"
+msgstr "Г-жа"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:278
+msgid "Miss"
+msgstr "Г-жа"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:279
+msgid "Ms"
+msgstr "Г-жа"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:280
+msgid "Dr"
+msgstr "Д-р"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:309
+#: framework/includes/birchpress/util/package.php:323
+#: framework/includes/birchpress/util/package.php:393
+msgid "Jan"
+msgstr "Янв"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:310
+#: framework/includes/birchpress/util/package.php:324
+#: framework/includes/birchpress/util/package.php:394
+msgid "Feb"
+msgstr "Фев"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:311
+#: framework/includes/birchpress/util/package.php:325
+#: framework/includes/birchpress/util/package.php:395
+msgid "Mar"
+msgstr "Март"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:312
+#: framework/includes/birchpress/util/package.php:326
+#: framework/includes/birchpress/util/package.php:396
+msgid "Apr"
+msgstr "Апр"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:313
+#: framework/includes/birchpress/util/package.php:327
+#: framework/includes/birchpress/util/package.php:383
+#: framework/includes/birchpress/util/package.php:397
+msgid "May"
+msgstr "Май"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:314
+#: framework/includes/birchpress/util/package.php:328
+#: framework/includes/birchpress/util/package.php:398
+msgid "Jun"
+msgstr "Июн"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:315
+#: framework/includes/birchpress/util/package.php:329
+#: framework/includes/birchpress/util/package.php:399
+msgid "Jul"
+msgstr "Июл"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:316
+#: framework/includes/birchpress/util/package.php:330
+#: framework/includes/birchpress/util/package.php:400
+msgid "Aug"
+msgstr "Авг"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:317
+#: framework/includes/birchpress/util/package.php:331
+#: framework/includes/birchpress/util/package.php:401
+msgid "Sep"
+msgstr "Сен"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:318
+#: framework/includes/birchpress/util/package.php:332
+#: framework/includes/birchpress/util/package.php:402
+msgid "Oct"
+msgstr "Окт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:319
+#: framework/includes/birchpress/util/package.php:333
+#: framework/includes/birchpress/util/package.php:403
+msgid "Nov"
+msgstr "Нояб"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:320
+#: framework/includes/birchpress/util/package.php:334
+#: framework/includes/birchpress/util/package.php:404
+msgid "Dec"
+msgstr "Дек"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:355
+msgid "today"
+msgstr "сегодня"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:356
+msgid "month"
+msgstr "месяц"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:357
+msgid "week"
+msgstr "неделя"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:358
+msgid "day"
+msgstr "день"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:379
+msgid "January"
+msgstr "Январь"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:380
+msgid "February"
+msgstr "Февраль"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:381
+msgid "March"
+msgstr "Март"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:382
+msgid "April"
+msgstr "Апрель"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:384
+msgid "June"
+msgstr "Июнь"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:385
+msgid "July"
+msgstr "Июль"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:386
+msgid "August"
+msgstr "Август"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:387
+msgid "September"
+msgstr "Сентябрь"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:388
+msgid "October"
+msgstr "Октябрь"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:389
+msgid "November"
+msgstr "Ноябрь"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:390
+msgid "December"
+msgstr "Декабрь"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:407
+msgid "Sunday"
+msgstr "Воскресенье"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:408
+msgid "Monday"
+msgstr "Понедельник"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:409
+msgid "Tuesday"
+msgstr "Вторник"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:410
+msgid "Wednesday"
+msgstr "Среда"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:411
+msgid "Thursday"
+msgstr "Четверг"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:412
+msgid "Friday"
+msgstr "Пятница"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:413
+msgid "Saturday"
+msgstr "Суббота"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:425
+msgid "Su"
+msgstr "Вс"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:426
+msgid "Mo"
+msgstr "Пн"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:427
+msgid "Tu"
+msgstr "Вт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:428
+msgid "We"
+msgstr "Ср"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:429
+msgid "Th"
+msgstr "Чт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:430
+msgid "Fr"
+msgstr "Пт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:431
+msgid "Sa"
+msgstr "Сб"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:526
+msgid "Afghanistan"
+msgstr "Афганистан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:527
+msgid "Albania"
+msgstr "Албания"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:528
+msgid "Algeria"
+msgstr "Алжир"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:529
+msgid "American Samoa"
+msgstr "Американское Самоа"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:530
+msgid "Andorra"
+msgstr "Андорра"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:531
+msgid "Angola"
+msgstr "Ангола"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:532
+msgid "Anguilla"
+msgstr "Ангилья"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:533
+msgid "Antarctica"
+msgstr "Антарктика"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:534
+msgid "Antigua And Barbuda"
+msgstr "Антигуа И Барбуда"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:535
+msgid "Argentina"
+msgstr "Аргентина"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:536
+msgid "Armenia"
+msgstr "Армения"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:537
+msgid "Aruba"
+msgstr "Аруба"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:538
+msgid "Australia"
+msgstr "Австралия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:539
+msgid "Austria"
+msgstr "Австрия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:540
+msgid "Azerbaijan"
+msgstr "Азербайджан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:541
+msgid "Bahamas"
+msgstr "Багамы"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:542
+msgid "Bahrain"
+msgstr "Бахрейн"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:543
+msgid "Bangladesh"
+msgstr "Бангладеш"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:544
+msgid "Barbados"
+msgstr "Барбадос"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:545
+msgid "Belarus"
+msgstr "Беларусь"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:546
+msgid "Belgium"
+msgstr "Бельгия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:547
+msgid "Belize"
+msgstr "Белиз"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:548
+msgid "Benin"
+msgstr "Бенин"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:549
+msgid "Bermuda"
+msgstr "Бермуды"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:550
+msgid "Bhutan"
+msgstr "Бутан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:551
+msgid "Bolivia"
+msgstr "Боливия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:552
+msgid "Bosnia And Herzegowina"
+msgstr "Босния и Герцеговина"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:553
+msgid "Botswana"
+msgstr "Ботсвана"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:554
+msgid "Bouvet Island"
+msgstr "Остров Буве"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:555
+msgid "Brazil"
+msgstr "Бразилия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:556
+msgid "British Indian Ocean Territory"
+msgstr "Британские индоокеанская территория"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:557
+msgid "Brunei Darussalam"
+msgstr "Бруней"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:558
+msgid "Bulgaria"
+msgstr "Болгария"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:559
+msgid "Burkina Faso"
+msgstr "Буркина-Фасо"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:560
+msgid "Burundi"
+msgstr "Бурунди"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:561
+msgid "Cambodia"
+msgstr "Камбоджа"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:562
+msgid "Cameroon"
+msgstr "Камерун"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:563
+msgid "Canada"
+msgstr "Канада"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:564
+msgid "Cape Verde"
+msgstr "Капо-Верде"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:565
+msgid "Cayman Islands"
+msgstr "Каймановы острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:566
+msgid "Central African Republic"
+msgstr "Центрально Африканская Республика"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:567
+msgid "Chad"
+msgstr "Чад"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:568
+msgid "Chile"
+msgstr "Чили"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:569
+msgid "China"
+msgstr "Китай"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:570
+msgid "Christmas Island"
+msgstr "Остров Рождества"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:571
+msgid "Cocos (Keeling) Islands"
+msgstr "Кокосовые острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:572
+msgid "Colombia"
+msgstr "Колумбия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:573
+msgid "Comoros"
+msgstr "Коморы"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:574
+msgid "Congo"
+msgstr "Конго"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:575
+msgid "Congo, The Democratic Republic Of The"
+msgstr "Конго"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:576
+msgid "Cook Islands"
+msgstr "Острова Кука"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:577
+msgid "Costa Rica"
+msgstr "Каста-Рика"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:578
+msgid "Cote D'Ivoire"
+msgstr "Кот-д’Ивуар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:579
+msgid "Croatia (Local Name: Hrvatska)"
+msgstr "Хорватия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:580
+msgid "Cuba"
+msgstr "Куба"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:581
+msgid "Cyprus"
+msgstr "Кипр"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:582
+msgid "Czech Republic"
+msgstr "Чехия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:583
+msgid "Denmark"
+msgstr "Дания"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:584
+msgid "Djibouti"
+msgstr "Джибути"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:585
+msgid "Dominica"
+msgstr "Доминикана"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:586
+msgid "Dominican Republic"
+msgstr "Доминиканская Республика"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:587
+msgid "East Timor"
+msgstr "Восточный тимор"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:588
+msgid "Ecuador"
+msgstr "Эквадор"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:589
+msgid "Egypt"
+msgstr "Египет"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:590
+msgid "El Salvador"
+msgstr "Сальвадор"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:591
+msgid "Equatorial Guinea"
+msgstr "Экваториальная Гвинея"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:592
+msgid "Eritrea"
+msgstr "Эритрея"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:593
+msgid "Estonia"
+msgstr "Эстония"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:594
+msgid "Ethiopia"
+msgstr "Эфиопия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:595
+msgid "Falkland Islands (Malvinas)"
+msgstr "Фолклендские острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:596
+msgid "Faroe Islands"
+msgstr "Фарерские острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:597
+msgid "Fiji"
+msgstr "Фиджи"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:598
+msgid "Finland"
+msgstr "Финляндия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:599
+msgid "France"
+msgstr "Франция"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:600
+msgid "France, Metropolitan"
+msgstr "Метрополия Франции"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:601
+msgid "French Guiana"
+msgstr "Французская Гвиана"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:602
+msgid "French Polynesia"
+msgstr "Французская Полинезия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:603
+msgid "French Southern Territories"
+msgstr "Французские Южные Территории"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:604
+msgid "Gabon"
+msgstr "Габон"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:605
+msgid "Gambia"
+msgstr "Гамбия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:606
+msgid "Georgia"
+msgstr "Грузия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:607
+msgid "Germany"
+msgstr "Германия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:608
+msgid "Ghana"
+msgstr "Гана"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:609
+msgid "Gibraltar"
+msgstr "Гибралтар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:610
+msgid "Greece"
+msgstr "Греция"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:611
+msgid "Greenland"
+msgstr "Гренландия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:612
+msgid "Grenada"
+msgstr "Гренада"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:613
+msgid "Guadeloupe"
+msgstr "Гваделупа"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:614
+msgid "Guam"
+msgstr "Гуам"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:615
+msgid "Guatemala"
+msgstr "Гватемала"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:616
+msgid "Guinea"
+msgstr "Гвинея"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:617
+msgid "Guinea-Bissau"
+msgstr "Гвинея-Бисау"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:618
+msgid "Guyana"
+msgstr "Гайана"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:619
+msgid "Haiti"
+msgstr "Гаити"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:620
+msgid "Heard And Mc Donald Islands"
+msgstr "Острова Херд и Макдональд"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:621
+msgid "Holy See (Vatican City State)"
+msgstr "Город-государство Ватикан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:622
+msgid "Honduras"
+msgstr "Гондурас"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:623
+msgid "Hong Kong"
+msgstr "Гонконг"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:624
+msgid "Hungary"
+msgstr "Венгрия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:625
+msgid "Iceland"
+msgstr "Исландия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:626
+msgid "India"
+msgstr "Индия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:627
+msgid "Indonesia"
+msgstr "Индонезия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:628
+msgid "Iran (Islamic Republic Of)"
+msgstr "Иран"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:629
+msgid "Iraq"
+msgstr "Ирак"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:630
+msgid "Ireland"
+msgstr "Ирдандия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:631
+msgid "Israel"
+msgstr "Израиль"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:632
+msgid "Italy"
+msgstr "Италия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:633
+msgid "Jamaica"
+msgstr "Ямайка"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:634
+msgid "Japan"
+msgstr "Япония"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:635
+msgid "Jordan"
+msgstr "Иордан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:636
+msgid "Kazakhstan"
+msgstr "Казахстан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:637
+msgid "Kenya"
+msgstr "Кения"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:638
+msgid "Kiribati"
+msgstr "Кирибати"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:639
+msgid "Korea, Democratic People's Republic Of"
+msgstr "КНДР"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:640
+msgid "Korea, Republic Of"
+msgstr "Республика Корея"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:641
+msgid "Kuwait"
+msgstr "Кувейт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:642
+msgid "Kyrgyzstan"
+msgstr "Киргизия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:643
+msgid "Lao People's Democratic Republic"
+msgstr "Лаос"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:644
+msgid "Latvia"
+msgstr "Латвия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:645
+msgid "Lebanon"
+msgstr "Ливан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:646
+msgid "Lesotho"
+msgstr "Лесото"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:647
+msgid "Liberia"
+msgstr "Либерия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:648
+msgid "Libyan Arab Jamahiriya"
+msgstr "Ливия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:649
+msgid "Liechtenstein"
+msgstr "Лихтенштейн"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:650
+msgid "Lithuania"
+msgstr "Литва"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:651
+msgid "Luxembourg"
+msgstr "Люксембург"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:652
+msgid "Macau"
+msgstr "Макао"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:653
+msgid "Macedonia, Former Yugoslav Republic Of"
+msgstr "Македония"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:654
+msgid "Madagascar"
+msgstr "Мадагаскар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:655
+msgid "Malawi"
+msgstr "Малави"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:656
+msgid "Malaysia"
+msgstr "Малайзия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:657
+msgid "Maldives"
+msgstr "Мальдивы"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:658
+msgid "Mali"
+msgstr "Мали"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:659
+msgid "Malta"
+msgstr "Мальта"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:660
+msgid "Marshall Islands"
+msgstr "Маршалловы Острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:661
+msgid "Martinique"
+msgstr "Мартиника"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:662
+msgid "Mauritania"
+msgstr "Мавритания"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:663
+msgid "Mauritius"
+msgstr "Маврикий"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:664
+msgid "Mayotte"
+msgstr "Майотта"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:665
+msgid "Mexico"
+msgstr "Мексика"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:666
+msgid "Micronesia, Federated States Of"
+msgstr "Микронезия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:667
+msgid "Moldova, Republic Of"
+msgstr "Молдавия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:668
+msgid "Monaco"
+msgstr "Монако"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:669
+msgid "Mongolia"
+msgstr "Монголия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:670
+msgid "Montserrat"
+msgstr "Монтсеррат"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:671
+msgid "Morocco"
+msgstr "Марокко"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:672
+msgid "Mozambique"
+msgstr "Мозамбик"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:673
+msgid "Myanmar"
+msgstr "Мьянма"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:674
+msgid "Namibia"
+msgstr "Намибия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:675
+msgid "Nauru"
+msgstr "Науру"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:676
+msgid "Nepal"
+msgstr "Непал"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:677
+msgid "Netherlands"
+msgstr "Нидерланды"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:678
+msgid "Netherlands Antilles"
+msgstr "Нидерландские Антильские острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:679
+msgid "New Caledonia"
+msgstr "Новая Каледония"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:680
+msgid "New Zealand"
+msgstr "Новая Зеландия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:681
+msgid "Nicaragua"
+msgstr "Никарагуа"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:682
+msgid "Niger"
+msgstr "Нигер"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:683
+msgid "Nigeria"
+msgstr "Нигерия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:684
+msgid "Niue"
+msgstr "Ниуэ"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:685
+msgid "Norfolk Island"
+msgstr "Норфолк"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:686
+msgid "Northern Mariana Islands"
+msgstr "Северные Марианские острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:687
+msgid "Norway"
+msgstr "Норвегия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:688
+msgid "Oman"
+msgstr "Оман"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:689
+msgid "Pakistan"
+msgstr "Пакистан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:690
+msgid "Palau"
+msgstr "Палау"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:691
+msgid "Panama"
+msgstr "Панама"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:692
+msgid "Papua New Guinea"
+msgstr "Папуа — Новая Гвинея"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:693
+msgid "Paraguay"
+msgstr "Парагвай"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:694
+msgid "Peru"
+msgstr "Перу"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:695
+msgid "Philippines"
+msgstr "Филиппины"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:696
+msgid "Pitcairn"
+msgstr "Острова Питкэрн"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:697
+msgid "Poland"
+msgstr "Польша"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:698
+msgid "Portugal"
+msgstr "Португалия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:699
+msgid "Puerto Rico"
+msgstr "Пуэрто-Рико"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:700
+msgid "Qatar"
+msgstr "Катар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:701
+msgid "Reunion"
+msgstr "Реюньон"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:702
+msgid "Romania"
+msgstr "Румыния"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:703
+msgid "Russian Federation"
+msgstr "Российская Федерация"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:704
+msgid "Rwanda"
+msgstr "Руанда"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:705
+msgid "Saint Kitts And Nevis"
+msgstr "Сент-Китс и Невис"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:706
+msgid "Saint Lucia"
+msgstr "Сент-Люсия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:707
+msgid "Saint Vincent And The Grenadines"
+msgstr "Сент-Винсент и Гренадины"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:708
+msgid "Samoa"
+msgstr "Самоа"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:709
+msgid "San Marino"
+msgstr "Сан-Марино"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:710
+msgid "Sao Tome And Principe"
+msgstr "Сан-Томе и Принсипи"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:711
+msgid "Saudi Arabia"
+msgstr "Саудовская Аравия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:712
+msgid "Senegal"
+msgstr "Сенегал"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:713
+msgid "Seychelles"
+msgstr "Сейшельские Острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:714
+msgid "Sierra Leone"
+msgstr "Сьерра-Леоне"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:715
+msgid "Singapore"
+msgstr "Сингапур"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:716
+msgid "Slovakia (Slovak Republic)"
+msgstr "Словакия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:717
+msgid "Slovenia"
+msgstr "Словения"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:718
+msgid "Solomon Islands"
+msgstr "Соломоновы Острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:719
+msgid "Somalia"
+msgstr "Сомали"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:720
+msgid "South Africa"
+msgstr "ЮАР"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:721
+msgid "South Georgia, South Sandwich Islands"
+msgstr "Южная Георгия и Южные Сандвичевы Острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:722
+msgid "Spain"
+msgstr "Испания"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:723
+msgid "Sri Lanka"
+msgstr "Шри-Ланка"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:724
+msgid "St. Helena"
+msgstr "Остров Святой Елены"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:725
+msgid "St. Pierre And Miquelon"
+msgstr "Сен-Пьер и Микелон"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:726
+msgid "Sudan"
+msgstr "Судан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:727
+msgid "Suriname"
+msgstr "Суринам"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:728
+msgid "Svalbard And Jan Mayen Islands"
+msgstr "Шпицберген и Ян-Майен"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:729
+msgid "Swaziland"
+msgstr "Свазиленд"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:730
+msgid "Sweden"
+msgstr "Швеция"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:731
+msgid "Switzerland"
+msgstr "Швейцария"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:732
+msgid "Syrian Arab Republic"
+msgstr "Сирия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:733
+msgid "Taiwan"
+msgstr "Тайвань"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:734
+msgid "Tajikistan"
+msgstr "Таджикистан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:735
+msgid "Tanzania, United Republic Of"
+msgstr "Танзания"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:736
+msgid "Thailand"
+msgstr "Тайланд"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:737
+msgid "Togo"
+msgstr "Того"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:738
+msgid "Tokelau"
+msgstr "Токелау"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:739
+msgid "Tonga"
+msgstr "Тонга"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:740
+msgid "Trinidad And Tobago"
+msgstr "Тринидад и Тобаго"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:741
+msgid "Tunisia"
+msgstr "Тунис"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:742
+msgid "Turkey"
+msgstr "Турция"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:743
+msgid "Turkmenistan"
+msgstr "Туркмения"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:744
+msgid "Turks And Caicos Islands"
+msgstr "Теркс и Кайкос"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:745
+msgid "Tuvalu"
+msgstr "Тувалу"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:746
+msgid "Uganda"
+msgstr "Уганда"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:747
+msgid "Ukraine"
+msgstr "Украина"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:748
+msgid "United Arab Emirates"
+msgstr "Объединённые Арабские Эмираты"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:749
+msgid "United Kingdom"
+msgstr "Великобритания"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:750
+msgid "United States"
+msgstr "Соединённые Штаты Америки"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:751
+msgid "United States Minor Outlying Islands"
+msgstr "Внешние малые острова США"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:752
+msgid "Uruguay"
+msgstr "Уругвай"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:753
+msgid "Uzbekistan"
+msgstr "Узбекистан"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:754
+msgid "Vanuatu"
+msgstr "Вануату"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:755
+msgid "Venezuela"
+msgstr "Венесуэла"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:756
+msgid "Viet Nam"
+msgstr "Вьетнам"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:757
+msgid "Virgin Islands (British)"
+msgstr "Британские Виргинские острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:758
+msgid "Virgin Islands (U.S.)"
+msgstr "Виргинские Острова"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:759
+msgid "Wallis And Futuna Islands"
+msgstr "Уоллис и Футуна"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:760
+msgid "Western Sahara"
+msgstr "Западная Сахара"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:761
+msgid "Yemen"
+msgstr "Йемен"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:762
+msgid "Yugoslavia"
+msgstr "Югославия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:763
+msgid "Zambia"
+msgstr "Замбия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:764
+msgid "Zimbabwe"
+msgstr "Зимбабве"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:776
+msgid "Alabama (AL)"
+msgstr "Алабама (AL)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:777
+msgid "Alaska (AK)"
+msgstr "Аляска (AK)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:778
+msgid "Arizona (AZ)"
+msgstr "Аризона (AZ)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:779
+msgid "Arkansas (AR)"
+msgstr "Арканзас (AR)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:780
+msgid "California (CA)"
+msgstr "Калифорния (CA)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:781
+msgid "Colorado (CO)"
+msgstr "Колорадо (CO)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:782
+msgid "Connecticut (CT)"
+msgstr "Коннектикут (CT)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:783
+msgid "District of Columbia (DC)"
+msgstr "Округ Колумбия (DC)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:784
+msgid "Delaware (DE)"
+msgstr "Делавэр (DE)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:785
+msgid "Florida (FL)"
+msgstr "Флорида (FL)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:786
+msgid "Georgia (GA)"
+msgstr "Джорджия (GA)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:787
+msgid "Hawaii (HI)"
+msgstr "Гавайи (HI)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:788
+msgid "Idaho (ID)"
+msgstr "Айдахо (ID)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:789
+msgid "Illinois (IL)"
+msgstr "Иллинойс (IL)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:790
+msgid "Indiana (IN)"
+msgstr "Индиана (IN)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:791
+msgid "Iowa (IA)"
+msgstr "Айова (IA)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:792
+msgid "Kansas (KS)"
+msgstr "Канзас (KS)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:793
+msgid "Kentucky (KY)"
+msgstr "Кентукки (KY)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:794
+msgid "Louisiana (LA)"
+msgstr "Луизиана (LA)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:795
+msgid "Maine (ME)"
+msgstr "Мэн (ME)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:796
+msgid "Maryland (MD)"
+msgstr "Мэриленд (MD)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:797
+msgid "Massachusetts (MA)"
+msgstr "Массачусетс (MA)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:798
+msgid "Michigan (MI)"
+msgstr "Мичиган (MI)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:799
+msgid "Minnesota (MN)"
+msgstr "Миннесота (MN)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:800
+msgid "Mississippi (MS)"
+msgstr "Миссисипи (MS)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:801
+msgid "Missouri (MO)"
+msgstr "Миссури (MO)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:802
+msgid "Montana (MT)"
+msgstr "Монтана (MT)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:803
+msgid "Nebraska (NE)"
+msgstr "Небраска (NE)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:804
+msgid "Nevada (NV)"
+msgstr "Невада (NV)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:805
+msgid "New Hampshire (NH)"
+msgstr "Нью-Гэмпшир (NH)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:806
+msgid "New Jersey (NJ)"
+msgstr "Нью-Джерси (ТО)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:807
+msgid "New Mexico (NM)"
+msgstr "Нью-Мексико (NM)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:808
+msgid "New York (NY)"
+msgstr "Нью-Йорк (NY)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:809
+msgid "North Carolina(NC)"
+msgstr "Северная Каролина (NC)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:810
+msgid "North Dakota (ND)"
+msgstr "Северная Дакота (ND)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:811
+msgid "Ohio (OH)"
+msgstr "Огайо (OH)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:812
+msgid "Oklahoma (OK)"
+msgstr "Оклахома (OK)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:813
+msgid "Oregon (OR)"
+msgstr "Орегон (OR)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:814
+msgid "Pennsylvania (PA)"
+msgstr "Пенсильвания (PA)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:815
+msgid "Puerto Rico (PR)"
+msgstr "Пуэрто Рико (PR)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:816
+msgid "Rhode Island (RI)"
+msgstr "Род-Айленд (RI)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:817
+msgid "South Carolina (SC)"
+msgstr "Южная Каролина (SC)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:818
+msgid "South Dakota"
+msgstr "Южгая Дакота"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:819
+msgid "Tennessee (TN)"
+msgstr "Теннесси (TN)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:820
+msgid "Texas (TX)"
+msgstr "Техас (TX)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:821
+msgid "Utah (UT)"
+msgstr "Юта (UT)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:822
+msgid "Virginia (VA)"
+msgstr "Вирджиния (VA)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:823
+msgid "Virgin Islands (VI)"
+msgstr "Виргинские острова (VI)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:824
+msgid "Vermont (VT)"
+msgstr "Вермонт (VT)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:825
+msgid "Washington (WA)"
+msgstr "Вашингтон (WA)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:826
+msgid "West Virginia (WV)"
+msgstr "Западная Вирджиния (WV)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:827
+msgid "Wisconsin (WI)"
+msgstr "Висконсин (WI)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:828
+msgid "Wyoming (WY)"
+msgstr "Вайоминг (WY)"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:831
+msgid "Australian Capital Territory"
+msgstr "Австралийская столичная территория"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:832
+msgid "New South Wales"
+msgstr "Новый Южный Уэльс"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:833
+msgid "Northern Territory"
+msgstr "Северная территория"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:834
+msgid "Queensland"
+msgstr "Квинсленд"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:835
+msgid "South Australia"
+msgstr "Южная Австралия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:836
+msgid "Tasmania"
+msgstr "Тасмания"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:837
+msgid "Victoria"
+msgstr "Виктория"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:838
+msgid "Western Australia"
+msgstr "Западная Австралия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:841
+msgid "Acre"
+msgstr "Акри"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:842
+msgid "Alagoas"
+msgstr "Алагоас"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:843
+#, fuzzy
+msgid "Amap&aacute;"
+msgstr "Amap&aacute;"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:844
+msgid "Amazonas"
+msgstr "Амазонас"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:845
+msgid "Bahia"
+msgstr "Баия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:846
+#, fuzzy
+msgid "Cear&aacute;"
+msgstr "Cear&aacute;"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:847
+msgid "Distrito Federal"
+msgstr "Федеральный Округ"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:848
+#, fuzzy
+msgid "Esp&iacute;rito Santo"
+msgstr "Esp&iacute;rito Santo"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:849
+#, fuzzy
+msgid "Goi&aacute;s"
+msgstr "Goi&aacute;s"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:850
+#, fuzzy
+msgid "Maranh&atilde;o"
+msgstr "Maranh&atilde;o"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:851
+msgid "Mato Grosso"
+msgstr "Мату-Гросу"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:852
+msgid "Mato Grosso do Sul"
+msgstr "Мату-Гросу-ду-Сул"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:853
+msgid "Minas Gerais"
+msgstr "Минас-Жерайс"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:854
+#, fuzzy
+msgid "Par&aacute;"
+msgstr "Par&aacute;"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:855
+#, fuzzy
+msgid "Para&iacute;ba"
+msgstr "Para&iacute;ba"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:856
+#, fuzzy
+msgid "Paran&aacute;"
+msgstr "Paran&aacute;"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:857
+msgid "Pernambuco"
+msgstr "Пернамбуку"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:858
+#, fuzzy
+msgid "Piau&iacute;"
+msgstr "Piau&iacute;"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:859
+msgid "Rio de Janeiro"
+msgstr "Рио-де-Жанейро"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:860
+msgid "Rio Grande do Norte"
+msgstr "Риу-Гранди-ду-Норти"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:861
+msgid "Rio Grande do Sul"
+msgstr "Риу-Гранди-ду-Сул"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:862
+#, fuzzy
+msgid "Rond&ocirc;nia"
+msgstr "Rond&ocirc;nia"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:863
+msgid "Roraima"
+msgstr "Рорайма"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:864
+msgid "Santa Catarina"
+msgstr "Санта-Катарина"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:865
+#, fuzzy
+msgid "S&atilde;o Paulo"
+msgstr "S&atilde;o Paulo"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:866
+msgid "Sergipe"
+msgstr "Сержипи"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:867
+msgid "Tocantins"
+msgstr "Токантинс"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:870
+msgid "Alberta"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:871
+msgid "British Columbia"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:872
+msgid "Manitoba"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:873
+msgid "New Brunswick"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:874
+msgid "Newfoundland"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:875
+msgid "Northwest Territories"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:876
+msgid "Nova Scotia"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:877
+msgid "Nunavut"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:878
+msgid "Ontario"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:879
+msgid "Prince Edward Island"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:880
+msgid "Quebec"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:881
+msgid "Saskatchewan"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:882
+msgid "Yukon Territory"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:885
+msgid "Yunnan / &#20113;&#21335;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:886
+msgid "Beijing / &#21271;&#20140;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:887
+msgid "Tianjin / &#22825;&#27941;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:888
+msgid "Hebei / &#27827;&#21271;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:889
+msgid "Shanxi / &#23665;&#35199;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:890
+msgid "Inner Mongolia / &#20839;&#33945;&#21476;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:891
+msgid "Liaoning / &#36797;&#23425;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:892
+msgid "Jilin / &#21513;&#26519;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:893
+msgid "Heilongjiang / &#40657;&#40857;&#27743;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:894
+msgid "Shanghai / &#19978;&#28023;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:895
+msgid "Jiangsu / &#27743;&#33487;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:896
+msgid "Zhejiang / &#27993;&#27743;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:897
+msgid "Anhui / &#23433;&#24509;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:898
+msgid "Fujian / &#31119;&#24314;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:899
+msgid "Jiangxi / &#27743;&#35199;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:900
+msgid "Shandong / &#23665;&#19996;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:901
+msgid "Henan / &#27827;&#21335;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:902
+msgid "Hubei / &#28246;&#21271;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:903
+msgid "Hunan / &#28246;&#21335;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:904
+msgid "Guangdong / &#24191;&#19996;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:905
+msgid "Guangxi Zhuang / &#24191;&#35199;&#22766;&#26063;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:906
+msgid "Hainan / &#28023;&#21335;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:907
+msgid "Chongqing / &#37325;&#24198;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:908
+msgid "Sichuan / &#22235;&#24029;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:909
+msgid "Guizhou / &#36149;&#24030;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:910
+msgid "Shaanxi / &#38485;&#35199;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:911
+msgid "Gansu / &#29976;&#32899;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:912
+msgid "Qinghai / &#38738;&#28023;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:913
+msgid "Ningxia Hui / &#23425;&#22799;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:914
+msgid "Macau / &#28595;&#38376;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:915
+msgid "Tibet / &#35199;&#34255;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:916
+msgid "Xinjiang / &#26032;&#30086;"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:919
+msgid "A Coru&ntilde;a"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:920
+msgid "&Aacute;lava"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:921
+msgid "Albacete"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:922
+msgid "Alicante"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:923
+msgid "Almer&iacute;a"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:924
+msgid "Asturias"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:925
+msgid "&Aacute;vila"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:926
+msgid "Badajoz"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:927
+msgid "Baleares"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:928
+msgid "Barcelona"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:929
+msgid "Burgos"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:930
+msgid "C&aacute;ceres"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:931
+msgid "C&aacute;diz"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:932
+msgid "Cantabria"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:933
+msgid "Castell&oacute;n"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:934
+msgid "Ceuta"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:935
+msgid "Ciudad Real"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:936
+msgid "C&oacute;rdoba"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:937
+msgid "Cuenca"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:938
+msgid "Girona"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:939
+msgid "Granada"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:940
+msgid "Guadalajara"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:941
+msgid "Guip&uacute;zcoa"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:942
+msgid "Huelva"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:943
+msgid "Huesca"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:944
+msgid "Ja&eacute;n"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:945
+msgid "La Rioja"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:946
+msgid "Las Palmas"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:947
+msgid "Le&oacute;n"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:948
+msgid "Lleida"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:949
+msgid "Lugo"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:950
+msgid "Madrid"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:951
+msgid "M&aacute;laga"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:952
+msgid "Melilla"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:953
+msgid "Murcia"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:954
+msgid "Navarra"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:955
+msgid "Ourense"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:956
+msgid "Palencia"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:957
+msgid "Pontevedra"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:958
+msgid "Salamanca"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:959
+msgid "Santa Cruz de Tenerife"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:960
+msgid "Segovia"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:961
+msgid "Sevilla"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:962
+msgid "Soria"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:963
+msgid "Tarragona"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:964
+msgid "Teruel"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:965
+msgid "Toledo"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:966
+msgid "Valencia"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:967
+msgid "Valladolid"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:968
+msgid "Vizcaya"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:969
+msgid "Zamora"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:970
+msgid "Zaragoza"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:973
+msgid "Hong Kong Island"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:974
+msgid "Kowloon"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:975
+msgid "New Territories"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:978
+msgid "Bács-Kiskun"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:979
+msgid "Békés"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:980
+msgid "Baranya"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:981
+msgid "Borsod-Abaúj-Zemplén"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:982
+msgid "Budapest"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:983
+msgid "Csongrád"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:984
+msgid "Fejér"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:985
+msgid "Győr-Moson-Sopron"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:986
+msgid "Hajdú-Bihar"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:987
+msgid "Heves"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:988
+msgid "Jász-Nagykun-Szolnok"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:989
+msgid "Komárom-Esztergom"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:990
+msgid "Nógrád"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:991
+msgid "Pest"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:992
+msgid "Somogy"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:993
+msgid "Szabolcs-Szatmár-Bereg"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:994
+msgid "Tolna"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:995
+msgid "Vas"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:996
+msgid "Veszprém"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:997
+msgid "Zala"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1000
+#: framework/includes/birchpress/util/package.php:1109
+msgid "Auckland"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1001
+#: framework/includes/birchpress/util/package.php:1111
+msgid "Bay of Plenty"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1002
+#: framework/includes/birchpress/util/package.php:1120
+msgid "Canterbury"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1003
+#: framework/includes/birchpress/util/package.php:1113
+msgid "Hawke&rsquo;s Bay"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1004
+#: framework/includes/birchpress/util/package.php:1114
+msgid "Manawatu-Wanganui"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1005
+#: framework/includes/birchpress/util/package.php:1117
+msgid "Marlborough"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1006
+#: framework/includes/birchpress/util/package.php:1116
+msgid "Nelson"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1007
+#: framework/includes/birchpress/util/package.php:1108
+msgid "Northland"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1008
+#: framework/includes/birchpress/util/package.php:1121
+msgid "Otago"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1009
+#: framework/includes/birchpress/util/package.php:1122
+msgid "Southland"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1010
+#: framework/includes/birchpress/util/package.php:1112
+msgid "Taranaki"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1011
+#: framework/includes/birchpress/util/package.php:1118
+msgid "Tasman"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1012
+#: framework/includes/birchpress/util/package.php:1110
+msgid "Waikato"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1013
+#: framework/includes/birchpress/util/package.php:1115
+msgid "Wellington"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1014
+#: framework/includes/birchpress/util/package.php:1119
+msgid "West Coast"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1017
+msgid "Daerah Istimewa Aceh"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1018
+msgid "Sumatera Utara"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1019
+msgid "Sumatera Barat"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1020
+msgid "Riau"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1021
+msgid "Kepulauan Riau"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1022
+msgid "Jambi"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1023
+msgid "Sumatera Selatan"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1024
+msgid "Bangka Belitung"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1025
+msgid "Bengkulu"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1026
+msgid "Lampung"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1027
+msgid "DKI Jakarta"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1028
+msgid "Jawa Barat"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1029
+msgid "Banten"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1030
+msgid "Jawa Tengah"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1031
+msgid "Jawa Timur"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1032
+msgid "Daerah Istimewa Yogyakarta"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1033
+msgid "Bali"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1034
+msgid "Nusa Tenggara Barat"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1035
+msgid "Nusa Tenggara Timur"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1036
+msgid "Kalimantan Barat"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1037
+msgid "Kalimantan Tengah"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1038
+msgid "Kalimantan Timur"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1039
+msgid "Kalimantan Selatan"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1040
+msgid "Kalimantan Utara"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1041
+msgid "Sulawesi Utara"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1042
+msgid "Sulawesi Tengah"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1043
+msgid "Sulawesi Tenggara"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1044
+msgid "Sulawesi Barat"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1045
+msgid "Sulawesi Selatan"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1046
+msgid "Gorontalo"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1047
+msgid "Maluku"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1048
+msgid "Maluku Utara"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1049
+msgid "Papua"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1050
+msgid "Papua Barat"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1053
+msgid "Andra Pradesh"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1054
+msgid "Arunachal Pradesh"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1055
+msgid "Assam"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1056
+msgid "Bihar"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1057
+msgid "Chhattisgarh"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1058
+msgid "Goa"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1059
+msgid "Gujarat"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1060
+msgid "Haryana"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1061
+msgid "Himachal Pradesh"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1062
+msgid "Jammu and Kashmir"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1063
+msgid "Jharkhand"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1064
+msgid "Karnataka"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1065
+msgid "Kerala"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1066
+msgid "Madhya Pradesh"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1067
+msgid "Maharashtra"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1068
+msgid "Manipur"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1069
+msgid "Meghalaya"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1070
+msgid "Mizoram"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1071
+msgid "Nagaland"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1072
+msgid "Orissa"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1073
+msgid "Punjab"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1074
+msgid "Rajasthan"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1075
+msgid "Sikkim"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1076
+msgid "Tamil Nadu"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1077
+msgid "Tripura"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1078
+msgid "Uttaranchal"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1079
+msgid "Uttar Pradesh"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1080
+msgid "West Bengal"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1081
+msgid "Andaman and Nicobar Islands"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1082
+msgid "Chandigarh"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1083
+msgid "Dadar and Nagar Haveli"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1084
+msgid "Daman and Diu"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1085
+msgid "Delhi"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1086
+msgid "Lakshadeep"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1087
+msgid "Pondicherry (Puducherry)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1090
+msgid "Johor"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1091
+msgid "Kedah"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1092
+msgid "Kelantan"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1093
+msgid "Melaka"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1094
+msgid "Negeri Sembilan"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1095
+msgid "Pahang"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1096
+msgid "Perak"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1097
+msgid "Perlis"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1098
+msgid "Pulau Pinang"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1099
+msgid "Sabah"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1100
+msgid "Sarawak"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1101
+msgid "Selangor"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1102
+msgid "Terengganu"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1103
+msgid "W.P. Kuala Lumpur"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1104
+msgid "W.P. Labuan"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1105
+msgid "W.P. Putrajaya"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1125
+msgid ""
+"Amnat Charoen (&#3629;&#3635;&#3609;&#3634;&#3592;&#3648;&#3592;&#3619;"
+"&#3636;&#3597;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1126
+msgid "Ang Thong (&#3629;&#3656;&#3634;&#3591;&#3607;&#3629;&#3591;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1127
+msgid ""
+"Ayutthaya (&#3614;&#3619;&#3632;&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;"
+"&#3629;&#3618;&#3640;&#3608;&#3618;&#3634;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1128
+msgid ""
+"Bangkok (&#3585;&#3619;&#3640;&#3591;&#3648;&#3607;&#3614;&#3617;&#3627;"
+"&#3634;&#3609;&#3588;&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1129
+msgid "Bueng Kan (&#3610;&#3638;&#3591;&#3585;&#3634;&#3628;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1130
+msgid ""
+"Buri Ram (&#3610;&#3640;&#3619;&#3637;&#3619;&#3633;&#3617;&#3618;&#3660;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1131
+msgid ""
+"Chachoengsao (&#3593;&#3632;&#3648;&#3594;&#3636;&#3591;&#3648;&#3607;&#3619;"
+"&#3634;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1132
+msgid "Chai Nat (&#3594;&#3633;&#3618;&#3609;&#3634;&#3607;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1133
+msgid "Chaiyaphum (&#3594;&#3633;&#3618;&#3616;&#3641;&#3617;&#3636;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1134
+msgid "Chanthaburi (&#3592;&#3633;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1135
+msgid ""
+"Chiang Mai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3651;&#3627;&#3617;&#3656;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1136
+msgid "Chiang Rai (&#3648;&#3594;&#3637;&#3618;&#3591;&#3619;&#3634;&#3618;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1137
+msgid "Chonburi (&#3594;&#3621;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1138
+msgid "Chumphon (&#3594;&#3640;&#3617;&#3614;&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1139
+msgid ""
+"Kalasin (&#3585;&#3634;&#3628;&#3626;&#3636;&#3609;&#3608;&#3640;&#3660;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1140
+msgid ""
+"Kamphaeng Phet (&#3585;&#3635;&#3649;&#3614;&#3591;&#3648;&#3614;&#3594;"
+"&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1141
+msgid ""
+"Kanchanaburi (&#3585;&#3634;&#3597;&#3592;&#3609;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1142
+msgid "Khon Kaen (&#3586;&#3629;&#3609;&#3649;&#3585;&#3656;&#3609;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1143
+msgid "Krabi (&#3585;&#3619;&#3632;&#3610;&#3637;&#3656;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1144
+msgid "Lampang (&#3621;&#3635;&#3611;&#3634;&#3591;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1145
+msgid "Lamphun (&#3621;&#3635;&#3614;&#3641;&#3609;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1146
+msgid "Loei (&#3648;&#3621;&#3618;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1147
+msgid "Lopburi (&#3621;&#3614;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1148
+msgid ""
+"Mae Hong Son (&#3649;&#3617;&#3656;&#3630;&#3656;&#3629;&#3591;&#3626;&#3629;"
+"&#3609;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1149
+msgid ""
+"Maha Sarakham (&#3617;&#3627;&#3634;&#3626;&#3634;&#3619;&#3588;&#3634;"
+"&#3617;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1150
+msgid "Mukdahan (&#3617;&#3640;&#3585;&#3604;&#3634;&#3627;&#3634;&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1151
+msgid "Nakhon Nayok (&#3609;&#3588;&#3619;&#3609;&#3634;&#3618;&#3585;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1152
+msgid "Nakhon Pathom (&#3609;&#3588;&#3619;&#3611;&#3600;&#3617;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1153
+msgid "Nakhon Phanom (&#3609;&#3588;&#3619;&#3614;&#3609;&#3617;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1154
+msgid ""
+"Nakhon Ratchasima (&#3609;&#3588;&#3619;&#3619;&#3634;&#3594;&#3626;&#3637;"
+"&#3617;&#3634;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1155
+msgid ""
+"Nakhon Sawan (&#3609;&#3588;&#3619;&#3626;&#3623;&#3619;&#3619;&#3588;"
+"&#3660;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1156
+msgid ""
+"Nakhon Si Thammarat (&#3609;&#3588;&#3619;&#3624;&#3619;&#3637;&#3608;&#3619;"
+"&#3619;&#3617;&#3619;&#3634;&#3594;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1157
+msgid "Nan (&#3609;&#3656;&#3634;&#3609;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1158
+msgid "Narathiwat (&#3609;&#3619;&#3634;&#3608;&#3636;&#3623;&#3634;&#3626;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1159
+msgid ""
+"Nong Bua Lam Phu (&#3627;&#3609;&#3629;&#3591;&#3610;&#3633;&#3623;&#3621;"
+"&#3635;&#3616;&#3641;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1160
+msgid "Nong Khai (&#3627;&#3609;&#3629;&#3591;&#3588;&#3634;&#3618;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1161
+msgid "Nonthaburi (&#3609;&#3609;&#3607;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1162
+msgid "Pathum Thani (&#3611;&#3607;&#3640;&#3617;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1163
+msgid "Pattani (&#3611;&#3633;&#3605;&#3605;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1164
+msgid "Phang Nga (&#3614;&#3633;&#3591;&#3591;&#3634;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1165
+msgid "Phatthalung (&#3614;&#3633;&#3607;&#3621;&#3640;&#3591;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1166
+msgid "Phayao (&#3614;&#3632;&#3648;&#3618;&#3634;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1167
+msgid ""
+"Phetchabun (&#3648;&#3614;&#3594;&#3619;&#3610;&#3641;&#3619;&#3603;&#3660;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1168
+msgid "Phetchaburi (&#3648;&#3614;&#3594;&#3619;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1169
+msgid "Phichit (&#3614;&#3636;&#3592;&#3636;&#3605;&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1170
+msgid "Phitsanulok (&#3614;&#3636;&#3625;&#3603;&#3640;&#3650;&#3621;&#3585;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1171
+msgid "Phrae (&#3649;&#3614;&#3619;&#3656;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1172
+msgid "Phuket (&#3616;&#3641;&#3648;&#3585;&#3655;&#3605;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1173
+msgid ""
+"Prachin Buri (&#3611;&#3619;&#3634;&#3592;&#3637;&#3609;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1174
+msgid ""
+"Prachuap Khiri Khan (&#3611;&#3619;&#3632;&#3592;&#3623;&#3610;&#3588;&#3637;"
+"&#3619;&#3637;&#3586;&#3633;&#3609;&#3608;&#3660;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1175
+msgid "Ranong (&#3619;&#3632;&#3609;&#3629;&#3591;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1176
+msgid "Ratchaburi (&#3619;&#3634;&#3594;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1177
+msgid "Rayong (&#3619;&#3632;&#3618;&#3629;&#3591;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1178
+msgid "Roi Et (&#3619;&#3657;&#3629;&#3618;&#3648;&#3629;&#3655;&#3604;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1179
+msgid "Sa Kaeo (&#3626;&#3619;&#3632;&#3649;&#3585;&#3657;&#3623;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1180
+msgid "Sakon Nakhon (&#3626;&#3585;&#3621;&#3609;&#3588;&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1181
+msgid ""
+"Samut Prakan (&#3626;&#3617;&#3640;&#3607;&#3619;&#3611;&#3619;&#3634;&#3585;"
+"&#3634;&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1182
+msgid ""
+"Samut Sakhon (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3634;&#3588;"
+"&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1183
+msgid ""
+"Samut Songkhram (&#3626;&#3617;&#3640;&#3607;&#3619;&#3626;&#3591;&#3588;"
+"&#3619;&#3634;&#3617;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1184
+msgid "Saraburi (&#3626;&#3619;&#3632;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1185
+msgid "Satun (&#3626;&#3605;&#3641;&#3621;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1186
+msgid ""
+"Sing Buri (&#3626;&#3636;&#3591;&#3627;&#3660;&#3610;&#3640;&#3619;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1187
+msgid "Sisaket (&#3624;&#3619;&#3637;&#3626;&#3632;&#3648;&#3585;&#3625;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1188
+msgid "Songkhla (&#3626;&#3591;&#3586;&#3621;&#3634;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1189
+msgid "Sukhothai (&#3626;&#3640;&#3650;&#3586;&#3607;&#3633;&#3618;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1190
+msgid ""
+"Suphan Buri (&#3626;&#3640;&#3614;&#3619;&#3619;&#3603;&#3610;&#3640;&#3619;"
+"&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1191
+msgid ""
+"Surat Thani (&#3626;&#3640;&#3619;&#3634;&#3625;&#3598;&#3619;&#3660;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1192
+msgid "Surin (&#3626;&#3640;&#3619;&#3636;&#3609;&#3607;&#3619;&#3660;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1193
+msgid "Tak (&#3605;&#3634;&#3585;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1194
+msgid "Trang (&#3605;&#3619;&#3633;&#3591;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1195
+msgid "Trat (&#3605;&#3619;&#3634;&#3604;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1196
+msgid ""
+"Ubon Ratchathani (&#3629;&#3640;&#3610;&#3621;&#3619;&#3634;&#3594;&#3608;"
+"&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1197
+msgid "Udon Thani (&#3629;&#3640;&#3604;&#3619;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1198
+msgid ""
+"Uthai Thani (&#3629;&#3640;&#3607;&#3633;&#3618;&#3608;&#3634;&#3609;&#3637;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1199
+msgid ""
+"Uttaradit (&#3629;&#3640;&#3605;&#3619;&#3604;&#3636;&#3605;&#3606;&#3660;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1200
+msgid "Yala (&#3618;&#3632;&#3621;&#3634;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1201
+msgid "Yasothon (&#3618;&#3650;&#3626;&#3608;&#3619;)"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1204
+msgid "Eastern Cape"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1205
+msgid "Free State"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1206
+msgid "Gauteng"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1207
+msgid "KwaZulu-Natal"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1208
+msgid "Limpopo"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1209
+msgid "Mpumalanga"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1210
+msgid "Northern Cape"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1211
+msgid "North West"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1212
+msgid "Western Cape"
+msgstr ""
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1219
+msgid "U.S. Dollar"
+msgstr "Амер. доллар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1220
+msgid "Euro"
+msgstr "Евро"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1221
+msgid "Pounds Sterling"
+msgstr "Фунты стерлингов"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1222
+msgid "Australian Dollar"
+msgstr "Австралийский доллар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1223
+msgid "Bahraini dinar"
+msgstr "Бахрейнский динар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1224
+msgid "Brazilian Real"
+msgstr "Бразильский реал"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1225
+msgid "Canadian Dollar"
+msgstr "Канадский доллар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1226
+msgid "Chinese RMB"
+msgstr "Китайский юань"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1227
+msgid "Czech Koruna"
+msgstr "Чешская крона"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1228
+msgid "Danish Krone"
+msgstr "Датская крона"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1229
+msgid "Hong Kong Dollar"
+msgstr "ГонГонконгский Доллар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1230
+msgid "Hungarian Forint"
+msgstr "Венгерский форинт"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1231
+msgid "Indian Rupee"
+msgstr "Индийская рупия"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1232
+msgid "Israeli New Shekel"
+msgstr "Израильский новый шекель"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1233
+msgid "Japanese Yen"
+msgstr "Японская йена"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1234
+msgid "Malaysian Ringgit"
+msgstr "Малазийский Ринггит"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1235
+msgid "Mexican Peso"
+msgstr "Мексиканский песо"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1236
+msgid "New Zealand Dollar"
+msgstr "НовоЗеландский доллар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1237
+msgid "Norwegian Krone"
+msgstr "Норвежская крона"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1238
+msgid "Philippine Peso"
+msgstr "Филиппинский песо"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1239
+msgid "Polish Zloty"
+msgstr "Польские злотые"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1240
+msgid "Romanian leu"
+msgstr "Румынский лев"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1241
+msgid "Singapore Dollar"
+msgstr "Сингапурский доллар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1242
+msgid "South Africa Rand"
+msgstr "Южноафриканский рэнд"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1243
+msgid "Swedish Krona"
+msgstr "Шведская крона"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1244
+msgid "Swiss Franc"
+msgstr "Швейцарский франк"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1245
+msgid "Taiwan New Dollar"
+msgstr "Тайваньский доллар"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1246
+msgid "Thai Baht"
+msgstr "Тайский бат"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1247
+msgid "Turkish Lira"
+msgstr "Турецкая лира"
+
+# @ birchschedule
+#: framework/includes/birchpress/util/package.php:1248
+msgid "United Arab Emirates Dirham"
+msgstr "ОАЭ драхм"
+
+# @ birchschedule
+#: includes/model/booking/package.php:51
+#, php-format
+msgid "%s Clients"
+msgstr "%s Клиенты"
+
+# @ birchschedule
+#: includes/model/booking/package.php:367
+#: includes/model/booking/package.php:387
+#: includes/model/booking/package.php:423
+#: includes/model/booking/package.php:702
+#: includes/model/booking/package.php:731
+#: includes/model/booking/package.php:777
+#: includes/model/booking/package.php:794
+#: includes/model/booking/package.php:935
+msgid "The appointment does not exist."
+msgstr "Бронирование не существует."
+
+# @ birchschedule
+#: includes/model/booking/package.php:966
+msgid "Credit Card"
+msgstr "Кредитная карта"
+
+# @ birchschedule
+#: includes/model/booking/package.php:967
+msgid "Cash"
+msgstr "Наличные"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/cancel/package.php:37
+#: includes/view/appointments/edit/clientlist/edit/package.php:172
+#: includes/view/appointments/edit/clientlist/payments/package.php:353
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:175
+#: modules/fbuilder/field/package.php:284 modules/gbooking/package.php:255
+msgid "Cancel"
+msgstr "Отменить"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:60
+#: includes/view/appointments/edit/clientlist/payments/package.php:41
+#: includes/view/appointments/package.php:26
+#: includes/view/appointments/package.php:59
+#: includes/view/clients/package.php:46 includes/view/locations/package.php:40
+#: includes/view/services/package.php:40 includes/view/staff/package.php:45
+#: modules/fbuilder/field/package.php:342 modules/wcredit/package.php:128
+msgid "Edit"
+msgstr "Изменить"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:128
+#: includes/view/clients/package.php:211
+msgid "Email already exists."
+msgstr "Email уже существует."
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:136
+#: includes/view/appointments/edit/clientlist/edit/package.php:139
+#: includes/view/appointments/edit/clientlist/edit/package.php:147
+#: includes/view/appointments/new/package.php:331
+#: includes/view/appointments/new/package.php:334
+#: includes/view/appointments/new/package.php:342
+#: modules/fbuilder/field/address/package.php:69
+#: modules/fbuilder/field/package.php:294
+msgid "This field is required"
+msgstr "Это поле обязательно для заполнения"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:142
+#: includes/view/appointments/new/package.php:337
+#: includes/view/bookingform/package.php:220
+#: modules/fbuilder/field/clientemail/package.php:41
+msgid "Email is required"
+msgstr "Укажите email"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:144
+#: includes/view/appointments/new/package.php:339
+#: includes/view/bookingform/package.php:222
+msgid "Email is incorrect"
+msgstr "Email не корректен"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:168
+#: includes/view/package.php:303 modules/fbuilder/field/package.php:283
+#: modules/gbooking/package.php:251
+msgid "Save"
+msgstr "Сохранить"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:184
+#: includes/view/clients/package.php:47
+msgid "Edit Client"
+msgstr "Изменить клиента"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:230
+#: includes/view/appointments/edit/clientlist/payments/package.php:235
+#: includes/view/bookingform/package.php:615
+#: modules/fbuilder/upgrader/package.php:36 modules/wcredit/package.php:203
+msgid "Notes"
+msgstr "Заметки"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:274
+#: includes/view/clients/package.php:258
+#: modules/fbuilder/upgrader/package.php:59
+msgid "Title"
+msgstr "Заголовок"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:285
+#: includes/view/bookingform/package.php:616
+#: includes/view/clients/package.php:268
+#: modules/fbuilder/upgrader/package.php:69
+msgid "First Name"
+msgstr "Имя"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:294
+#: includes/view/bookingform/package.php:617
+#: includes/view/clients/package.php:275
+#: modules/fbuilder/upgrader/package.php:77
+msgid "Last Name"
+msgstr "Фамилия"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:303
+#: includes/view/bookingform/package.php:618
+#: includes/view/clients/package.php:117 includes/view/clients/package.php:291
+#: modules/fbuilder/package.php:22 modules/fbuilder/upgrader/package.php:85
+msgid "Email"
+msgstr "Email"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:312
+#: includes/view/bookingform/package.php:619
+#: includes/view/clients/package.php:116
+#: modules/fbuilder/upgrader/package.php:104
+msgid "Phone"
+msgstr "Телефон"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:321
+#: includes/view/clients/package.php:118 includes/view/clients/package.php:299
+#: includes/view/locations/package.php:76
+#: includes/view/locations/package.php:206
+#: modules/fbuilder/upgrader/package.php:112
+msgid "Address"
+msgstr "Адрес"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:332
+#: includes/view/clients/package.php:311
+#: includes/view/locations/package.php:77
+#: includes/view/locations/package.php:216
+#: modules/fbuilder/upgrader/package.php:120
+msgid "City"
+msgstr "Город"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:341
+#: includes/view/clients/package.php:319
+#: includes/view/locations/package.php:78
+#: includes/view/locations/package.php:223
+#: modules/fbuilder/upgrader/package.php:128
+msgid "State/Province"
+msgstr "Область"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:357
+#: includes/view/clients/package.php:334
+#: includes/view/locations/package.php:233
+#: modules/fbuilder/upgrader/package.php:136
+msgid "Country"
+msgstr "Страна"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/edit/package.php:368
+#: includes/view/clients/package.php:343
+#: includes/view/locations/package.php:241
+#: modules/fbuilder/upgrader/package.php:146
+msgid "Zip Code"
+msgstr "Индекс"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/package.php:52
+#: includes/view/appointments/new/package.php:244
+#: includes/view/clients/package.php:107
+msgid "Client Info"
+msgstr "Информация о клиенте"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:37
+#: includes/view/appointments/edit/clientlist/payments/package.php:105
+#: modules/ppayment/package.php:94
+msgid "Payments"
+msgstr "Платежи"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:38
+#: includes/view/appointments/package.php:23
+msgid "Appointment"
+msgstr "Бронирование"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:39
+#: includes/view/appointments/edit/clientlist/payments/package.php:269
+#: includes/view/appointments/edit/clientlist/payments/package.php:350
+msgid "Add Payment"
+msgstr "Добавить платеж"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:40
+msgid "Add New Payment"
+msgstr "Добавить новый платеж"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:42
+msgid "Edit Payment"
+msgstr "Изменить платеж"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:43
+msgid "New Payment"
+msgstr "Новые платеж"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:44
+#: includes/view/appointments/edit/clientlist/payments/package.php:45
+msgid "View Payment"
+msgstr "Просмотреть платеж"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:46
+msgid "Search Payments"
+msgstr "Поиск платежей"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:47
+msgid "No Payments found"
+msgstr "Платежи не найдены"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:48
+msgid "No Payments found in trash"
+msgstr "В \"корзине\" платежи не найдены"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:49
+msgid "Parent Payment"
+msgstr "Родительский платеж"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:51
+msgid "This is where payments are stored."
+msgstr "Вот, где платежи хранятся."
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:205
+msgid "Back"
+msgstr "Назад"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:211
+#: includes/view/appointments/edit/clientlist/payments/package.php:279
+#: includes/view/services/package.php:220
+msgid "Price"
+msgstr "Цена"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:216
+#: includes/view/appointments/edit/clientlist/payments/package.php:291
+msgid "Paid"
+msgstr "Оплаченный"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:219
+#: includes/view/appointments/edit/clientlist/payments/package.php:302
+msgid "Due"
+msgstr "Ожидаемый"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:225
+msgid "Payment History"
+msgstr "Платежная история"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:232
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:239
+#: includes/view/appointments/edit/package.php:254
+#: includes/view/appointments/new/package.php:205
+#: includes/view/bookingform/package.php:613
+#: modules/fbuilder/field/appointmentsection/package.php:126
+#: modules/fbuilder/upgrader/package.php:203
+#: modules/fbuilder/upgrader/package.php:310 modules/wcredit/package.php:201
+msgid "Date"
+msgstr "Дата"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:233
+#: modules/wcredit/package.php:202
+msgid "Amount"
+msgstr "Сумма"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:234
+msgid "Type"
+msgstr "Тип"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:316
+msgid "Amount to Pay"
+msgstr "Сумма к оплате"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:326
+msgid "Payment Type"
+msgstr "Тип оплаты"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:336
+msgid "Payment Notes"
+msgstr "Комментарии к оплате"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/payments/package.php:391
+#: modules/cintegration/package.php:726 modules/fbuilder/field/package.php:346
+#: modules/fbuilder/field/selectable/package.php:86
+#: modules/wintegration/package.php:363
+msgid "Delete"
+msgstr "Удалить"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:59
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:151
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:171
+#: includes/view/package.php:314 modules/aportal/package.php:648
+msgid "Reschedule"
+msgstr "Перенести"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:85
+msgid "Please select a provider"
+msgstr "Пожалуйста, выберите поставщика услуги"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:88
+#: includes/view/appointments/new/package.php:309
+#: includes/view/bookingform/package.php:192 modules/aportal/package.php:709
+msgid "Date is required"
+msgstr "Укажите дату"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:91
+#: includes/view/appointments/new/package.php:312
+#: includes/view/bookingform/package.php:195
+#: includes/view/bookingform/package.php:236 modules/aportal/package.php:712
+msgid "Time is required"
+msgstr "Укажите время"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:101
+#: includes/view/appointments/new/package.php:322
+#: includes/view/bookingform/package.php:205
+msgid "Date & time is incorrect"
+msgstr "Дата и время не корректны"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:206
+#: includes/view/appointments/edit/package.php:230
+#: includes/view/appointments/new/package.php:174
+#: includes/view/bookingform/package.php:301
+#: includes/view/bookingform/package.php:558
+#: includes/view/bookingform/package.php:610
+#: includes/view/locations/package.php:37
+#: modules/fbuilder/field/appointmentsection/package.php:114
+#: modules/fbuilder/upgrader/package.php:27
+#: modules/fbuilder/upgrader/package.php:373
+#: modules/ppayment/upgrader/package.php:48
+msgid "Location"
+msgstr "Место"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:217
+#: includes/view/appointments/edit/package.php:238
+#: includes/view/appointments/new/package.php:184
+#: includes/view/bookingform/package.php:305
+#: includes/view/bookingform/package.php:562
+#: includes/view/bookingform/package.php:611
+#: includes/view/services/package.php:37
+#: modules/fbuilder/field/appointmentsection/package.php:118
+#: modules/fbuilder/upgrader/package.php:28
+#: modules/fbuilder/upgrader/package.php:374
+#: modules/ppayment/upgrader/package.php:52
+msgid "Service"
+msgstr "Услуга"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:228
+#: includes/view/appointments/edit/package.php:246
+#: includes/view/appointments/new/package.php:194
+#: includes/view/bookingform/package.php:612
+#: includes/view/staff/package.php:42
+#: modules/fbuilder/field/appointmentsection/package.php:122
+#: modules/fbuilder/upgrader/package.php:29
+#: modules/fbuilder/upgrader/package.php:375
+#: modules/ppayment/upgrader/package.php:56
+msgid "Provider"
+msgstr "Поставщик услуги"
+
+# @ birchschedule
+#: includes/view/appointments/edit/clientlist/reschedule/package.php:249
+#: includes/view/appointments/edit/package.php:264
+#: includes/view/appointments/new/package.php:216
+#: includes/view/bookingform/package.php:309
+#: includes/view/bookingform/package.php:566
+#: includes/view/bookingform/package.php:614
+#: modules/fbuilder/field/appointmentsection/package.php:130
+#: modules/fbuilder/upgrader/package.php:204
+#: modules/fbuilder/upgrader/package.php:311
+#: modules/ppayment/upgrader/package.php:60
+msgid "Time"
+msgstr "Время"
+
+# @ birchschedule
+#: includes/view/appointments/edit/package.php:134
+#: includes/view/appointments/new/package.php:134
+#: includes/view/bookingform/package.php:631
+#: modules/fbuilder/field/appointmentsection/package.php:110
+#: modules/fbuilder/upgrader/package.php:21
+#: modules/fbuilder/upgrader/package.php:367
+#: modules/wintegration/wc/package.php:556
+msgid "Appointment Info"
+msgstr "Информация о бронировании"
+
+# @ birchschedule
+#: includes/view/appointments/edit/package.php:136
+#: includes/view/appointments/new/package.php:136
+msgid "Actions"
+msgstr "Действия"
+
+# @ birchschedule
+#: includes/view/appointments/edit/package.php:161
+#: includes/view/appointments/new/package.php:293
+msgid "Back to Calendar"
+msgstr "Назад к календарю"
+
+# @ birchschedule
+#: includes/view/appointments/new/package.php:260
+#: modules/enotification/package.php:340 modules/gbooking/package.php:230
+msgid "Additional Info"
+msgstr "Дополнительная информация"
+
+# @ birchschedule
+#: includes/view/appointments/new/package.php:270
+#: includes/view/bookingform/package.php:715 includes/view/package.php:304
+#: modules/fbuilder/field/submit/package.php:128
+#: modules/gbooking/package.php:240 modules/wintegration/wc/package.php:733
+msgid "Please wait..."
+msgstr "Пожалуйста, подождите..."
+
+# @ birchschedule
+#: includes/view/appointments/new/package.php:278
+#: includes/view/package.php:305
+msgid "Schedule"
+msgstr "График"
+
+# @ birchschedule
+#: includes/view/appointments/new/package.php:306
+#: includes/view/bookingform/package.php:189
+msgid "Please select a service and a provider"
+msgstr "Пожалуйста, выберите услугу и кто ее предоставит"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:22 modules/cmanager/package.php:20
+msgid "Appointments"
+msgstr "Бронирования"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:24
+#: includes/view/appointments/package.php:25
+#: includes/view/appointments/package.php:28
+#: includes/view/calendar/package.php:239
+#: modules/enotification/package.php:443
+msgid "New Appointment"
+msgstr "Новое бронирование"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:27
+msgid "Edit Appointment"
+msgstr "Изменить бронирование"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:29
+#: includes/view/appointments/package.php:30
+msgid "View Appointment"
+msgstr "Посмотреть бронирование"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:31
+msgid "Search Appointments"
+msgstr "Поиск бронирований"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:32
+msgid "No Appointments found"
+msgstr "Бронирований не найдено"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:33
+msgid "No Appointments found in trash"
+msgstr "В \"корзине\" бронирования не найдены"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:34
+msgid "Parent Appointment"
+msgstr "Родительское бронирование"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:36
+msgid "This is where appointments are stored."
+msgstr "Вот, где бронирования хранятся."
+
+# @ birchschedule
+#: includes/view/appointments/package.php:55
+msgid "One-on-one appointments"
+msgstr "Бронирования \"один-на-один\""
+
+# @ birchschedule
+#: includes/view/appointments/package.php:56
+msgid "One-on-one appointment"
+msgstr "Бронирование \"один-на-один\""
+
+# @ birchschedule
+#: includes/view/appointments/package.php:57
+#: includes/view/appointments/package.php:58
+#: includes/view/appointments/package.php:61
+msgid "New One-on-one Appointment"
+msgstr "Новое бронирование \"один-на-один\""
+
+# @ birchschedule
+#: includes/view/appointments/package.php:60
+msgid "Edit One-on-one Appointment"
+msgstr "Изменить бронирование \"один-на-один\""
+
+# @ birchschedule
+#: includes/view/appointments/package.php:62
+#: includes/view/appointments/package.php:63
+msgid "View One-on-one Appointment"
+msgstr "Посмотреть бронирование \"один-на-один\""
+
+# @ birchschedule
+#: includes/view/appointments/package.php:64
+msgid "Search One-on-one Appointments"
+msgstr "Поиск бронирований \"один-на-один\""
+
+# @ birchschedule
+#: includes/view/appointments/package.php:65
+msgid "No One-on-one Appointments found"
+msgstr "Бронирований \"один-на-один\" не найдено"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:66
+msgid "No One-on-one Appointments found in trash"
+msgstr "В \"корзине\" бронирования \"один-на-один\" не найдены"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:67
+msgid "Parent One-on-one Appointment"
+msgstr "Родительское бронирование \"один-на-один\""
+
+# @ birchschedule
+#: includes/view/appointments/package.php:69
+msgid "This is where one-on-one appointments are stored."
+msgstr "Вот, где бронирования \"один-на-один\" хранятся."
+
+# @ birchschedule
+#: includes/view/appointments/package.php:93
+#: includes/view/appointments/package.php:96
+#: includes/view/appointments/package.php:98
+msgid "Appointment updated."
+msgstr "Бронирование обновлено."
+
+# @ birchschedule
+#: includes/view/appointments/package.php:94
+#: includes/view/clients/package.php:146
+#: includes/view/locations/package.php:88
+#: includes/view/services/package.php:126 includes/view/staff/package.php:126
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+# @ birchschedule
+#: includes/view/appointments/package.php:95
+#: includes/view/clients/package.php:147
+#: includes/view/locations/package.php:89
+#: includes/view/services/package.php:127 includes/view/staff/package.php:127
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено."
+
+# @ birchschedule
+#: includes/view/appointments/package.php:97
+#, php-format
+msgid "Appointment restored to revision from %s"
+msgstr "Бронирование восстановлено к редакции от %s"
+
+# @ birchschedule
+#: includes/view/appointments/package.php:99
+msgid "Appointment saved."
+msgstr "Бронирование сохранено."
+
+# @ birchschedule
+#: includes/view/appointments/package.php:100
+msgid "Appointment submitted."
+msgstr "Бронирование предоставлено."
+
+# @ birchschedule
+#: includes/view/appointments/package.php:101
+#, php-format
+msgid "Appointment scheduled for: <strong>%1$s</strong>."
+msgstr "Бронирование запланировано на: <strong>%1$s</strong>."
+
+# @ birchschedule
+#: includes/view/appointments/package.php:102
+msgid "Appointment draft updated."
+msgstr "Черновик бронирования обновлен."
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:214
+msgid "First name is required"
+msgstr "Укажите имя"
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:217
+msgid "Last name is required"
+msgstr "Укажите фамилию"
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:225
+msgid "Phone is required"
+msgstr "Укажите телефон"
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:245
+msgid "Time is unavailable"
+msgstr "Время недоступно"
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:294 modules/eadmin/package.php:156
+msgid "Duration"
+msgstr "Продолжительность"
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:294 modules/eadmin/package.php:191
+msgid "mins"
+msgstr "мин"
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:297
+#: includes/view/bookingform/package.php:554
+msgid "Your appointment has been booked successfully."
+msgstr "Ваше бронирование прошло успешно."
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:388
+msgid "Please refresh the page and book again."
+msgstr "Пожалуйста, обновите страницу и забронируйте снова."
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:443
+msgid "Please select time..."
+msgstr "Пожалуйста, выберите время..."
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:549
+msgid "Your appointment has not been booked successfully due to some errors."
+msgstr "Ваше бронирование не завершено из-за некоторых ошибок."
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:679
+#: modules/fbuilder/field/clientsection/package.php:157
+#: modules/fbuilder/upgrader/package.php:44
+#: modules/fbuilder/upgrader/package.php:384
+msgid "Your Info"
+msgstr "Информация о Вас"
+
+# @ birchschedule
+#: includes/view/bookingform/package.php:717
+#: modules/fbuilder/field/submit/package.php:51
+#: modules/fbuilder/upgrader/package.php:154
+msgid "Submit"
+msgstr "Отправить"
+
+# @ birchschedule
+#: includes/view/calendar/package.php:249
+msgid "Today"
+msgstr "Сегодня"
+
+# @ birchschedule
+#: includes/view/clients/package.php:42
+msgid "Clients"
+msgstr "Клиенты"
+
+# @ birchschedule
+#: includes/view/clients/package.php:43
+msgid "Client"
+msgstr "Клиент"
+
+# @ birchschedule
+#: includes/view/clients/package.php:44
+msgid "Add Client"
+msgstr "Добавить клиента"
+
+# @ birchschedule
+#: includes/view/clients/package.php:45
+msgid "Add New Client"
+msgstr "Добавить нового клиента"
+
+# @ birchschedule
+#: includes/view/clients/package.php:48
+msgid "New Client"
+msgstr "Новый клиент"
+
+# @ birchschedule
+#: includes/view/clients/package.php:49 includes/view/clients/package.php:50
+msgid "View Client"
+msgstr "Посмотреть клиента"
+
+# @ birchschedule
+#: includes/view/clients/package.php:51
+msgid "Search Clients"
+msgstr "Поиск клиентов"
+
+# @ birchschedule
+#: includes/view/clients/package.php:52
+msgid "No Clients found"
+msgstr "Клиенты не найдены"
+
+# @ birchschedule
+#: includes/view/clients/package.php:53
+msgid "No Clients found in trash"
+msgstr "В \"корзине\" клиенты не найдены"
+
+# @ birchschedule
+#: includes/view/clients/package.php:54
+msgid "Parent Client"
+msgstr "Родительский клиент"
+
+# @ birchschedule
+#: includes/view/clients/package.php:56
+msgid "This is where clients are stored."
+msgstr "Вот, где клиенты хранятся."
+
+# @ birchschedule
+#: includes/view/clients/package.php:115
+msgid "Client Name"
+msgstr "Имя клиента"
+
+# @ birchschedule
+#: includes/view/clients/package.php:145 includes/view/clients/package.php:148
+#: includes/view/clients/package.php:150
+msgid "Client updated."
+msgstr "Клиент обновлен."
+
+# @ birchschedule
+#: includes/view/clients/package.php:149
+#, php-format
+msgid "Client restored to revision from %s"
+msgstr "Клиент восстановлен к редакции от %s"
+
+# @ birchschedule
+#: includes/view/clients/package.php:151
+msgid "Client saved."
+msgstr "Клиент сохранен."
+
+# @ birchschedule
+#: includes/view/clients/package.php:152
+msgid "Client submitted."
+msgstr "Клиент предоставлен."
+
+# @ birchschedule
+#: includes/view/clients/package.php:153
+#, php-format
+msgid "Client scheduled for: <strong>%1$s</strong>."
+msgstr "Клиент записан на: <strong>%1$s</strong>."
+
+# @ birchschedule
+#: includes/view/clients/package.php:154
+msgid "Client draft updated."
+msgstr "Черновик клиента обновлен."
+
+# @ birchschedule
+#: includes/view/clients/package.php:208
+msgid "The email address isn’t correct."
+msgstr "Email не корректен."
+
+# @ birchschedule
+#: includes/view/clients/package.php:282
+#: includes/view/locations/package.php:199
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+# @ birchschedule
+#: includes/view/help/package.php:48
+msgid "Help and Support"
+msgstr "Помощь и Поддержка"
+
+# @ birchschedule
+#: includes/view/help/package.php:51
+msgid "Versions"
+msgstr "Версии"
+
+# @ birchschedule
+#: includes/view/help/package.php:56
+msgid "Tools"
+msgstr "Сервис"
+
+# @ default
+#: includes/view/help/package.php:107
+msgid "Run PHP scripts. This is only for advanced users."
+msgstr "Запустить PHP скрипты. Только для продвинутых пользователей."
+
+# @ birchschedule
+#: includes/view/help/package.php:114
+msgid "Run"
+msgstr "Запустить"
+
+# @ birchschedule
+#: includes/view/locations/package.php:36 modules/lbservices/package.php:41
+#: modules/wintegration/package.php:374
+msgid "Locations"
+msgstr "Места"
+
+# @ birchschedule
+#: includes/view/locations/package.php:38
+msgid "Add Location"
+msgstr "Добавить место"
+
+# @ birchschedule
+#: includes/view/locations/package.php:39
+msgid "Add New Location"
+msgstr "Добавить новое место"
+
+# @ birchschedule
+#: includes/view/locations/package.php:41
+msgid "Edit Location"
+msgstr "Изменить место"
+
+# @ birchschedule
+#: includes/view/locations/package.php:42
+msgid "New Location"
+msgstr "Новое место"
+
+# @ birchschedule
+#: includes/view/locations/package.php:43
+#: includes/view/locations/package.php:44
+msgid "View Location"
+msgstr "Посмотреть место"
+
+# @ birchschedule
+#: includes/view/locations/package.php:45
+msgid "Search Locations"
+msgstr "Поиск мест"
+
+# @ birchschedule
+#: includes/view/locations/package.php:46
+msgid "No Locations found"
+msgstr "Места не найдены"
+
+# @ birchschedule
+#: includes/view/locations/package.php:47
+msgid "No Locations found in trash"
+msgstr "В \"корзине\" места не найдены"
+
+# @ birchschedule
+#: includes/view/locations/package.php:48
+msgid "Parent Location"
+msgstr "Родительское место"
+
+# @ birchschedule
+#: includes/view/locations/package.php:50
+msgid "This is where locations are stored."
+msgstr "Вот, где хранятся места."
+
+# @ birchschedule
+#: includes/view/locations/package.php:75
+msgid "Location Name"
+msgstr "Название места"
+
+# @ birchschedule
+#: includes/view/locations/package.php:87
+#: includes/view/locations/package.php:90
+#: includes/view/locations/package.php:92
+msgid "Location updated."
+msgstr "Место обновлено."
+
+# @ birchschedule
+#: includes/view/locations/package.php:91
+#, php-format
+msgid "Location restored to revision from %s"
+msgstr "Место восстановлено к версии от %s"
+
+# @ birchschedule
+#: includes/view/locations/package.php:93
+msgid "Location saved."
+msgstr "Место сохранено."
+
+# @ birchschedule
+#: includes/view/locations/package.php:94
+msgid "Location submitted."
+msgstr "Место предоставлено."
+
+# @ birchschedule
+#: includes/view/locations/package.php:95
+#, php-format
+msgid "Location scheduled for: <strong>%1$s</strong>."
+msgstr "Место забронировано на: <strong>%1$s</strong>."
+
+# @ birchschedule
+#: includes/view/locations/package.php:96
+msgid "Location draft updated."
+msgstr "Черновик места обновлен."
+
+# @ birchschedule
+#: includes/view/locations/package.php:166
+msgid "Location Details"
+msgstr "Детали места"
+
+# @ birchschedule
+#: includes/view/package.php:230 includes/view/package.php:231
+msgid "Calendar"
+msgstr "Календарь"
+
+# @ birchschedule
+#: includes/view/package.php:237
+msgid "BirchPress Scheduler Settings"
+msgstr "Настройки планировщика BirchPress"
+
+# @ birchschedule
+#: includes/view/package.php:238
+#: modules/fbuilder/field/clientsection/package.php:181
+msgid "Settings"
+msgstr "Настройки"
+
+# @ birchschedule
+#: includes/view/package.php:243
+msgid "Help"
+msgstr "Помощь"
+
+# @ birchschedule
+#: includes/view/package.php:300
+msgid "Loading..."
+msgstr "Загрузка..."
+
+# @ birchschedule
+#: includes/view/package.php:301
+msgid "Loading appointments..."
+msgstr "Загрузка бронирований..."
+
+# @ birchschedule
+#: includes/view/package.php:302
+msgid "Saving..."
+msgstr "Сохранение..."
+
+# @ birchschedule
+#: includes/view/package.php:306
+msgid "Are you sure you want to cancel this appointment?"
+msgstr "Вы уверены. что хотите отменить это бронирование?"
+
+# @ birchschedule
+#: includes/view/package.php:307
+msgid "Your appointment has been cancelled successfully."
+msgstr "Ваше бронирование отменено успешно."
+
+# @ birchschedule
+#: includes/view/package.php:308
+msgid "The appointment doesn't exist or has been cancelled."
+msgstr "Бронирование не существует или отменено."
+
+# @ birchschedule
+#: includes/view/package.php:309
+msgid "Your appointment has been rescheduled successfully."
+msgstr "Ваше бронирование было перенесено успешно."
+
+# @ birchschedule
+#: includes/view/package.php:310
+msgid ""
+"Your appointment can not be cancelled now according to our booking policies."
+msgstr ""
+"Ваше бронирование не может быть сейчас отменено согласно нашей политике "
+"бронирования."
+
+# @ birchschedule
+#: includes/view/package.php:311
+msgid ""
+"Your appointment can not be rescheduled now according to our booking "
+"policies."
+msgstr ""
+"Ваше бронирование не может быть сейчас перенесено согласно нашей политике "
+"бронирования."
+
+# @ birchschedule
+#: includes/view/package.php:312
+msgid "There are no available times."
+msgstr "Нет доступного времени."
+
+# @ birchschedule
+#: includes/view/package.php:313
+msgid "(Deposit)"
+msgstr "(Депозит)"
+
+# @ birchschedule
+#: includes/view/package.php:315 modules/eadmin/package.php:199
+#: modules/gbooking/package.php:187
+msgid "Change"
+msgstr "Изменить"
+
+# @ birchschedule
+#: includes/view/package.php:316
+msgid "No Preference"
+msgstr "Нет предпочтений"
+
+# @ birchschedule
+#: includes/view/package.php:317
+msgid "All Locations"
+msgstr "Все места"
+
+# @ birchschedule
+#: includes/view/package.php:318
+msgid "All Providers"
+msgstr "Все поставшики услуг"
+
+# @ birchschedule
+#: includes/view/services/package.php:36 includes/view/staff/package.php:145
+#: modules/wintegration/package.php:387
+msgid "Services"
+msgstr "Услуги"
+
+# @ birchschedule
+#: includes/view/services/package.php:38
+msgid "Add Service"
+msgstr "Добавить услугу"
+
+# @ birchschedule
+#: includes/view/services/package.php:39
+msgid "Add New Service"
+msgstr "Добавить новою услугу"
+
+# @ birchschedule
+#: includes/view/services/package.php:41
+msgid "Edit Service"
+msgstr "Изменить услугу"
+
+# @ birchschedule
+#: includes/view/services/package.php:42
+msgid "New Service"
+msgstr "Новая услуга"
+
+# @ birchschedule
+#: includes/view/services/package.php:43 includes/view/services/package.php:44
+msgid "View Service"
+msgstr "Посмотреть услугу"
+
+# @ birchschedule
+#: includes/view/services/package.php:45
+msgid "Search Services"
+msgstr "Поиск услуги"
+
+# @ birchschedule
+#: includes/view/services/package.php:46
+msgid "No Services found"
+msgstr "Услуги не найдены"
+
+# @ birchschedule
+#: includes/view/services/package.php:47
+msgid "No Services found in trash"
+msgstr "В \"корзине\" услуги не найдены"
+
+# @ birchschedule
+#: includes/view/services/package.php:48
+msgid "Parent Service"
+msgstr "Родительская услуга"
+
+# @ birchschedule
+#: includes/view/services/package.php:50
+msgid "This is where services are stored."
+msgstr "Вот, где услуги хранятся."
+
+# @ birchschedule
+#: includes/view/services/package.php:72
+msgid "Service Name"
+msgstr "Название услуги"
+
+# @ birchschedule
+#: includes/view/services/package.php:73 includes/view/staff/package.php:104
+msgid "Description"
+msgstr "Описание"
+
+# @ birchschedule
+#: includes/view/services/package.php:114
+msgid "Service Settings"
+msgstr "Настройки услуги"
+
+# @ birchschedule
+#: includes/view/services/package.php:116 includes/view/staff/package.php:41
+#: modules/wintegration/package.php:401
+msgid "Providers"
+msgstr "Постащики услуги"
+
+# @ birchschedule
+#: includes/view/services/package.php:125
+#: includes/view/services/package.php:128
+#: includes/view/services/package.php:130
+msgid "Service updated."
+msgstr "Услуга обновлена."
+
+# @ birchschedule
+#: includes/view/services/package.php:129
+#, php-format
+msgid "Service restored to revision from %s"
+msgstr "услуга восстановлена к версии от %s"
+
+# @ birchschedule
+#: includes/view/services/package.php:131
+msgid "Service saved."
+msgstr "Услуга сохранена."
+
+# @ birchschedule
+#: includes/view/services/package.php:132
+msgid "Service submitted."
+msgstr "Услуга предоставлена."
+
+# @ birchschedule
+#: includes/view/services/package.php:133
+#, php-format
+msgid "Service scheduled for: <strong>%1$s</strong>."
+msgstr "Услуга забронирована на: <strong>%1$s</strong>."
+
+# @ birchschedule
+#: includes/view/services/package.php:134
+msgid "Service draft updated."
+msgstr "Черновик услуги обновлен."
+
+# @ birchschedule
+#: includes/view/services/package.php:142
+msgid "minutes"
+msgstr "минут"
+
+# @ birchschedule
+#: includes/view/services/package.php:143
+msgid "hours"
+msgstr "часа"
+
+# @ birchschedule
+#: includes/view/services/package.php:149
+msgid "Before"
+msgstr "До"
+
+# @ birchschedule
+#: includes/view/services/package.php:150
+msgid "After"
+msgstr "После"
+
+# @ birchschedule
+#: includes/view/services/package.php:151
+msgid "Before & After"
+msgstr "До и После"
+
+# @ birchschedule
+#: includes/view/services/package.php:157
+msgid "Fixed"
+msgstr "Фиксированная"
+
+# @ birchschedule
+#: includes/view/services/package.php:158
+msgid "Varies"
+msgstr "Меняющаяся"
+
+# @ birchschedule
+#: includes/view/services/package.php:199
+msgid "Length"
+msgstr "Продолжительность"
+
+# @ birchschedule
+#: includes/view/services/package.php:210
+msgid "Padding"
+msgstr "Дополнительно"
+
+# @ birchschedule
+#: includes/view/services/package.php:213
+msgid "mins padding time"
+msgstr "мин дополнительного времени"
+
+# @ birchschedule
+#: includes/view/services/package.php:266
+msgid "Assign providers that can perform this service:"
+msgstr "Укажите, кто может оказывать данную услугу:"
+
+# @ birchschedule
+#: includes/view/services/package.php:278
+#, php-format
+msgid "There is no providers to assign. Click %s here %s to add one."
+msgstr "Нет назначенных поставщиков. Нажмите %s сюда %s чтобы добавить."
+
+# @ birchschedule
+#: includes/view/settings/package.php:175 modules/ccode/package.php:239
+#: modules/enotification/package.php:649 modules/gsettings/package.php:149
+#: modules/ppayment/package.php:340
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+# @ birchschedule
+#: includes/view/settings/package.php:192 modules/ccode/package.php:253
+#: modules/enotification/package.php:668 modules/fbuilder/package.php:820
+#: modules/ppayment/package.php:356
+msgid "&nbsp"
+msgstr "&nbsp"
+
+# @ birchschedule
+#: includes/view/staff/package.php:43
+msgid "Add Provider"
+msgstr "Добавить поставщика услуг"
+
+# @ birchschedule
+#: includes/view/staff/package.php:44
+msgid "Add New Provider"
+msgstr "Добавить нового поставщика"
+
+# @ birchschedule
+#: includes/view/staff/package.php:46
+msgid "Edit Provider"
+msgstr "Изменить поставщика"
+
+# @ birchschedule
+#: includes/view/staff/package.php:47
+msgid "New Provider"
+msgstr "Новый поставщик"
+
+# @ birchschedule
+#: includes/view/staff/package.php:48 includes/view/staff/package.php:49
+msgid "View Provider"
+msgstr "Посмотреть поставщика"
+
+# @ birchschedule
+#: includes/view/staff/package.php:50
+msgid "Search Providers"
+msgstr "Поиск поставщиков"
+
+# @ birchschedule
+#: includes/view/staff/package.php:51
+msgid "No Providers found"
+msgstr "Поставщики не найдены"
+
+# @ birchschedule
+#: includes/view/staff/package.php:52
+msgid "No Providers found in trash"
+msgstr "В \"корзине\" поставщики не найдены"
+
+# @ birchschedule
+#: includes/view/staff/package.php:53
+msgid "Parent Provider"
+msgstr "Родительский поставщик"
+
+# @ birchschedule
+#: includes/view/staff/package.php:55
+msgid "This is where provider are stored."
+msgstr "Вот, где постащики хранятся."
+
+# @ birchschedule
+#: includes/view/staff/package.php:103
+msgid "Provider Name"
+msgstr "Имя постащика"
+
+# @ birchschedule
+#: includes/view/staff/package.php:125 includes/view/staff/package.php:128
+#: includes/view/staff/package.php:130
+msgid "Provider updated."
+msgstr "Поставщик обновлен."
+
+# @ birchschedule
+#: includes/view/staff/package.php:129
+#, php-format
+msgid "Provider restored to revision from %s"
+msgstr "Поставщик восстановлен к версии от %s"
+
+# @ birchschedule
+#: includes/view/staff/package.php:131
+msgid "Provider saved."
+msgstr "Поставщик сохранен."
+
+# @ birchschedule
+#: includes/view/staff/package.php:132
+msgid "Provider submitted."
+msgstr "Поставщик предоставлен."
+
+# @ birchschedule
+#: includes/view/staff/package.php:133
+#, php-format
+msgid "Provider scheduled for: <strong>%1$s</strong>."
+msgstr "Поставщик забронирован на: <strong>%1$s</strong>."
+
+# @ birchschedule
+#: includes/view/staff/package.php:134
+msgid "Provider draft updated."
+msgstr "Черновик поставщика обновлен."
+
+# @ birchschedule
+#: includes/view/staff/package.php:143
+msgid "Work Schedule"
+msgstr "Рабочее расписание"
+
+# @ birchschedule
+#: includes/view/staff/package.php:219 modules/tblocking/package.php:122
+msgid "From"
+msgstr "С"
+
+# @ birchschedule
+#: includes/view/staff/package.php:233 modules/tblocking/package.php:136
+msgid "To"
+msgstr "До"
+
+# @ birchschedule
+#: includes/view/staff/package.php:332
+msgid "+ Add Schedule"
+msgstr "+ Добавить расписание"
+
+# @ birchschedule
+#: includes/view/staff/package.php:401
+#, php-format
+msgid "There is no locations. Click %s here %s to add one."
+msgstr "Нет мест. Нажмите %s здесь %s, чтобы добавить."
+
+# @ birchschedule
+#: includes/view/staff/package.php:442
+msgid "Assign services that this provider can perform:"
+msgstr "Укажите услуги, которые может оказывать этот поставщик:"
+
+# @ birchschedule
+#: includes/view/staff/package.php:451
+#, php-format
+msgid "There is no services to assign. Click %s here %s to add one."
+msgstr "Услуги не назначены. Нажмите %s сюда %s, чтобы добавить."
+
+# @ birchschedule
+#: modules/acontrol/package.php:296
+msgid "Staff Member"
+msgstr "Сотрудник"
+
+# @ birchschedule
+#: modules/acontrol/package.php:318
+msgid "Business Manager"
+msgstr "Директор"
+
+# @ birchschedule
+#: modules/aportal/package.php:168
+msgid "Cancel Page"
+msgstr "Страница отмены"
+
+# @ birchschedule
+#: modules/aportal/package.php:175
+msgid "This page should contain shortcode [bpscheduler_cancel_appointment]."
+msgstr ""
+"Эта страница должна содержать шорткод [bpscheduler_cancel_appointment]."
+
+# @ birchschedule
+#: modules/aportal/package.php:181
+msgid "Reschedule Page"
+msgstr "Страница переноса бронирования"
+
+# @ birchschedule
+#: modules/aportal/package.php:188
+msgid ""
+"This page should contain shortcode [bpscheduler_reschedule_appointment]."
+msgstr ""
+"Эта страница должна содержать шорткод [bpscheduler_reschedule_appointment]."
+
+# @ birchschedule
+#: modules/aportal/package.php:254
+#, php-format
+msgid "Clients can cancel appointments %s in advance."
+msgstr "Клиенты могут отменить бронирования %s заранее."
+
+# @ birchschedule
+#: modules/aportal/package.php:258
+#, php-format
+msgid "Clients can reschedule appointments %s in advance."
+msgstr "Клиенты могут перенести бронирования %s заранее."
+
+# @ birchschedule
+#: modules/aportal/package.php:373
+msgid "Yes, cancel this appointment"
+msgstr "Да, отменить это бронирование"
+
+# @ birchschedule
+#: modules/autoupdater/package.php:65
+msgid "BirchPress"
+msgstr "BirchPress"
+
+# @ birchschedule
+#: modules/autoupdater/package.php:68
+msgid "Support License Key"
+msgstr "Лицензионный ключ"
+
+# @ birchschedule
+#: modules/autoupdater/package.php:169
+msgid "Can not connect to the license server"
+msgstr "Невозможно подключиться к серверу лицензий"
+
+# @ birchschedule
+#: modules/autoupdater/package.php:176 modules/autoupdater/package.php:182
+msgid "Expiration Date: "
+msgstr "Дата окончания:"
+
+# @ birchschedule
+#: modules/autoupdater/package.php:185
+msgid "Invalid license"
+msgstr "Неверная лицензия"
+
+# @ birchschedule
+#: modules/autoupdater/package.php:191
+msgid ""
+"Fill out the license key to receive access to automatic upgrades and support"
+msgstr ""
+"Заполните поле \"лицензионный ключ\", чтобы получить доступ к автоматическим "
+"обновлениям и поддержке"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:62
+#, php-format
+msgid "%s hour"
+msgstr "%s час"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:63 modules/bpreferences/package.php:64
+#: modules/bpreferences/package.php:65 modules/bpreferences/package.php:66
+#: modules/bpreferences/package.php:67
+#, php-format
+msgid "%s hours"
+msgstr "%s часов"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:68 modules/bpreferences/package.php:69
+#: modules/bpreferences/package.php:70 modules/bpreferences/package.php:71
+#: modules/bpreferences/package.php:72 modules/bpreferences/package.php:73
+#: modules/bpreferences/package.php:74
+#, php-format
+msgid "%s days"
+msgstr "%s дней"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:80
+#, php-format
+msgid "%s month"
+msgstr "%s месяц"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:81 modules/bpreferences/package.php:82
+#: modules/bpreferences/package.php:83 modules/bpreferences/package.php:84
+#: modules/bpreferences/package.php:85
+#, php-format
+msgid "%s months"
+msgstr "%s месяцев"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:92
+msgid "Booking Preferences"
+msgstr "Предпочтения бронирований"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:97
+msgid "Policies"
+msgstr "Политики"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:146
+#, php-format
+msgid "Clients can book appointments up to %s before start time"
+msgstr "Клиенты могут осуществить бронирование за %s до времени начала"
+
+# @ birchschedule
+#: modules/bpreferences/package.php:150
+#, php-format
+msgid "Clients can book appointments up to %s in the future"
+msgstr "Клиенты могут осуществить бронирование за %s в будущем"
+
+# @ birchschedule
+#: modules/bwindow/package.php:134
+msgid "Start Date"
+msgstr "Дата начала"
+
+# @ birchschedule
+#: modules/bwindow/package.php:144 modules/bwindow/package.php:158
+msgid "(Optional)"
+msgstr "(Опционально)"
+
+# @ birchschedule
+#: modules/bwindow/package.php:148
+msgid "End Date"
+msgstr "Дата окончания"
+
+# @ birchschedule
+#: modules/ccode/package.php:57
+msgid "Custom Code"
+msgstr "Пользовательский код"
+
+# @ birchschedule
+#: modules/ccode/package.php:273
+msgid "Custom Code Updated"
+msgstr "Пользовательский код обновлен"
+
+# @ birchschedule
+#: modules/cintegration/package.php:127
+msgid "Sync iCal Interval"
+msgstr "Интервал синхронизации iCal"
+
+# @ birchschedule
+#: modules/cintegration/package.php:374
+msgid "BLOCKED"
+msgstr "ЗАБЛОКИРОВАНО"
+
+# @ birchschedule
+#: modules/cintegration/package.php:625
+msgid "Calendar Integration"
+msgstr "Интеграция с календарем"
+
+# @ birchschedule
+#: modules/cintegration/package.php:662
+msgid "Calendar Address (iCal)"
+msgstr "Адрес календаря (iCal)"
+
+# @ birchschedule
+#: modules/cintegration/package.php:675
+msgid "Import Calendars (iCal)"
+msgstr "Импорт календарей (iCal)"
+
+# @ birchschedule
+#: modules/cintegration/package.php:689
+msgid "+ Add by URL"
+msgstr "+ Добавить по URL"
+
+# @ birchschedule
+#: modules/cmanager/package.php:40
+msgid "View"
+msgstr "Посмотреть"
+
+# @ birchschedule
+#: modules/eadmin/package.php:131
+msgid "Search for an existing client"
+msgstr "Поиск сущестующего клиента"
+
+# @ birchschedule
+#: modules/enotification/package.php:98
+msgid "Client Reminder Interval"
+msgstr "Интервал напоминания для клиента"
+
+# @ birchschedule
+#: modules/enotification/package.php:187
+#, php-format
+msgid "Send alerts to clients %s Hrs prior to their appointment."
+msgstr "Отправлять напоминания клиентам за %s часов до их бронирования."
+
+# @ birchschedule
+#: modules/enotification/package.php:363
+msgid "Email Address"
+msgstr "Email"
+
+# @ birchschedule
+#: modules/enotification/package.php:376
+msgid "Notifications"
+msgstr "Уведомления"
+
+# @ birchschedule
+#: modules/enotification/package.php:386
+msgid "Notification to Provider"
+msgstr "Уведомление для поставщика"
+
+# @ birchschedule
+#: modules/enotification/package.php:389
+msgid "Notification to Client"
+msgstr "Уведомления для клиента"
+
+# @ birchschedule
+#: modules/enotification/package.php:431
+msgid "Notification Settings Updated"
+msgstr "Настройки уведомлений обновлены"
+
+# @ birchschedule
+#: modules/enotification/package.php:444
+msgid "Appointment Modified"
+msgstr "Бронирование изменено"
+
+# @ birchschedule
+#: modules/enotification/package.php:445
+msgid "Appointment Cancelled"
+msgstr "Бронирование отменено"
+
+# @ birchschedule
+#: modules/enotification/package.php:448
+msgid "Appointment Reminder"
+msgstr "Напоминание о бронировании"
+
+# @ birchschedule
+#: modules/enotification/package.php:456
+msgid "From Name"
+msgstr "От Имя"
+
+# @ birchschedule
+#: modules/enotification/package.php:465
+msgid "From Email"
+msgstr "От email"
+
+# @ birchschedule
+#: modules/enotification/package.php:476
+msgid "Reply To"
+msgstr "Ответить"
+
+# @ birchschedule
+#: modules/enotification/package.php:487
+msgid "BCC"
+msgstr "Скрытая копия"
+
+# @ birchschedule
+#: modules/enotification/package.php:506
+msgid "Edit Email Templates"
+msgstr "Изменить email шаблоны"
+
+# @ birchschedule
+#: modules/enotification/package.php:543
+msgid "Subject"
+msgstr "Тема"
+
+# @ birchschedule
+#: modules/enotification/package.php:555
+msgid "Message"
+msgstr "Текст"
+
+# @ birchschedule
+#: modules/enotification/package.php:596
+#, php-format
+msgid "Enable email notification to %s"
+msgstr "Включить email уведомления для %s"
+
+# @ birchschedule
+#: modules/enotification/package.php:607
+msgid "providers"
+msgstr "поставщики"
+
+# @ birchschedule
+#: modules/enotification/package.php:611
+msgid "clients"
+msgstr "клиенты"
+
+# @ birchschedule
+#: modules/fbuilder/field/appointmentsection/package.php:84
+msgid ""
+"Appointment Details ('Location','Service','Provider' & 'Date&Time' fields "
+"are predefined, click 'edit' to change the labels)"
+msgstr ""
+"Детали бронирования (Поля \"Место\", \"Услуга\", \"Поставщик\", \"Дата и "
+"Время\" предопределены. Нажмите \"изменить\" для изменения надписей)"
+
+# @ birchschedule
+#: modules/fbuilder/field/appointmentsection/package.php:91
+#: modules/fbuilder/field/clientsection/package.php:32
+#: modules/fbuilder/field/package.php:359
+#: modules/fbuilder/field/password/package.php:35
+#: modules/fbuilder/field/submit/package.php:32
+msgid "Predefined"
+msgstr "Предопределенный"
+
+# @ birchschedule
+#: modules/fbuilder/field/appointmentsection/package.php:107
+#: modules/fbuilder/field/clientsection/package.php:154
+#: modules/fbuilder/field/password/package.php:57
+#: modules/fbuilder/field/submit/package.php:48
+msgid "Labels"
+msgstr "Надписи"
+
+# @ birchschedule
+#: modules/fbuilder/field/checkboxes/package.php:17
+#: modules/fbuilder/field/dropdown/package.php:17
+#: modules/fbuilder/field/email/package.php:15
+#: modules/fbuilder/field/paragraph/package.php:17
+#: modules/fbuilder/field/radiobuttons/package.php:15
+#: modules/fbuilder/field/section/package.php:15
+#: modules/fbuilder/field/singleline/package.php:15
+msgid "Untitled"
+msgstr "Без названия"
+
+# @ birchschedule
+#: modules/fbuilder/field/checkboxes/package.php:22
+#: modules/fbuilder/field/dropdown/package.php:22
+#: modules/fbuilder/field/radiobuttons/package.php:20
+msgid "First Choice"
+msgstr "Первый выбор"
+
+# @ birchschedule
+#: modules/fbuilder/field/checkboxes/package.php:23
+#: modules/fbuilder/field/dropdown/package.php:23
+#: modules/fbuilder/field/radiobuttons/package.php:21
+msgid "Second Choice"
+msgstr "Второй выбор"
+
+# @ birchschedule
+#: modules/fbuilder/field/checkboxes/package.php:24
+#: modules/fbuilder/field/dropdown/package.php:24
+#: modules/fbuilder/field/radiobuttons/package.php:22
+msgid "Third Choice"
+msgstr "Третий выбор"
+
+# @ birchschedule
+#: modules/fbuilder/field/clientemail/package.php:45
+#: modules/fbuilder/field/email/package.php:33
+msgid "Please input a valid email address"
+msgstr "Пожалуйста, введите правильный email"
+
+# @ birchschedule
+#: modules/fbuilder/field/clientemail/package.php:58
+msgid ""
+"Email already exists. You may book using this email by selecting \"I am a "
+"returning user.\""
+msgstr ""
+"Email уже существует. Вы можете осуществить бронирование используя этот "
+"email, выбрав \"Я вернувшийся пользователь\"."
+
+# @ birchschedule
+#: modules/fbuilder/field/clientemail/package.php:81
+msgid ""
+"Email does not exist. Please contact the administrator to create a user "
+"account."
+msgstr ""
+"Email не существует. Пожалуйста, свяжитесь с администратором, чтобы создать "
+"нового пользователя."
+
+# @ birchschedule
+#: modules/fbuilder/field/clientemail/package.php:84
+msgid ""
+"Email does not exist. You may book using this email by selecting \"I am a "
+"new user.\""
+msgstr ""
+"Email не существует. Вы можете осуществить бронирование используя этот "
+"email, выбрав \"Я новый пользователь\"."
+
+# @ birchschedule
+#: modules/fbuilder/field/clientemail/package.php:89
+msgid "Email or password is incorrect."
+msgstr "Неправильный email или пароль."
+
+# @ birchschedule
+#: modules/fbuilder/field/clientsection/package.php:79
+#, php-format
+msgid "Logged in as %s."
+msgstr "Вы вошли как %s."
+
+# @ birchschedule
+#: modules/fbuilder/field/clientsection/package.php:83
+msgid "Log out?"
+msgstr "Выйти?"
+
+# @ birchschedule
+#: modules/fbuilder/field/clientsection/package.php:163
+#: modules/fbuilder/upgrader/package.php:50
+#: modules/fbuilder/upgrader/package.php:390
+msgid "Are you a new or returning user?"
+msgstr "Вы новый или вернувшийся пользователь?"
+
+# @ birchschedule
+#: modules/fbuilder/field/clientsection/package.php:169
+msgid "I am a new user."
+msgstr "Я новый пользователь."
+
+# @ birchschedule
+#: modules/fbuilder/field/clientsection/package.php:175
+msgid "I am a returning user."
+msgstr "Я вернувшийся пользователь."
+
+# @ birchschedule
+#: modules/fbuilder/field/clientsection/package.php:188
+msgid "Enable user login"
+msgstr "Включить регистрацию пользователя"
+
+# @ birchschedule
+#: modules/fbuilder/field/clientsection/package.php:195
+msgid "Enable new user registration"
+msgstr "Включить регистрацию нового пользователя"
+
+# @ birchschedule
+#: modules/fbuilder/field/country/package.php:50
+msgid "Default Country"
+msgstr "Страна по умолчанию"
+
+# @ birchschedule
+#: modules/fbuilder/field/package.php:218
+msgid "Field Label"
+msgstr "Название поля"
+
+# @ birchschedule
+#: modules/fbuilder/field/package.php:235
+msgid "The field is mandatory"
+msgstr "Поле обязательно"
+
+# @ default
+#: modules/fbuilder/field/package.php:249
+msgid "Visibility"
+msgstr "Видимость"
+
+# @ birchschedule
+#: modules/fbuilder/field/package.php:258
+msgid "Customers and Admin"
+msgstr "Клиенты и Администратор"
+
+# @ birchschedule
+#: modules/fbuilder/field/package.php:266
+msgid "Admin Only"
+msgstr "Только админ"
+
+# @ birchschedule
+#: modules/fbuilder/field/password/package.php:60
+#: modules/fbuilder/upgrader/package.php:93
+msgid "Password"
+msgstr "Пароль"
+
+# @ birchschedule
+#: modules/fbuilder/field/password/package.php:64
+#: modules/fbuilder/upgrader/package.php:99
+msgid "Retype Password"
+msgstr "Повторите пароль"
+
+# @ birchschedule
+#: modules/fbuilder/field/password/package.php:114
+msgid "Password is required"
+msgstr "Задайте пароль"
+
+# @ birchschedule
+#: modules/fbuilder/field/password/package.php:119
+msgid "Password must be at least 6 digits."
+msgstr "Пароль должен быть не менее 6 знаков."
+
+# @ birchschedule
+#: modules/fbuilder/field/password/package.php:122
+msgid "Both passwords should match"
+msgstr "Пароли должны совпадать"
+
+# @ birchschedule
+#: modules/fbuilder/field/selectable/package.php:45
+msgid "Choices"
+msgstr "Выборы"
+
+# @ birchschedule
+#: modules/fbuilder/field/selectable/package.php:50
+msgid "+ Add Choice"
+msgstr "+ Добавить выбор"
+
+# @ birchschedule
+#: modules/fbuilder/field/state/package.php:82
+msgid "Default State/Province"
+msgstr "Область по умолчанию"
+
+# @ birchschedule
+#: modules/fbuilder/field/submit/package.php:55
+#: modules/fbuilder/upgrader/package.php:160
+msgid "Lost your password?"
+msgstr "Забыли Ваш пароль?"
+
+# @ birchschedule
+#: modules/fbuilder/field/submit/package.php:63
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+# @ birchschedule
+#: modules/fbuilder/field/submit/package.php:71
+msgid "Text"
+msgstr "Текст"
+
+# @ birchschedule
+#: modules/fbuilder/field/submit/package.php:78
+msgid "Redirect"
+msgstr "Перенаправление"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:19 modules/fbuilder/package.php:840
+msgid "Single Line Text"
+msgstr "Однострочный текст"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:20 modules/fbuilder/package.php:843
+msgid "Paragraph Text"
+msgstr "Текстовый абзац"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:21 modules/fbuilder/package.php:846
+msgid "Drop Down"
+msgstr "Выпадающий список"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:23 modules/fbuilder/package.php:849
+msgid "Checkboxes"
+msgstr "Чекбоксы"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:24 modules/fbuilder/package.php:852
+msgid "Radio Buttons"
+msgstr "Радио кнопки"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:25
+msgid "Section Break"
+msgstr "Разрыв секции"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:667
+msgid "Field Deleted"
+msgstr "Поле удалено"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:697
+msgid "Add a Field"
+msgstr "Добавить поле"
+
+# @ birchschedule
+#: modules/fbuilder/package.php:704
+msgid "Form Builder"
+msgstr "Конструктор форм"
+
+# @ default
+#: modules/fbuilder/package.php:936
+msgid "Field Settings Updated"
+msgstr "Настройки поля обновлены"
+
+# @ birchschedule
+#: modules/fbuilder/upgrader/package.php:30
+#: modules/fbuilder/upgrader/package.php:376
+msgid "Date & Time"
+msgstr "Дата и Время"
+
+# @ birchschedule
+#: modules/fbuilder/upgrader/package.php:51
+#: modules/fbuilder/upgrader/package.php:391
+msgid "New User"
+msgstr "Новые пользователь"
+
+# @ birchschedule
+#: modules/fbuilder/upgrader/package.php:52
+#: modules/fbuilder/upgrader/package.php:392
+msgid "Returning User"
+msgstr "Вернувшийся пользователь"
+
+# @ birchschedule
+#: modules/fdadmin/package.php:63
+msgid "Show all time slots"
+msgstr "Показать все временные интервалы"
+
+# @ birchschedule
+#: modules/gbooking/package.php:49 modules/gbooking/package.php:157
+msgid "Capacity"
+msgstr "Вместимость"
+
+# @ birchschedule
+#: modules/gbooking/package.php:200 modules/gbooking/package.php:210
+msgid "+ Add Client"
+msgstr "+ Добавить клиента"
+
+# @ birchschedule
+#: modules/gbooking/package.php:310
+msgid "This client has been added."
+msgstr "Этот клиент добавлен."
+
+# @ birchschedule
+#: modules/gsettings/package.php:37
+msgid "General"
+msgstr "Общие"
+
+# @ birchschedule
+#: modules/gsettings/package.php:46
+msgid "General Options"
+msgstr "Общие настройки"
+
+# @ default
+#: modules/gsettings/package.php:52
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+# @ birchschedule
+#: modules/gsettings/package.php:55
+msgid "Date Format, Time Format"
+msgstr "Формат даты и времени"
+
+# @ birchschedule
+#: modules/gsettings/package.php:58
+msgid "Week Starts On"
+msgstr "Первый день недели"
+
+# @ birchschedule
+#: modules/gsettings/package.php:61
+msgid "Currency"
+msgstr "Влюта"
+
+# @ birchschedule
+#: modules/gsettings/package.php:64
+msgid "Default Calendar View"
+msgstr "Вид календаря по умолчанию"
+
+# @ birchschedule
+#: modules/gsettings/package.php:91
+#, php-format
+msgid "<label>Timezone settings are located <a href='%s'>here</a>.</label>"
+msgstr ""
+"<label>Настройки часового пояса расположены <a href='%s'>тут</a>.</label>"
+
+# @ birchschedule
+#: modules/gsettings/package.php:98
+#, php-format
+msgid ""
+"<label>Date format, time format settings are located <a href='%s'>here</a>.</"
+"label>"
+msgstr ""
+"<label>Формат даты и времени устанавливается <a href='%s'>тут</a>.</label>"
+
+# @ birchschedule
+#: modules/gsettings/package.php:105
+#, php-format
+msgid ""
+"<label>First day of week setting is located <a href='%s'>here</a>.</label>"
+msgstr ""
+"<label>Первый день недели устанавливается <a href='%s'>тут</a>.</label>"
+
+# @ birchschedule
+#: modules/lbservices/package.php:183
+msgid "Assign locations that can perform this service:"
+msgstr "Назначить места, в которых может оказываться эта услуга:"
+
+# @ birchschedule
+#: modules/lbservices/package.php:190
+#, php-format
+msgid "There is no location to assign. Click %s here %s to add one."
+msgstr "Места не назначены. Нажмите %s здесь %s, чтобы добавить."
+
+# @ birchschedule
+#: modules/mstaff/package.php:155
+msgid "Calendar Color"
+msgstr "Цвет календаря"
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:33
+msgid "Authorize.net Integration"
+msgstr "Authorize.net интеграция"
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:45
+msgid "Credit card (Authorize.net)"
+msgstr "Кредитная карта (Authorize.net)"
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:46
+msgid "Pay with your credit card via Authorize.net"
+msgstr "Оплатить кредитной картой через Authorize.net"
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:86
+#, php-format
+msgid "Authorize.net Transaction ID: %s"
+msgstr "Authorize.net ID транзакции: %s"
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:100
+msgid "Click here if not redirected."
+msgstr "Нажмите здесь, если не были перенаправлены."
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:255 modules/pintegration/package.php:260
+#: modules/wcredit/package.php:394 modules/wintegration/package.php:172
+msgid "Enable/Disable"
+msgstr "Включить/Отключить"
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:264
+msgid "Enable Authorize.net"
+msgstr "Включить Authorize.net"
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:271
+msgid "Login ID"
+msgstr "Логин"
+
+# @ birchschedule
+#: modules/pgauthorize/package.php:285
+msgid "Transaction Key"
+msgstr "Операционный ключ"
+
+# @ birchschedule
+#: modules/pintegration/package.php:30
+msgid "PayPal Integration"
+msgstr "PayPal интеграция"
+
+# @ birchschedule
+#: modules/pintegration/package.php:42
+msgid "PayPal"
+msgstr "PayPal"
+
+# @ birchschedule
+#: modules/pintegration/package.php:44
+msgid ""
+"Pay via PayPal; you can pay with your credit card if you don’t have a PayPal "
+"account"
+msgstr ""
+"Оплатить через PayPa. Вы можете оплатить с помощью кредитной карты, если у "
+"Вас нет PayPal аккаунта"
+
+# @ birchschedule
+#: modules/pintegration/package.php:99
+#, php-format
+msgid "PayPal Transaction ID: %s"
+msgstr "PayPal ID транзакции: %s"
+
+# @ birchschedule
+#: modules/pintegration/package.php:269
+msgid "Enable PayPal"
+msgstr "Включить PayPal"
+
+# @ birchschedule
+#: modules/pintegration/package.php:276
+msgid "PayPal Email"
+msgstr "PayPal Email"
+
+# @ birchschedule
+#: modules/ppayment/package.php:107
+msgid "Prepayment Settings"
+msgstr "Настройки предоплаты"
+
+# @ birchschedule
+#: modules/ppayment/package.php:131
+msgid "Prepayment Message"
+msgstr "Сообщение о предоплате"
+
+# @ birchschedule
+#: modules/ppayment/package.php:292
+msgid "Place order"
+msgstr "Разместить заявку"
+
+# @ default
+#: modules/ppayment/package.php:309
+msgid "Payments Settings Updated"
+msgstr "Настройки платежей обновлены"
+
+# @ birchschedule
+#: modules/ppayment/package.php:465
+msgid "Enable prepayment"
+msgstr "Включить предоплату"
+
+# @ birchschedule
+#: modules/ppayment/package.php:480
+#, php-format
+msgid "Charge %s fixed booking fee."
+msgstr "Взимать %s фиксированную плату при бронировании."
+
+# @ birchschedule
+#: modules/ppayment/package.php:492
+#, php-format
+msgid "Charge %s percent of service value."
+msgstr "Взимать %s процент от стоимости услуги."
+
+# @ birchschedule
+#: modules/ppayment/upgrader/package.php:42
+msgid "Please make a payment of {deposit} to hold your appointment."
+msgstr ""
+"Пожалуйста, произведите оплату {deposit}, чтобы завершить бронирование."
+
+# @ birchschedule
+#: modules/senhanced/package.php:34
+msgid " minutes"
+msgstr " минуты"
+
+# @ birchschedule
+#: modules/senhanced/package.php:126
+#, php-format
+msgid "Enable flexible appointment start time with %s"
+msgstr "Включить фиксированное время начала бронирования с %s"
+
+# @ birchschedule
+#: modules/tblocking/package.php:42
+msgid "Days Off"
+msgstr "Нерабочие дни"
+
+# @ birchschedule
+#: modules/tblocking/package.php:228
+msgid "Exceptions"
+msgstr "Исключения"
+
+# @ birchschedule
+#: modules/tblocking/package.php:240
+msgid "+ Add Exception"
+msgstr "+ Добавить исключение"
+
+# @ birchschedule
+#: modules/uintegration/package.php:147
+msgid "User Synchronization"
+msgstr "Использовать синхронизацию"
+
+# @ birchschedule
+#: modules/uintegration/package.php:148
+msgid "Syncing clients with WP users..."
+msgstr "Синхронизация клиентов с WP пользователями..."
+
+# @ birchschedule
+#: modules/uintegration/package.php:149
+msgid "synced"
+msgstr "синхронизировано"
+
+# @ birchschedule
+#: modules/uintegration/package.php:150
+msgid "Skip"
+msgstr "Пропустить"
+
+# @ birchschedule
+#: modules/wcredit/package.php:43 modules/wcredit/package.php:124
+#: modules/wcredit/package.php:125 modules/wcredit/package.php:170
+msgid "WooCommerce Credit"
+msgstr "WooCommerce кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:49
+msgid "The credit should be positive."
+msgstr "Кредит должен быть положительным."
+
+# @ birchschedule
+#: modules/wcredit/package.php:50
+msgid "The credit is not enough."
+msgstr "Кредит недостаточен."
+
+# @ birchschedule
+#: modules/wcredit/package.php:51
+#, php-format
+msgid "Used by order No. %s"
+msgstr "Использовано заказом № %s"
+
+# @ birchschedule
+#: modules/wcredit/package.php:52
+#, php-format
+msgid "Recharged by order No. %s"
+msgstr "Пополнено заказом № %s"
+
+# @ birchschedule
+#: modules/wcredit/package.php:126
+msgid "Add WooCommerce Credit"
+msgstr "Добавить WooCommerce кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:127
+msgid "Add New WooCommerce Credit"
+msgstr "Добавить новый WooCommerce кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:129
+msgid "Edit WooCommerce Credit"
+msgstr "Изменить WooCommerce кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:130
+msgid "New WooCommerce Credit"
+msgstr "Новый WooCommerce кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:131 modules/wcredit/package.php:132
+msgid "View WooCommerce Credit"
+msgstr "Посмотреть WooCommerce кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:133
+msgid "Search WooCommerce credit"
+msgstr "Поиск WooCommerce кредита"
+
+# @ birchschedule
+#: modules/wcredit/package.php:134
+msgid "No WooCommerce credit found"
+msgstr "WooCommerce кредит не найден"
+
+# @ birchschedule
+#: modules/wcredit/package.php:135
+msgid "No WooCommerce credit found in trash"
+msgstr "В \"корзине\" WooCommerce кредиты не найдены"
+
+# @ birchschedule
+#: modules/wcredit/package.php:136
+msgid "Parent WooCommerce Credit"
+msgstr "Родительский WooCommerce кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:138
+msgid "This is where WooCommerce credit are stored."
+msgstr "Вот, где хранятся WooCommerce кредиты."
+
+# @ birchschedule
+#: modules/wcredit/package.php:309
+msgid "Credit Balance"
+msgstr "Кредитный баланс"
+
+# @ birchschedule
+#: modules/wcredit/package.php:317
+msgid "+ Add Credit"
+msgstr "+ Добавить кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:403
+msgid "Enable WooCommerce Credit"
+msgstr "Включить WooCommerce кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:410
+msgid "Buy Credit Amount from WooCommerce Products"
+msgstr "Купить кредитную сумму у продуктов WooCommerce"
+
+# @ birchschedule
+#: modules/wcredit/package.php:418 modules/wintegration/package.php:367
+msgid "(Only simple products are listed here)"
+msgstr "(Только простые продукты перечислены здесь)"
+
+# @ birchschedule
+#: modules/wcredit/package.php:477
+msgid "Customer Credit"
+msgstr "Клиентский кредит"
+
+# @ birchschedule
+#: modules/wcredit/package.php:495
+msgid "Please login to use your credit."
+msgstr "Пожалуйста, войдите, чтобы воспользоваться своим кредитом."
+
+# @ birchschedule
+#: modules/wcredit/package.php:517
+#, php-format
+msgid ""
+"Your current credit balance is %s. <br/>Enter a credit amount if you want to "
+"pay by customer credit."
+msgstr ""
+"Ваш текущий кредитный баланс %s. <br/>Введите сумму кредита, если Вы хотите "
+"оплатить клиентским кредитом."
+
+# @ birchschedule
+#: modules/wcredit/package.php:526
+msgid "Apply Custom Credit"
+msgstr "Применить произвольный кредит"
+
+# @ birchschedule
+#: modules/wintegration/package.php:71
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+# @ birchschedule
+#: modules/wintegration/package.php:91
+msgid "WooCommerce Integration"
+msgstr "WooCommerce интеграция"
+
+# @ birchschedule
+#: modules/wintegration/package.php:181
+msgid "Enable WooCommerce integration"
+msgstr "Включить интеграцию WooCommerce"
+
+# @ birchschedule
+#: modules/wintegration/package.php:188
+msgid "Autocomplete Order"
+msgstr "Автозаполнение заказа"
+
+# @ birchschedule
+#: modules/wintegration/package.php:197
+msgid ""
+"Enable WooCommerce automatically set appointment orders on Completed status "
+"right after a successfull payment."
+msgstr ""
+"Включить Woocommerce автоматическую установку для заказов статусов Завершен "
+"сразу после успешной оплаты."
+
+# @ birchschedule
+#: modules/wintegration/package.php:204
+msgid "Products Settings"
+msgstr "Настройки продуктов"
+
+# @ default
+#: modules/wintegration/package.php:216
+msgid "+ Add Product"
+msgstr "+ Добавить продукт"
+
+# @ birchschedule
+#: modules/wintegration/package.php:351
+msgid "WooCommerce Product"
+msgstr "Продукт WooCommerce"
+
+# @ birchschedule
+#: modules/wintegration/package.php:414
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+# @ birchschedule
+#: modules/wintegration/package.php:480
+msgid "WooCommerce Settings Updated"
+msgstr "Настройки WooCommerce обновлены"
+
+# @ birchschedule
+#: modules/wintegration/wc/package.php:359
+msgid ""
+"There was a problem with your submission. Please check error messages below."
+msgstr ""
+"Проблема с Вашим предоставлением. Пожалуйста, посмотрите сообщение об "
+"ошибках ниже."
+
+# @ birchschedule
+#: modules/wintegration/wc/package.php:466
+#, php-format
+msgid "WooCommerce Order ID: %s"
+msgstr "ID заказа WooCommerce: %s"

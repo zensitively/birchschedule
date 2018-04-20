@@ -1,0 +1,124 @@
+.ui-datepicker {
+  background-color: white;
+  border: 1px solid #dfdfdf;
+}
+.ui-icon {
+  width: 16px;
+  height: 16px;
+  background-image: url(../../../lib/assets/css/jquery-ui-smoothness/images/ui-icons_222222_256x240.png);
+}
+.ui-icon-circle-triangle-e {
+  background-position: -48px -192px;
+}
+.ui-icon-circle-triangle-w {
+  background-position: -80px -192px;
+}
+.ui-widget-header .ui-icon {
+  background-image: url(../../../lib/assets/css/jquery-ui-smoothness/images/ui-icons_222222_256x240.png);
+}
+.ui-state-highlight {
+  background: #ffffe0;
+  color: #333;
+}
+.ui-state-active {
+  background: #00a0d2;
+  color: #fff;
+}
+a:hover.ui-state-active {
+  color: #fff;
+}
+#misc-publishing-actions .misc-pub-visibility,
+#misc-publishing-actions .misc-pub-curtime {
+  display: none;
+}
+.wp-list-table .inline {
+  display: none;
+}
+@media only screen and (max-width: 768px) {
+  .birs_form_field select,
+  .birs_form_field input[type=text],
+  .birs_form_field textarea {
+    font-size: 16px;
+  }
+  .birs_form_field .birs_field_content {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .birs_form_field .birs_field_content {
+    width: 70%;
+  }
+}
+.birs_form_field {
+  margin: 2px 0 12px 0;
+  overflow: hidden;
+}
+.birs_form_field > label {
+  float: left;
+  width: 30%;
+  max-width: 13em;
+}
+.birs_form_field .birs_field_content {
+  float: left;
+}
+.birs_form_field .birs_error {
+  color: #DF0000;
+  clear: both;
+}
+.birs_form_field input[type=text] {
+  width: 100%;
+  max-width: 24em;
+}
+.birs_form_field select {
+  width: 100%;
+  height: auto;
+  max-width: 22em;
+}
+.birs_form_field textarea {
+  width: 100%;
+  max-width: 40em;
+  height: 10em;
+}
+.birs_form_field .ui-datepicker-inline {
+  border: 1px solid #EEEEEE;
+}
+.birs_form_field .ui-state-active {
+  background-color: #BFBFBF;
+  color: white;
+}
+.birs_form_field .ui-state-disabled {
+  color: #DEDEDE;
+}
+.birs_form_field .ui-icon {
+  width: 16px;
+  height: 16px;
+  background-image: url(../../../lib/assets/css/jquery-ui-smoothness/images/ui-icons_222222_256x240.png);
+}
+.birs_form_field .ui-icon-circle-triangle-e {
+  background-position: -48px -192px;
+}
+.birs_form_field .ui-icon-circle-triangle-w {
+  background-position: -80px -192px;
+}
+.birs_form_field .ui-widget-header .ui-icon {
+  background-image: url(../../../lib/assets/css/jquery-ui-smoothness/images/ui-icons_222222_256x240.png);
+}
+.birs_form_field .ui-datepicker {
+  width: 100%;
+  max-width: 24em;
+  font-size: 13px;
+}
+.birs_form_field .ui-datepicker td {
+  border: 0;
+  padding: 1px;
+}
+.birs_form_field .ui-datepicker td span,
+.birs_form_field .ui-datepicker td a {
+  display: block;
+  padding: .2em;
+  text-align: center;
+  text-decoration: none;
+}
+#message, .update-nag, .notice, .updated, .error {
+    display: none !important;
+}

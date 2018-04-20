@@ -1,0 +1,15 @@
+#birs_calendar_filter {
+	float: right;
+}
+#birs_calendar_view {
+	white-space: nowrap;
+	float:right;
+	margin-left: 4px;
+}
+#birs_calendar_toolbar {
+	margin-bottom: 8px;
+}
+#birs_status {
+  float: right;
+  display: none;
+}

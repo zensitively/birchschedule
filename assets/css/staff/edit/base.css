@@ -1,0 +1,77 @@
+.birchschedule #location_list {
+    float: left;
+    width: 25%;
+    background-color: white;
+    border-color: #DFDFDF;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.birchschedule #location_list li {
+    padding: 0px;
+    margin: 0px;
+}
+
+.birchschedule #location_list li a {
+    display: block;
+    color: #21759B;
+    padding: 3px 5px;
+    padding-left: 12px;
+}
+
+.birchschedule #location_list li a:hover {
+    background-color: #EAF2FA;
+    color: #333;
+    cursor: pointer;
+}
+
+.birchschedule #location_list li.current a {
+    font-weight: bold;
+    color: #333;
+}
+
+.birchschedule #timetable {
+    margin-left: 28%;
+}
+
+.birchschedule .birs_schedule_item {
+    border-bottom: 1px solid #DFDFDF;
+    border-top: 1px solid white;
+    padding: 6px 8px 8px 8px;
+}
+
+.birchschedule .birs_schedule_item label {
+    margin-right: 6px;
+}
+
+.birs_schedule_field_label {
+    float: left;
+    width: 18%;
+}
+
+.birs_schedule_field_content {
+    margin-left: 18%;
+}
+
+.birs_schedule_field_content select,
+.birs_schedule_field_content input[type=text] {
+    width: 40%;
+}
+
+
+.birs_schedule_new_box {
+    border-top: 1px solid white;
+    padding: 6px 0 0 8px;
+}
+
+.birchschedule .birs_schedule_delete {
+    float: right;
+}
+
+.birs_schedule_item > div {
+    margin-bottom: 4px;
+}
+
+.birs_schedule_exception > div {
+    margin-bottom: 4px;
+}

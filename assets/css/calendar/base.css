@@ -1,0 +1,44 @@
+body {
+  background-color: transparent;
+}
+.fc-event {
+  cursor: pointer;
+}
+.fc-event a {
+  color: white;
+  text-decoration: none;
+}
+.fc-event a:hover {
+  text-decoration: underline;
+}
+.birs_scene {
+  margin-top: 10px;
+}
+.birs_scene #birs_calendar_menu .birs_group {
+  float: left;
+  margin: 4px 4px 4px 0;
+}
+.birs_scene #birs_calendar_menu .birs_group.birs_radio_group {
+  padding-top: 4px;
+}
+#birs_calendar_refresh,
+.fc-header-left .button,
+.fc-header-right .button {
+  padding-top: 3px;
+}
+#birs_calendar_header {
+  background-color: white;
+  padding-top: 8px;
+}
+#birs_calendar {
+  background-color: white;
+}
+#birs_calendar_menu .input-group {
+  display: inline-table;
+}
+#birs_calendar_menu select {
+  width: 15em;
+}
+.updated.fade {
+  opacity: 1;
+}

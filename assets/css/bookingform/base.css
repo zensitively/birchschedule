@@ -1,0 +1,254 @@
+#birs_booking_box {
+    width: 100%;
+}
+
+#birs_booking_box .birs_hidden {
+    display: none;
+}
+
+#birs_appointment_form ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#birs_appointment_form div {
+    margin: 0;
+    padding: 0;
+}
+
+#birs_appointment_form .birs_field_content {
+    width: 100%;
+}
+
+#birs_appointment_form .birs_field_content,
+#birs_appointment_form .birs_form_field select {
+    max-width: 27em;
+}
+
+#birs_appointment_form .birs_field_content.birs_field_paragraph {
+    max-width: 35em;
+}
+
+#birs_appointment_form ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#birs_appointment_form .birs_form_field {
+    margin: 0;
+    padding: 6px 1% 9px 1%;
+}
+
+#birs_appointment_form .birs_form_field > label {
+    clear: both;
+    display: inline-block;
+    font-weight: bold;
+    line-height: 150%;
+    margin: 0;
+    padding: 0 0 3px 0;
+}
+
+#birs_appointment_form .birchschedule-radio-buttons label {
+    display: inline;
+    font-weight: normal;
+    margin-left: 4px;
+}
+
+#birs_appointment_form .birs_form_field select {
+    padding: 2px;
+    width: 100%;
+    font-size: inherit;
+}
+
+#birs_appointment_form .birs_form_field input[type=text], 
+#birs_appointment_form .birs_form_field input[type=password],
+#birs_appointment_datepicker {
+    width: 100%;
+}
+
+#birs_appointment_form .birs_form_field input[type="radio"],
+#birs_appointment_form .birs_form_field input[type="checkbox"] {
+    width: auto;
+    margin: 0 0 4px 0;
+}
+
+#birs_appointment_form .birs_form_field textarea {
+    width: 100%;
+    height: 10em;
+}
+
+#birs_appointment_form .ui-datepicker {
+    width: auto;
+    border: 1px solid #AAA;
+    border-radius: 4px;
+}
+
+#birs_appointment_form .ui-datepicker table {
+    width: 100%; 
+    font-size: .9em; 
+    border-collapse: collapse; 
+    margin: 0 0 .4em; 
+    border: 0;
+    min-width: 15em;
+}
+
+#birs_appointment_form .ui-datepicker tr,
+#birs_appointment_form .ui-datepicker thead,
+#birs_appointment_form .ui-datepicker tbody { 
+    border: 0; 
+}
+
+#birs_appointment_form .ui-datepicker th {
+    padding: .7em .3em; 
+    text-align: center; 
+    font-weight: bold; 
+    border: 0; 
+}
+
+#birs_appointment_form .ui-datepicker td { 
+    border: 0; 
+    padding: 1px; 
+}
+
+#birs_appointment_form .ui-datepicker td span, .ui-datepicker td a {
+    display: block;
+    padding: .2em;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+}
+
+#birs_appointment_datepicker .ui-state-active {
+    background-color: #BFBFBF;
+    color: white;
+}
+
+#birs_appointment_datepicker .ui-state-disabled {
+    color: #DEDEDE;
+}
+
+#birs_appointment_datepicker .ui-datepicker-header a {
+    border: none;
+}
+
+#birs_appointment_datepicker .ui-icon {
+    width: 16px;
+    height: 16px;
+    background-image: url(../../../lib/assets/css/jquery-ui-smoothness/images/ui-icons_222222_256x240.png);
+}
+
+#birs_appointment_datepicker .ui-icon-circle-triangle-e {
+    background-position: -48px -192px;
+}
+
+#birs_appointment_datepicker .ui-icon-circle-triangle-w {
+    background-position: -80px -192px;
+}
+
+#birs_appointment_datepicker .ui-widget-header .ui-icon {
+    background-image: url(../../../lib/assets/css/jquery-ui-smoothness/images/ui-icons_222222_256x240.png);
+}
+
+div#birs_appointment_timeoptions {
+    width: 100%;
+    text-align: left;
+}
+
+div#birs_appointment_timeoptions {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #AAA;
+    padding: 0.3em 0;
+    min-height: 5em;
+    border-left-width: 0;
+    border-right-width: 0;
+}
+
+div#birs_appointment_timeoptions span {
+    display: inline-block;
+    padding: 0.1em 0;
+    text-align: center;
+}
+
+div#birs_appointment_timeoptions span a {
+    width: 5em;
+    display: inline-block;
+    text-align: right;
+    border: none;
+}
+
+div#birs_appointment_timeoptions a.selected {
+    background-color: #BFBFBF;
+    color: white;
+    padding: 0.15em;
+}
+
+#birs_appointment_form .birs_section {
+    border-bottom: 1px dotted #CCC;
+    padding: 0 0 0.7em 0;
+    margin: 1.5em 0 0 0;
+}
+
+#birs_appointment_form .birs_footer {
+    margin-top: 0.5em;
+}
+
+#birs_appointment_form .birs_error {
+    display: none;
+    color: red;
+    margin: 0;
+    padding: 0;
+}
+#birs_appointment_form .birs_clear {
+    clear: both;
+}
+
+#birs_booking_success {
+    display: none;
+}
+
+#birs_booking_success ul {
+    list-style: none;
+    margin: 0 0 0.3em 0;
+}
+
+#birs_booking_success li h4 {
+    font-weight: bold;
+    margin-bottom: 0.3em;
+}
+
+#birs_booking_success li p {
+    margin-top: 0.15em;
+}
+
+#birs_payment_methods {
+    border: 1px solid #EEEEEE;
+    padding: 1.3em;
+    margin: 1em 0 1em 0;
+}
+
+#birs_payment_methods ul {
+    margin: 0;
+    padding: 0;
+}
+
+#birs_payment_methods li {
+    margin: 0 0 6px 0;
+    padding: 0;
+}
+
+#birs_payment_methods li .birs_payment_method_title {
+    display: inline-block;
+    width: 90%;
+}
+
+#birs_payment_methods li .birs_payment_method_title img {
+    float: right;
+    max-height: 25px;
+}
+
+#birs_payment_methods li .birs_payment_method_description {
+    margin: 4px 0;
+}

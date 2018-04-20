@@ -1,0 +1,33 @@
+#birs_appointment_info .ui-datepicker .ui-datepicker-prev,
+#birs_appointment_info .ui-datepicker .ui-datepicker-next {
+  display: none;
+}
+#wpbody-content .wrap > h2 > .add-new-h2 {
+  display: none;
+}
+.row-actions span.cancel a {
+  color: #a00;
+}
+.birs_row_edit,
+.birs_row_payments {
+  display: none;
+}
+#birs_payments_table .column-author {
+  width: 18%;
+}
+.wp-list-table .column-client_name_last,
+.wp-list-table .column-client_email,
+.wp-list-table .column-client_phone {
+  width: 25%;
+}
+.wp-list-table .row-actions {
+  visibility: visible;
+  position: static;
+}
+@media screen and (max-width: 782px) {
+  .wp-list-table .column-client_name_last,
+  .wp-list-table .column-client_email,
+  .wp-list-table .column-client_phone {
+    width: auto;
+  }
+}

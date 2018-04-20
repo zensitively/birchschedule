@@ -1,0 +1,6 @@
+.woocommerce-page #content div.product form.cart .variations {
+	display: none;
+}
+.woocommerce-page #content div.product .product_title {
+	display: none;
+}

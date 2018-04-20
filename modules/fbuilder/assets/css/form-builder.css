@@ -1,0 +1,132 @@
+#birchschedule_form_builder #postbox-container-2 {
+    max-width: 650px;
+}
+
+#birchschedule_form_builder #postbox-container-2 .postbox{
+    margin-bottom: 2px;
+}
+
+#birchschedule_form_builder #postbox-container-2 .postbox .edit-box {
+    display: inline;
+}
+
+#birchschedule_form_builder .postbox-title-action {
+    position: absolute;
+    right: 30px;
+    padding: 0;
+    top: 5px;
+}
+
+#birchschedule_form_builder .postbox.view {
+    border-color: white;
+    background-color: white;
+    background-image: none;
+}
+
+#birchschedule_form_builder .postbox.view .birchschedule-field #birchschedule_appointment_details {
+    background-color: white;
+    background-image: none;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field #birchschedule_appointment_details {
+    padding:20px;
+    border:1px dotted #CCC;
+    line-height: 1.5;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field label {
+    font-weight: bold;
+    line-height: 1.3em;
+    margin: 2px 0 4px;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field select {
+    padding: 2px;
+    width: 50%
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field .birs_section {
+    border-bottom: 1px dotted #CCC;
+    padding-bottom: 8px;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field input[type=text], 
+#birchschedule_form_builder .postbox .birchschedule-field input[type=password] {
+    width: 50%;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field textarea {
+    width: 70%;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field .birchschedule-radio-buttons label {
+    font-weight: normal;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field-edit input[type=text] {
+    width: 70%;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field-edit textarea {
+    width: 70%;
+}
+
+#birchschedule_form_builder .postbox .birchschedule-field-edit .birchschedule-choices-group {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #DFDFDF;
+    padding: 10px;
+    width: 80%;
+}
+
+#birchschedule_form_builder .postbox.view .handlediv, #birchschedule_form_builder .postbox.view .hndle {
+    visibility: hidden;
+}
+
+#birchschedule_form_builder .postbox-title-action a {
+    margin-right: 4px;
+}
+
+a #birchschedule_form_builder #birchschedule_standard_fields {
+    position: fixed;
+    margin-right: 30px;
+}
+
+#birchschedule_form_builder #birchschedule_standard_fields ul {
+    display: block;
+    overflow: auto;
+}
+
+#birchschedule_form_builder #birchschedule_standard_fields li{
+    width: 50%;
+    float: left;
+    list-style: none;
+    display: block;
+}
+
+#birchschedule_form_builder #birchschedule_standard_fields .button {
+    display: block;
+    text-align: center;
+    margin-right: 6px;
+}
+
+#birchschedule_form_builder .birchschedule-field-edit > ul > li > label {
+    font-weight: bold;
+}
+
+#birchschedule_form_builder .birs_removed_field.view, #birchschedule_form_builder .birs_removed_field {
+    background: #f1f1f1;
+    border: 2px dashed #e5e5e5;
+}
+#birchschedule_form_builder .birs_removed_field, 
+#birchschedule_form_builder .birs_removed_field h3 {
+    color: #aaa;
+}
+
+#birs_toolbox {
+    margin: 0 0 10px 0;
+}
+
+#birs_toolbox select {
+    width: 14em;
+}

@@ -1,0 +1,2269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BirchPress Scheduler\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-05 19:28-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: BirchPress <support@birchpress.com>\n"
+"Language-Team: BirchPress Team <support@birchpress.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_x;"
+"_ex;esc_attr_x;esc_html_x;_n;_nx;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: birchpress/includes/birchpress/util/imp.php:214
+#: birchpress/includes/birchpress/util/imp.php:343
+#: birchpress/includes/birchpress/util/imp.php:352
+#: birchpress/includes/birchpress/util/imp.php:424
+msgid "Sun"
+msgstr "Zo"
+
+#: birchpress/includes/birchpress/util/imp.php:215
+#: birchpress/includes/birchpress/util/imp.php:344
+#: birchpress/includes/birchpress/util/imp.php:353
+#: birchpress/includes/birchpress/util/imp.php:425
+msgid "Mon"
+msgstr "Ma"
+
+#: birchpress/includes/birchpress/util/imp.php:216
+#: birchpress/includes/birchpress/util/imp.php:345
+#: birchpress/includes/birchpress/util/imp.php:354
+#: birchpress/includes/birchpress/util/imp.php:426
+msgid "Tue"
+msgstr "Di"
+
+#: birchpress/includes/birchpress/util/imp.php:217
+#: birchpress/includes/birchpress/util/imp.php:346
+#: birchpress/includes/birchpress/util/imp.php:355
+#: birchpress/includes/birchpress/util/imp.php:427
+msgid "Wed"
+msgstr "Wo"
+
+#: birchpress/includes/birchpress/util/imp.php:218
+#: birchpress/includes/birchpress/util/imp.php:347
+#: birchpress/includes/birchpress/util/imp.php:356
+#: birchpress/includes/birchpress/util/imp.php:428
+msgid "Thu"
+msgstr "Do"
+
+#: birchpress/includes/birchpress/util/imp.php:219
+#: birchpress/includes/birchpress/util/imp.php:348
+#: birchpress/includes/birchpress/util/imp.php:357
+#: birchpress/includes/birchpress/util/imp.php:429
+msgid "Fri"
+msgstr "Vr"
+
+#: birchpress/includes/birchpress/util/imp.php:220
+#: birchpress/includes/birchpress/util/imp.php:349
+#: birchpress/includes/birchpress/util/imp.php:358
+#: birchpress/includes/birchpress/util/imp.php:430
+msgid "Sat"
+msgstr "Za"
+
+#: birchpress/includes/birchpress/util/imp.php:226
+#: includes/birchschedule/view/calendar/imp.php:256
+msgid "Month"
+msgstr "Maand"
+
+#: birchpress/includes/birchpress/util/imp.php:227
+#: includes/birchschedule/view/calendar/imp.php:260
+msgid "Week"
+msgstr "Week"
+
+#: birchpress/includes/birchpress/util/imp.php:228
+#: includes/birchschedule/view/calendar/imp.php:264
+msgid "Day"
+msgstr "Dag"
+
+#: birchpress/includes/birchpress/util/imp.php:280
+msgid "Mr"
+msgstr "Dhr."
+
+#: birchpress/includes/birchpress/util/imp.php:281
+msgid "Mrs"
+msgstr "Mevr."
+
+#: birchpress/includes/birchpress/util/imp.php:282
+msgid "Miss"
+msgstr "Mej."
+
+#: birchpress/includes/birchpress/util/imp.php:283
+msgid "Ms"
+msgstr "Mw."
+
+#: birchpress/includes/birchpress/util/imp.php:284
+msgid "Dr"
+msgstr "Dr."
+
+#: birchpress/includes/birchpress/util/imp.php:315
+#: birchpress/includes/birchpress/util/imp.php:329
+#: birchpress/includes/birchpress/util/imp.php:401
+msgid "Jan"
+msgstr "Jan"
+
+#: birchpress/includes/birchpress/util/imp.php:316
+#: birchpress/includes/birchpress/util/imp.php:330
+#: birchpress/includes/birchpress/util/imp.php:402
+msgid "Feb"
+msgstr "Feb"
+
+#: birchpress/includes/birchpress/util/imp.php:317
+#: birchpress/includes/birchpress/util/imp.php:331
+#: birchpress/includes/birchpress/util/imp.php:403
+msgid "Mar"
+msgstr "Mrt"
+
+#: birchpress/includes/birchpress/util/imp.php:318
+#: birchpress/includes/birchpress/util/imp.php:332
+#: birchpress/includes/birchpress/util/imp.php:404
+msgid "Apr"
+msgstr "Apr"
+
+#: birchpress/includes/birchpress/util/imp.php:319
+#: birchpress/includes/birchpress/util/imp.php:333
+#: birchpress/includes/birchpress/util/imp.php:391
+#: birchpress/includes/birchpress/util/imp.php:405
+msgid "May"
+msgstr "Mei"
+
+#: birchpress/includes/birchpress/util/imp.php:320
+#: birchpress/includes/birchpress/util/imp.php:334
+#: birchpress/includes/birchpress/util/imp.php:406
+msgid "Jun"
+msgstr "Jun"
+
+#: birchpress/includes/birchpress/util/imp.php:321
+#: birchpress/includes/birchpress/util/imp.php:335
+#: birchpress/includes/birchpress/util/imp.php:407
+msgid "Jul"
+msgstr "Jul"
+
+#: birchpress/includes/birchpress/util/imp.php:322
+#: birchpress/includes/birchpress/util/imp.php:336
+#: birchpress/includes/birchpress/util/imp.php:408
+msgid "Aug"
+msgstr "Aug"
+
+#: birchpress/includes/birchpress/util/imp.php:323
+#: birchpress/includes/birchpress/util/imp.php:337
+#: birchpress/includes/birchpress/util/imp.php:409
+msgid "Sep"
+msgstr "Sept"
+
+#: birchpress/includes/birchpress/util/imp.php:324
+#: birchpress/includes/birchpress/util/imp.php:338
+#: birchpress/includes/birchpress/util/imp.php:410
+msgid "Oct"
+msgstr "Okt"
+
+#: birchpress/includes/birchpress/util/imp.php:325
+#: birchpress/includes/birchpress/util/imp.php:339
+#: birchpress/includes/birchpress/util/imp.php:411
+msgid "Nov"
+msgstr "Nov"
+
+#: birchpress/includes/birchpress/util/imp.php:326
+#: birchpress/includes/birchpress/util/imp.php:340
+#: birchpress/includes/birchpress/util/imp.php:412
+msgid "Dec"
+msgstr "Dec"
+
+#: birchpress/includes/birchpress/util/imp.php:361
+msgid "today"
+msgstr "vandaag"
+
+#: birchpress/includes/birchpress/util/imp.php:362
+msgid "month"
+msgstr "maand"
+
+#: birchpress/includes/birchpress/util/imp.php:363
+msgid "week"
+msgstr "week"
+
+#: birchpress/includes/birchpress/util/imp.php:364
+msgid "day"
+msgstr "dag"
+
+#: birchpress/includes/birchpress/util/imp.php:387
+msgid "January"
+msgstr "Januari"
+
+#: birchpress/includes/birchpress/util/imp.php:388
+msgid "February"
+msgstr "Februari"
+
+#: birchpress/includes/birchpress/util/imp.php:389
+msgid "March"
+msgstr "Maart"
+
+#: birchpress/includes/birchpress/util/imp.php:390
+msgid "April"
+msgstr "April"
+
+#: birchpress/includes/birchpress/util/imp.php:392
+msgid "June"
+msgstr "Juni"
+
+#: birchpress/includes/birchpress/util/imp.php:393
+msgid "July"
+msgstr "Juli"
+
+#: birchpress/includes/birchpress/util/imp.php:394
+msgid "August"
+msgstr "Augustus"
+
+#: birchpress/includes/birchpress/util/imp.php:395
+msgid "September"
+msgstr "September"
+
+#: birchpress/includes/birchpress/util/imp.php:396
+msgid "October"
+msgstr "Oktober"
+
+#: birchpress/includes/birchpress/util/imp.php:397
+msgid "November"
+msgstr "November"
+
+#: birchpress/includes/birchpress/util/imp.php:398
+msgid "December"
+msgstr "December"
+
+#: birchpress/includes/birchpress/util/imp.php:415
+msgid "Sunday"
+msgstr "Zondag"
+
+#: birchpress/includes/birchpress/util/imp.php:416
+msgid "Monday"
+msgstr "Maandag"
+
+#: birchpress/includes/birchpress/util/imp.php:417
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: birchpress/includes/birchpress/util/imp.php:418
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: birchpress/includes/birchpress/util/imp.php:419
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: birchpress/includes/birchpress/util/imp.php:420
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: birchpress/includes/birchpress/util/imp.php:421
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: birchpress/includes/birchpress/util/imp.php:433
+msgid "Su"
+msgstr "Zo"
+
+#: birchpress/includes/birchpress/util/imp.php:434
+msgid "Mo"
+msgstr "Ma"
+
+#: birchpress/includes/birchpress/util/imp.php:435
+msgid "Tu"
+msgstr "Di"
+
+#: birchpress/includes/birchpress/util/imp.php:436
+msgid "We"
+msgstr "Wo"
+
+#: birchpress/includes/birchpress/util/imp.php:437
+msgid "Th"
+msgstr "Do"
+
+#: birchpress/includes/birchpress/util/imp.php:438
+msgid "Fr"
+msgstr "Vr"
+
+#: birchpress/includes/birchpress/util/imp.php:439
+msgid "Sa"
+msgstr "Za"
+
+#: includes/birchschedule/model/booking/imp.php:42
+#, php-format
+msgid "%s Clients"
+msgstr "%s Cliënten"
+
+#: includes/birchschedule/model/booking/imp.php:166
+#: includes/birchschedule/model/booking/imp.php:186
+#: includes/birchschedule/model/booking/imp.php:222
+#: includes/birchschedule/model/booking/imp.php:533
+#: includes/birchschedule/model/booking/imp.php:562
+#: includes/birchschedule/model/booking/imp.php:613
+#: includes/birchschedule/model/booking/imp.php:630
+#: includes/birchschedule/model/booking/imp.php:786
+msgid "The appointment does not exist."
+msgstr "De afspraak bestaat niet."
+
+#: includes/birchschedule/model/booking/imp.php:817
+msgid "Credit Card"
+msgstr "Kredietkaart"
+
+#: includes/birchschedule/model/booking/imp.php:818
+msgid "Cash"
+msgstr "Contant"
+
+#: includes/birchschedule/view/imp.php:287
+#: includes/birchschedule/view/imp.php:288
+msgid "Business"
+msgstr "Bedrijf"
+
+#: includes/birchschedule/view/imp.php:292
+#: includes/birchschedule/view/imp.php:293
+msgid "Calendar"
+msgstr "Agenda"
+
+#: includes/birchschedule/view/imp.php:299
+msgid "BirchPress Scheduler Settings"
+msgstr "BirchPress Scheduler instellingen"
+
+#: includes/birchschedule/view/imp.php:300
+#: modules/fbuilder/field/predefined/clientsection_imp.php:158
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/birchschedule/view/imp.php:305
+msgid "Help"
+msgstr "Help"
+
+#: includes/birchschedule/view/imp.php:357
+msgid "Loading..."
+msgstr "Laden..."
+
+#: includes/birchschedule/view/imp.php:358
+msgid "Loading appointments..."
+msgstr "Afspraken laden..."
+
+#: includes/birchschedule/view/imp.php:359
+msgid "Saving..."
+msgstr "Opslaan..."
+
+#: includes/birchschedule/view/imp.php:360
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:141
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:304
+#: modules/fbuilder/field/imp.php:353 modules/gbooking/imp.php:261
+msgid "Save"
+msgstr "Opslaan"
+
+#: includes/birchschedule/view/imp.php:361
+#: includes/birchschedule/view/appointments/new/imp.php:259
+#: includes/birchschedule/view/bookingform/imp.php:710
+#: modules/fbuilder/field/predefined/submit_imp.php:108
+#: modules/gbooking/imp.php:250 modules/wintegration/wc_imp.php:727
+msgid "Please wait..."
+msgstr "Even wachten..."
+
+#: includes/birchschedule/view/imp.php:362
+#: includes/birchschedule/view/appointments/new/imp.php:267
+msgid "Schedule"
+msgstr "Plannen"
+
+#: includes/birchschedule/view/imp.php:363
+msgid "Are you sure you want to cancel this appointment?"
+msgstr "Weet u zeker dat u deze afspraak wilt annuleren?"
+
+#: includes/birchschedule/view/imp.php:364
+msgid "Your appointment has been cancelled successfully."
+msgstr "Uw afspraak is succesvol geannuleerd."
+
+#: includes/birchschedule/view/imp.php:365
+msgid "The appointment doesn't exist or has been cancelled."
+msgstr "De afspraak bestaat niet of is geannuleerd."
+
+#: includes/birchschedule/view/imp.php:366
+msgid "Your appointment has been rescheduled successfully."
+msgstr "Uw afspraak is succesvol verzet."
+
+#: includes/birchschedule/view/imp.php:367
+msgid ""
+"Your appointment can not be cancelled now according to our booking policies."
+msgstr "Volgens ons boekingsbeleid kan uw afspraak niet worden geannuleerd."
+
+#: includes/birchschedule/view/imp.php:368
+msgid ""
+"Your appointment can not be rescheduled now according to our booking "
+"policies."
+msgstr "Volgens ons boekingsbeleid kan uw afspraak nu niet worden verzet."
+
+#: includes/birchschedule/view/imp.php:369
+msgid "There are no available times."
+msgstr "Er zijn geen tijdstippen beschikbaar."
+
+#: includes/birchschedule/view/imp.php:370
+msgid "(Deposit)"
+msgstr "(Storten)"
+
+#: includes/birchschedule/view/imp.php:371
+#: includes/birchschedule/view/appointments/edit/imp.php:294
+#: modules/aportal/imp.php:625
+msgid "Reschedule"
+msgstr "Herplannen"
+
+#: includes/birchschedule/view/imp.php:372 modules/eadmin/imp.php:195
+#: modules/gbooking/imp.php:199
+msgid "Change"
+msgstr "Wijzigen"
+
+#: includes/birchschedule/view/imp.php:373
+msgid "No Preference"
+msgstr "Geen voorkeur"
+
+#: includes/birchschedule/view/appointments/imp.php:33
+#: modules/cmanager/imp.php:30
+msgid "Appointments"
+msgstr "Afspraken"
+
+#: includes/birchschedule/view/appointments/imp.php:34
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:44
+msgid "Appointment"
+msgstr "Afspraak"
+
+#: includes/birchschedule/view/appointments/imp.php:35
+#: includes/birchschedule/view/appointments/imp.php:36
+#: includes/birchschedule/view/appointments/imp.php:39
+#: includes/birchschedule/view/calendar/imp.php:240
+#: modules/enotification/imp.php:392
+msgid "New Appointment"
+msgstr "Nieuwe afspraak"
+
+#: includes/birchschedule/view/appointments/imp.php:37
+#: includes/birchschedule/view/appointments/imp.php:70
+#: includes/birchschedule/view/appointments/edit/clientlist/imp.php:56
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:47
+#: includes/birchschedule/view/clients/imp.php:35
+#: includes/birchschedule/view/locations/imp.php:36
+#: includes/birchschedule/view/services/imp.php:37
+#: includes/birchschedule/view/staff/imp.php:38
+#: modules/fbuilder/field/imp.php:412 modules/wcredit/imp.php:114
+msgid "Edit"
+msgstr "Aanpassen"
+
+#: includes/birchschedule/view/appointments/imp.php:38
+msgid "Edit Appointment"
+msgstr "Afspraak aanpassen"
+
+#: includes/birchschedule/view/appointments/imp.php:40
+#: includes/birchschedule/view/appointments/imp.php:41
+msgid "View Appointment"
+msgstr "Afspraak bekijken"
+
+#: includes/birchschedule/view/appointments/imp.php:42
+msgid "Search Appointments"
+msgstr "Afspraken zoeken"
+
+#: includes/birchschedule/view/appointments/imp.php:43
+msgid "No Appointments found"
+msgstr "Geen afspraken gevonden"
+
+#: includes/birchschedule/view/appointments/imp.php:44
+msgid "No Appointments found in trash"
+msgstr "Geen verwijderde afspraken gevonden"
+
+#: includes/birchschedule/view/appointments/imp.php:45
+msgid "Parent Appointment"
+msgstr "Ouder-afspraak"
+
+#: includes/birchschedule/view/appointments/imp.php:47
+msgid "This is where appointments are stored."
+msgstr "Dit is waar afspraken worden opgeslagen"
+
+#: includes/birchschedule/view/appointments/imp.php:66
+msgid "One-on-one appointments"
+msgstr "een-op-een-afspraken"
+
+#: includes/birchschedule/view/appointments/imp.php:67
+msgid "One-on-one appointment"
+msgstr "een-op-een-afspraak"
+
+#: includes/birchschedule/view/appointments/imp.php:68
+#: includes/birchschedule/view/appointments/imp.php:69
+#: includes/birchschedule/view/appointments/imp.php:72
+msgid "New One-on-one Appointment"
+msgstr "Nieuwe een-op-een-afspraak"
+
+#: includes/birchschedule/view/appointments/imp.php:71
+msgid "Edit One-on-one Appointment"
+msgstr "Een-op-een-afspraak aanpassen"
+
+#: includes/birchschedule/view/appointments/imp.php:73
+#: includes/birchschedule/view/appointments/imp.php:74
+msgid "View One-on-one Appointment"
+msgstr "Een-op-een-afspraak bekijken"
+
+#: includes/birchschedule/view/appointments/imp.php:75
+msgid "Search One-on-one Appointments"
+msgstr "Een-op-een-afspraken zoeken"
+
+#: includes/birchschedule/view/appointments/imp.php:76
+msgid "No One-on-one Appointments found"
+msgstr "Geen een-op-een-afspraken gevonden"
+
+#: includes/birchschedule/view/appointments/imp.php:77
+msgid "No One-on-one Appointments found in trash"
+msgstr "Geen verwijderde een-op-een-afspraken gevonden"
+
+#: includes/birchschedule/view/appointments/imp.php:78
+msgid "Parent One-on-one Appointment"
+msgstr "Ouder-een-op-een-afspraak"
+
+#: includes/birchschedule/view/appointments/imp.php:80
+msgid "This is where one-on-one appointments are stored."
+msgstr "Dit is waar een-op-een-afspraken worden opgeslagen."
+
+#: includes/birchschedule/view/appointments/imp.php:104
+#: includes/birchschedule/view/appointments/imp.php:107
+#: includes/birchschedule/view/appointments/imp.php:109
+msgid "Appointment updated."
+msgstr "Afspraken bijgewerkt."
+
+#: includes/birchschedule/view/appointments/imp.php:105
+#: includes/birchschedule/view/clients/imp.php:147
+#: includes/birchschedule/view/locations/imp.php:81
+#: includes/birchschedule/view/services/imp.php:133
+#: includes/birchschedule/view/staff/imp.php:126
+msgid "Custom field updated."
+msgstr "Aanpasbaar veld bijgewerkt."
+
+#: includes/birchschedule/view/appointments/imp.php:106
+#: includes/birchschedule/view/clients/imp.php:148
+#: includes/birchschedule/view/locations/imp.php:82
+#: includes/birchschedule/view/services/imp.php:134
+#: includes/birchschedule/view/staff/imp.php:127
+msgid "Custom field deleted."
+msgstr "Aanpasbaar veld verwijderd."
+
+#: includes/birchschedule/view/appointments/imp.php:108
+#, php-format
+msgid "Appointment restored to revision from %s"
+msgstr "Afspraak hersteld naar herziening door %s"
+
+#: includes/birchschedule/view/appointments/imp.php:110
+msgid "Appointment saved."
+msgstr "Afspraak opgeslagen."
+
+#: includes/birchschedule/view/appointments/imp.php:111
+msgid "Appointment submitted."
+msgstr "Afspraak ingediend."
+
+#: includes/birchschedule/view/appointments/imp.php:112
+#, php-format
+msgid "Appointment scheduled for: <strong>%1$s</strong>."
+msgstr "Afspraak ingepland voor: <strong>%1$s</strong>."
+
+#: includes/birchschedule/view/appointments/imp.php:113
+msgid "Appointment draft updated."
+msgstr "Conceptafspraak bijgewerkt."
+
+#: includes/birchschedule/view/appointments/edit/imp.php:141
+msgid "Please select a provider"
+msgstr "Selecteer een provider"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:144
+#: includes/birchschedule/view/appointments/new/imp.php:296
+#: includes/birchschedule/view/bookingform/imp.php:186
+#: modules/aportal/imp.php:684
+msgid "Date is required"
+msgstr "Datum is vereist"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:147
+#: includes/birchschedule/view/appointments/new/imp.php:299
+#: includes/birchschedule/view/bookingform/imp.php:189
+#: includes/birchschedule/view/bookingform/imp.php:230
+#: modules/aportal/imp.php:687
+msgid "Time is required"
+msgstr "Tijdstip is vereist"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:157
+#: includes/birchschedule/view/appointments/new/imp.php:309
+#: includes/birchschedule/view/bookingform/imp.php:199
+msgid "Date & time is incorrect"
+msgstr "Datum en tijdstip zijn vereist"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:224
+#: includes/birchschedule/view/appointments/new/imp.php:127
+#: includes/birchschedule/view/bookingform/imp.php:626
+#: modules/fbuilder/upgrader.php:27 modules/fbuilder/upgrader.php:349
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:94
+#: modules/wintegration/wc_imp.php:556
+msgid "Appointment Info"
+msgstr "Afspraakinfo"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:226
+#: includes/birchschedule/view/appointments/new/imp.php:129
+msgid "Actions"
+msgstr "Acties"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:249
+#: includes/birchschedule/view/appointments/new/imp.php:280
+msgid "Back to Calendar"
+msgstr "Terug naar agenda"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:264
+msgid "Cancel Appointment"
+msgstr "Afspraak annuleren"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:326
+#: includes/birchschedule/view/appointments/new/imp.php:167
+#: includes/birchschedule/view/bookingform/imp.php:292
+#: includes/birchschedule/view/bookingform/imp.php:553
+#: includes/birchschedule/view/bookingform/imp.php:605
+#: includes/birchschedule/view/locations/imp.php:33
+#: modules/fbuilder/upgrader.php:33 modules/fbuilder/upgrader.php:355
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:98
+#: modules/pcalendar/imp.php:196 modules/ppayment/upgrader.php:42
+msgid "Location"
+msgstr "Locatie"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:337
+#: includes/birchschedule/view/appointments/new/imp.php:177
+#: includes/birchschedule/view/bookingform/imp.php:296
+#: includes/birchschedule/view/bookingform/imp.php:557
+#: includes/birchschedule/view/bookingform/imp.php:606
+#: includes/birchschedule/view/services/imp.php:34
+#: modules/fbuilder/upgrader.php:34 modules/fbuilder/upgrader.php:356
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:102
+#: modules/ppayment/upgrader.php:46
+msgid "Service"
+msgstr "Dienst"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:348
+#: includes/birchschedule/view/appointments/new/imp.php:187
+#: includes/birchschedule/view/bookingform/imp.php:607
+#: includes/birchschedule/view/staff/imp.php:35
+#: modules/fbuilder/upgrader.php:35 modules/fbuilder/upgrader.php:357
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:106
+#: modules/pcalendar/imp.php:199 modules/ppayment/upgrader.php:50
+msgid "Provider"
+msgstr "Provider"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:359
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:262
+#: includes/birchschedule/view/appointments/new/imp.php:198
+#: includes/birchschedule/view/bookingform/imp.php:608
+#: modules/fbuilder/upgrader.php:209 modules/fbuilder/upgrader.php:292
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:110
+#: modules/wcredit/imp.php:187
+msgid "Date"
+msgstr "Datum"
+
+#: includes/birchschedule/view/appointments/edit/imp.php:369
+#: includes/birchschedule/view/appointments/new/imp.php:209
+#: includes/birchschedule/view/bookingform/imp.php:300
+#: includes/birchschedule/view/bookingform/imp.php:561
+#: includes/birchschedule/view/bookingform/imp.php:609
+#: modules/fbuilder/upgrader.php:210 modules/fbuilder/upgrader.php:293
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:114
+#: modules/ppayment/upgrader.php:54
+msgid "Time"
+msgstr "Tijdstip"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/imp.php:38
+#: includes/birchschedule/view/appointments/new/imp.php:233
+#: includes/birchschedule/view/clients/imp.php:108
+msgid "Client Info"
+msgstr "Cliëntinfo"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/imp.php:57
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:43
+#: modules/ppayment/imp.php:87
+msgid "Payments"
+msgstr "Betalingen"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/imp.php:58
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:145
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:308
+#: modules/fbuilder/field/imp.php:354 modules/gbooking/imp.php:265
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:101
+#: includes/birchschedule/view/clients/imp.php:215
+msgid "Email already exists."
+msgstr "E-mail bestaat reeds."
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:109
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:112
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:120
+#: includes/birchschedule/view/appointments/new/imp.php:318
+#: includes/birchschedule/view/appointments/new/imp.php:321
+#: includes/birchschedule/view/appointments/new/imp.php:329
+#: modules/fbuilder/field/imp.php:364
+#: modules/fbuilder/field/predefined/address_imp.php:50
+msgid "This field is required"
+msgstr "Dit veld is vereist"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:115
+#: includes/birchschedule/view/appointments/new/imp.php:324
+#: includes/birchschedule/view/bookingform/imp.php:214
+#: modules/fbuilder/field/predefined/clientemail_imp.php:30
+msgid "Email is required"
+msgstr "E-mail is vereist"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:117
+#: includes/birchschedule/view/appointments/new/imp.php:326
+#: includes/birchschedule/view/bookingform/imp.php:216
+msgid "Email is incorrect"
+msgstr "E-mail is incorrect"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:162
+#: includes/birchschedule/view/clients/imp.php:36
+msgid "Edit Client"
+msgstr "Cliënt aanpassen"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:206
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:265
+#: includes/birchschedule/view/bookingform/imp.php:610
+#: modules/fbuilder/upgrader.php:42 modules/wcredit/imp.php:189
+msgid "Notes"
+msgstr "Aantekeningen"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:249
+#: includes/birchschedule/view/clients/imp.php:262
+#: modules/fbuilder/upgrader.php:65
+msgid "Title"
+msgstr "Titel"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:260
+#: includes/birchschedule/view/bookingform/imp.php:611
+#: includes/birchschedule/view/clients/imp.php:272
+#: modules/fbuilder/upgrader.php:75
+msgid "First Name"
+msgstr "Voornaam"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:269
+#: includes/birchschedule/view/bookingform/imp.php:612
+#: includes/birchschedule/view/clients/imp.php:279
+#: modules/fbuilder/upgrader.php:83
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:278
+#: includes/birchschedule/view/bookingform/imp.php:613
+#: includes/birchschedule/view/clients/imp.php:118
+#: includes/birchschedule/view/clients/imp.php:295 modules/fbuilder/imp.php:35
+#: modules/fbuilder/upgrader.php:91
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:287
+#: includes/birchschedule/view/bookingform/imp.php:614
+#: includes/birchschedule/view/clients/imp.php:117
+#: modules/fbuilder/upgrader.php:110
+msgid "Phone"
+msgstr "Telefoon"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:296
+#: includes/birchschedule/view/clients/imp.php:119
+#: includes/birchschedule/view/clients/imp.php:303
+#: includes/birchschedule/view/locations/imp.php:69
+#: includes/birchschedule/view/locations/imp.php:214
+#: modules/fbuilder/upgrader.php:118
+msgid "Address"
+msgstr "Adres"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:307
+#: includes/birchschedule/view/clients/imp.php:315
+#: includes/birchschedule/view/locations/imp.php:70
+#: includes/birchschedule/view/locations/imp.php:224
+#: modules/fbuilder/upgrader.php:126
+msgid "City"
+msgstr "Stad"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:316
+#: includes/birchschedule/view/clients/imp.php:323
+#: includes/birchschedule/view/locations/imp.php:71
+#: includes/birchschedule/view/locations/imp.php:231
+#: modules/fbuilder/upgrader.php:134
+msgid "State/Province"
+msgstr "Staat/Provincie"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:332
+#: includes/birchschedule/view/clients/imp.php:338
+#: includes/birchschedule/view/locations/imp.php:241
+#: modules/fbuilder/upgrader.php:142
+msgid "Country"
+msgstr "Land"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/edit/imp.php:343
+#: includes/birchschedule/view/clients/imp.php:347
+#: includes/birchschedule/view/locations/imp.php:249
+#: modules/fbuilder/upgrader.php:152
+msgid "Zip Code"
+msgstr "Postcode"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:45
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:246
+msgid "Add Payment"
+msgstr "Betaling toevoegen"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:46
+msgid "Add New Payment"
+msgstr "Voeg een nieuwe betaling toe"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:48
+msgid "Edit Payment"
+msgstr "Betaling aanpassen"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:49
+msgid "New Payment"
+msgstr "Nieuwe betaling"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:50
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:51
+msgid "View Payment"
+msgstr "Betaling bekijken"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:52
+msgid "Search Payments"
+msgstr "Betalingen zoeken"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:53
+msgid "No Payments found"
+msgstr "Geen betalingen gevonden"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:54
+msgid "No Payments found in trash"
+msgstr "Geen verwijderde betalingen gevonden"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:55
+msgid "Parent Payment"
+msgstr "Ouder-betaling"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:57
+msgid "This is where payments are stored."
+msgstr "Dit is waar betalingen worden opgeslagen."
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:181
+#: includes/birchschedule/view/services/imp.php:229
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:192
+msgid "Paid"
+msgstr "Betaald"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:201
+msgid "Due"
+msgstr "Verschuldigd"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:213
+msgid "Amount to Pay"
+msgstr "Te betalen bedrag"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:223
+msgid "Payment Type"
+msgstr "Betalingstype"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:233
+msgid "Payment Notes"
+msgstr "Betalingsaantekeningen"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:255
+msgid "Payment History"
+msgstr "Betalingshistorie"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:263
+#: modules/wcredit/imp.php:188
+msgid "Amount"
+msgstr "Bedrag"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:264
+msgid "Type"
+msgstr "Type"
+
+#: includes/birchschedule/view/appointments/edit/clientlist/payments/imp.php:349
+#: modules/cintegration/imp.php:659 modules/fbuilder/field/imp.php:416
+#: modules/fbuilder/field/selectable_imp.php:69
+#: modules/wintegration/imp.php:357
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: includes/birchschedule/view/appointments/new/imp.php:249
+#: modules/enotification/imp.php:290 modules/gbooking/imp.php:240
+msgid "Additional Info"
+msgstr "Additionele info"
+
+#: includes/birchschedule/view/appointments/new/imp.php:293
+#: includes/birchschedule/view/bookingform/imp.php:183
+msgid "Please select a service and a provider"
+msgstr "Selecteer een dienst en een provider"
+
+#: includes/birchschedule/view/bookingform/imp.php:208
+msgid "First name is required"
+msgstr "Voornaam is vereist"
+
+#: includes/birchschedule/view/bookingform/imp.php:211
+msgid "Last name is required"
+msgstr "Achternaam is vereist"
+
+#: includes/birchschedule/view/bookingform/imp.php:219
+msgid "Phone is required"
+msgstr "Telefoon is vereist"
+
+#: includes/birchschedule/view/bookingform/imp.php:239
+msgid "Time is unavaliable"
+msgstr "Tijdstip is onbeschikbaar"
+
+#: includes/birchschedule/view/bookingform/imp.php:285
+#: modules/eadmin/imp.php:153
+msgid "Duration"
+msgstr "Duur"
+
+#: includes/birchschedule/view/bookingform/imp.php:285
+#: modules/eadmin/imp.php:187
+msgid "mins"
+msgstr "Minuten"
+
+#: includes/birchschedule/view/bookingform/imp.php:288
+#: includes/birchschedule/view/bookingform/imp.php:549
+msgid "Your appointment has been booked successfully."
+msgstr "Uw afspraak is succesvol geboekt."
+
+#: includes/birchschedule/view/bookingform/imp.php:375
+msgid "Please refresh the page and book again."
+msgstr "Ververs de pagina en boek opnieuw alstublieft."
+
+#: includes/birchschedule/view/bookingform/imp.php:430
+msgid "Please select time..."
+msgstr "Selecteer een tijdstip..."
+
+#: includes/birchschedule/view/bookingform/imp.php:544
+msgid "Your appointment has not been booked successfully due to some errors."
+msgstr "Uw afspraak is wegens enkele fouten niet succesvol geboekt."
+
+#: includes/birchschedule/view/bookingform/imp.php:674
+#: modules/fbuilder/upgrader.php:50 modules/fbuilder/upgrader.php:366
+#: modules/fbuilder/field/predefined/clientsection_imp.php:134
+msgid "Your Info"
+msgstr "Uw info"
+
+#: includes/birchschedule/view/bookingform/imp.php:712
+#: modules/fbuilder/upgrader.php:160
+#: modules/fbuilder/field/predefined/submit_imp.php:35
+msgid "Submit"
+msgstr "Indienen"
+
+#: includes/birchschedule/view/calendar/imp.php:122
+msgid "All Locations"
+msgstr "Alle locaties"
+
+#: includes/birchschedule/view/calendar/imp.php:141
+#: modules/acontrol/imp.php:144 modules/mstaff/imp.php:104
+#: modules/pcalendar/imp.php:106
+msgid "All Providers"
+msgstr "Alle providers"
+
+#: includes/birchschedule/view/calendar/imp.php:250
+msgid "Today"
+msgstr "Vandaag"
+
+#: includes/birchschedule/view/clients/imp.php:31
+msgid "Clients"
+msgstr "Cliënten"
+
+#: includes/birchschedule/view/clients/imp.php:32
+msgid "Client"
+msgstr "Cliënt"
+
+#: includes/birchschedule/view/clients/imp.php:33
+msgid "Add Client"
+msgstr "Nieuwe cliënt"
+
+#: includes/birchschedule/view/clients/imp.php:34
+msgid "Add New Client"
+msgstr "Nieuwe cliënt toevoegen"
+
+#: includes/birchschedule/view/clients/imp.php:37
+msgid "New Client"
+msgstr "Nieuwe cliënt"
+
+#: includes/birchschedule/view/clients/imp.php:38
+#: includes/birchschedule/view/clients/imp.php:39
+msgid "View Client"
+msgstr "Cliënt bekijken"
+
+#: includes/birchschedule/view/clients/imp.php:40
+msgid "Search Clients"
+msgstr "Cliënten zoeken"
+
+#: includes/birchschedule/view/clients/imp.php:41
+msgid "No Clients found"
+msgstr "Geen cliënten gevonden"
+
+#: includes/birchschedule/view/clients/imp.php:42
+msgid "No Clients found in trash"
+msgstr "Geen verwijderde cliënten gevonden"
+
+#: includes/birchschedule/view/clients/imp.php:43
+msgid "Parent Client"
+msgstr "Ouder-cliënt"
+
+#: includes/birchschedule/view/clients/imp.php:45
+msgid "This is where clients are stored."
+msgstr "Dit is waar cliënten worden opgeslagen."
+
+#: includes/birchschedule/view/clients/imp.php:116
+msgid "Client Name"
+msgstr "Cliëntnaam"
+
+#: includes/birchschedule/view/clients/imp.php:146
+#: includes/birchschedule/view/clients/imp.php:149
+#: includes/birchschedule/view/clients/imp.php:151
+msgid "Client updated."
+msgstr "Cliënt bijgewerkt."
+
+#: includes/birchschedule/view/clients/imp.php:150
+#, php-format
+msgid "Client restored to revision from %s"
+msgstr "Cliënt hersteld naar herziening door %s"
+
+#: includes/birchschedule/view/clients/imp.php:152
+msgid "Client saved."
+msgstr "Cliënt opgeslagen."
+
+#: includes/birchschedule/view/clients/imp.php:153
+msgid "Client submitted."
+msgstr "Cliënt ingediend."
+
+#: includes/birchschedule/view/clients/imp.php:154
+#, php-format
+msgid "Client scheduled for: <strong>%1$s</strong>."
+msgstr "Cliënt ingepland op: <strong>%1$s</strong>."
+
+#: includes/birchschedule/view/clients/imp.php:155
+msgid "Client draft updated."
+msgstr "Conceptcliënt bijgewerkt."
+
+#: includes/birchschedule/view/clients/imp.php:212
+msgid "The email address isn’t correct."
+msgstr "Het e-mailadres is niet correct."
+
+#: includes/birchschedule/view/clients/imp.php:286
+#: includes/birchschedule/view/locations/imp.php:207
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: includes/birchschedule/view/help/imp.php:35
+msgid "Help and Support"
+msgstr "Help en ondersteuning"
+
+#: includes/birchschedule/view/help/imp.php:38
+msgid "Versions"
+msgstr "Versies"
+
+#: includes/birchschedule/view/locations/imp.php:32
+#: modules/lbservices/imp.php:42 modules/wintegration/imp.php:368
+msgid "Locations"
+msgstr "Locaties"
+
+#: includes/birchschedule/view/locations/imp.php:34
+msgid "Add Location"
+msgstr "Locaties toevoegen"
+
+#: includes/birchschedule/view/locations/imp.php:35
+msgid "Add New Location"
+msgstr "Voeg een nieuwe locatie toe"
+
+#: includes/birchschedule/view/locations/imp.php:37
+msgid "Edit Location"
+msgstr "Locatie wijzigen"
+
+#: includes/birchschedule/view/locations/imp.php:38
+msgid "New Location"
+msgstr "Nieuwe locatie"
+
+#: includes/birchschedule/view/locations/imp.php:39
+#: includes/birchschedule/view/locations/imp.php:40
+msgid "View Location"
+msgstr "Locatie bekijken"
+
+#: includes/birchschedule/view/locations/imp.php:41
+msgid "Search Locations"
+msgstr "Locaties zoeken"
+
+#: includes/birchschedule/view/locations/imp.php:42
+msgid "No Locations found"
+msgstr "Geen locaties gevonden"
+
+#: includes/birchschedule/view/locations/imp.php:43
+msgid "No Locations found in trash"
+msgstr "Geen verwijderde locaties gevonden"
+
+#: includes/birchschedule/view/locations/imp.php:44
+msgid "Parent Location"
+msgstr "Ouder-locatie"
+
+#: includes/birchschedule/view/locations/imp.php:46
+msgid "This is where locations are stored."
+msgstr "Dit is waar locaties worden opgeslagen."
+
+#: includes/birchschedule/view/locations/imp.php:68
+msgid "Location Name"
+msgstr "Locatienaam"
+
+#: includes/birchschedule/view/locations/imp.php:80
+#: includes/birchschedule/view/locations/imp.php:83
+#: includes/birchschedule/view/locations/imp.php:85
+msgid "Location updated."
+msgstr "Locatie bijgewerkt."
+
+#: includes/birchschedule/view/locations/imp.php:84
+#, php-format
+msgid "Location restored to revision from %s"
+msgstr "Locatie hersteld naar herziening door %s"
+
+#: includes/birchschedule/view/locations/imp.php:86
+msgid "Location saved."
+msgstr "Locatie opgeslagen."
+
+#: includes/birchschedule/view/locations/imp.php:87
+msgid "Location submitted."
+msgstr "Locatie ingediend."
+
+#: includes/birchschedule/view/locations/imp.php:88
+#, php-format
+msgid "Location scheduled for: <strong>%1$s</strong>."
+msgstr "Locatie ingepland voor: <strong>%1$s</strong>."
+
+#: includes/birchschedule/view/locations/imp.php:89
+msgid "Location draft updated."
+msgstr "Conceptlocatie bijgewerkt."
+
+#: includes/birchschedule/view/locations/imp.php:174
+msgid "Location Details"
+msgstr "Locatiegegevens"
+
+#: includes/birchschedule/view/services/imp.php:33
+#: includes/birchschedule/view/staff/imp.php:148
+#: modules/wintegration/imp.php:381
+msgid "Services"
+msgstr "Diensten"
+
+#: includes/birchschedule/view/services/imp.php:35
+msgid "Add Service"
+msgstr "Dienst toevoegen"
+
+#: includes/birchschedule/view/services/imp.php:36
+msgid "Add New Service"
+msgstr "Voeg een nieuwe dienst toe"
+
+#: includes/birchschedule/view/services/imp.php:38
+msgid "Edit Service"
+msgstr "Dienst wijzigen"
+
+#: includes/birchschedule/view/services/imp.php:39
+msgid "New Service"
+msgstr "Nieuwe dienst"
+
+#: includes/birchschedule/view/services/imp.php:40
+#: includes/birchschedule/view/services/imp.php:41
+msgid "View Service"
+msgstr "Dienst bekijken"
+
+#: includes/birchschedule/view/services/imp.php:42
+msgid "Search Services"
+msgstr "Diensten zoeken"
+
+#: includes/birchschedule/view/services/imp.php:43
+msgid "No Services found"
+msgstr "Geen diensten gevonden"
+
+#: includes/birchschedule/view/services/imp.php:44
+msgid "No Services found in trash"
+msgstr "Geen verwijderde diensten gevonden"
+
+#: includes/birchschedule/view/services/imp.php:45
+msgid "Parent Service"
+msgstr "Ouder-dienst"
+
+#: includes/birchschedule/view/services/imp.php:47
+msgid "This is where services are stored."
+msgstr "Dit is waar diensten worden opgeslagen."
+
+#: includes/birchschedule/view/services/imp.php:69
+msgid "Service Name"
+msgstr "Dienstnaam"
+
+#: includes/birchschedule/view/services/imp.php:70
+#: includes/birchschedule/view/staff/imp.php:104
+msgid "Description"
+msgstr "Omschrijving"
+
+#: includes/birchschedule/view/services/imp.php:121
+msgid "Service Settings"
+msgstr "Dienstinstellingen"
+
+#: includes/birchschedule/view/services/imp.php:123
+#: includes/birchschedule/view/staff/imp.php:34
+#: modules/wintegration/imp.php:395
+msgid "Providers"
+msgstr "Providers"
+
+#: includes/birchschedule/view/services/imp.php:132
+#: includes/birchschedule/view/services/imp.php:135
+#: includes/birchschedule/view/services/imp.php:137
+msgid "Service updated."
+msgstr "Dienst bijgewerkt."
+
+#: includes/birchschedule/view/services/imp.php:136
+#, php-format
+msgid "Service restored to revision from %s"
+msgstr "Dienst hersteld naar herziening door %s"
+
+#: includes/birchschedule/view/services/imp.php:138
+msgid "Service saved."
+msgstr "Dienst opgeslagen"
+
+#: includes/birchschedule/view/services/imp.php:139
+msgid "Service submitted."
+msgstr "Dienst ingediend."
+
+#: includes/birchschedule/view/services/imp.php:140
+#, php-format
+msgid "Service scheduled for: <strong>%1$s</strong>."
+msgstr "Dienst ingepland op: <strong>%1$s</strong>."
+
+#: includes/birchschedule/view/services/imp.php:141
+msgid "Service draft updated."
+msgstr "Conceptdienst bijgewerkt."
+
+#: includes/birchschedule/view/services/imp.php:149
+msgid "minutes"
+msgstr "minuten"
+
+#: includes/birchschedule/view/services/imp.php:150
+msgid "hours"
+msgstr "uren"
+
+#: includes/birchschedule/view/services/imp.php:156
+msgid "Before"
+msgstr "Voor"
+
+#: includes/birchschedule/view/services/imp.php:157
+msgid "After"
+msgstr "Na"
+
+#: includes/birchschedule/view/services/imp.php:158
+msgid "Before & After"
+msgstr "Voor en na"
+
+#: includes/birchschedule/view/services/imp.php:164
+msgid "Fixed"
+msgstr "Vast"
+
+#: includes/birchschedule/view/services/imp.php:165
+msgid "Varies"
+msgstr "Varieert"
+
+#: includes/birchschedule/view/services/imp.php:208
+msgid "Length"
+msgstr "Duur"
+
+#: includes/birchschedule/view/services/imp.php:219
+msgid "Padding"
+msgstr "Vulling"
+
+#: includes/birchschedule/view/services/imp.php:222
+msgid "mins padding time"
+msgstr "minuten tijdvulling"
+
+#: includes/birchschedule/view/services/imp.php:272
+msgid "Assign providers that can perform this service:"
+msgstr "Wijs providers toe die deze dienst kunnen verlenen:"
+
+#: includes/birchschedule/view/services/imp.php:279
+#, php-format
+msgid "There is no providers to assign. Click %s here %s to add one."
+msgstr ""
+"Er zijn geen providers om toe te wijzen. Klik %s hier %s om er een toe te "
+"voegen."
+
+#: includes/birchschedule/view/settings/imp.php:176 modules/ccode/imp.php:233
+#: modules/enotification/imp.php:614 modules/gsettings/imp.php:148
+#: modules/ppayment/imp.php:315
+msgid "Save changes"
+msgstr "Wijzigingen bewaren"
+
+#: includes/birchschedule/view/settings/imp.php:193 modules/ccode/imp.php:247
+#: modules/enotification/imp.php:637 modules/fbuilder/imp.php:800
+#: modules/ppayment/imp.php:331
+msgid "&nbsp"
+msgstr "&nbsp"
+
+#: includes/birchschedule/view/staff/imp.php:36
+msgid "Add Provider"
+msgstr "Provider toevoegen"
+
+#: includes/birchschedule/view/staff/imp.php:37
+msgid "Add New Provider"
+msgstr "Voeg nieuwe provider toe"
+
+#: includes/birchschedule/view/staff/imp.php:39
+msgid "Edit Provider"
+msgstr "Provider wijzigen"
+
+#: includes/birchschedule/view/staff/imp.php:40
+msgid "New Provider"
+msgstr "Nieuwe provider"
+
+#: includes/birchschedule/view/staff/imp.php:41
+#: includes/birchschedule/view/staff/imp.php:42
+msgid "View Provider"
+msgstr "Provider bekijken"
+
+#: includes/birchschedule/view/staff/imp.php:43
+msgid "Search Providers"
+msgstr "Providers zoeken"
+
+#: includes/birchschedule/view/staff/imp.php:44
+msgid "No Providers found"
+msgstr "Geen providers gevonden"
+
+#: includes/birchschedule/view/staff/imp.php:45
+msgid "No Providers found in trash"
+msgstr "Geen verwijderde providers gevonden"
+
+#: includes/birchschedule/view/staff/imp.php:46
+msgid "Parent Provider"
+msgstr "Ouder-provider"
+
+#: includes/birchschedule/view/staff/imp.php:48
+msgid "This is where provider are stored."
+msgstr "Dit is waar providers worden opgeslagen."
+
+#: includes/birchschedule/view/staff/imp.php:103
+msgid "Provider Name"
+msgstr "Providernaam"
+
+#: includes/birchschedule/view/staff/imp.php:125
+#: includes/birchschedule/view/staff/imp.php:128
+#: includes/birchschedule/view/staff/imp.php:130
+msgid "Provider updated."
+msgstr "Provider bijgewerkt."
+
+#: includes/birchschedule/view/staff/imp.php:129
+#, php-format
+msgid "Provider restored to revision from %s"
+msgstr "Provider hersteld naar herziening door %s"
+
+#: includes/birchschedule/view/staff/imp.php:131
+msgid "Provider saved."
+msgstr "Provider opgeslagen."
+
+#: includes/birchschedule/view/staff/imp.php:132
+msgid "Provider submitted."
+msgstr "Provider ingediend."
+
+#: includes/birchschedule/view/staff/imp.php:133
+#, php-format
+msgid "Provider scheduled for: <strong>%1$s</strong>."
+msgstr "Provider ingepland op: <strong>%1$s</strong>."
+
+#: includes/birchschedule/view/staff/imp.php:134
+msgid "Provider draft updated."
+msgstr "Concept-provider bijgewerkt."
+
+#: includes/birchschedule/view/staff/imp.php:146
+msgid "Work Schedule"
+msgstr "Werkplanning"
+
+#: includes/birchschedule/view/staff/imp.php:219 modules/tblocking/imp.php:120
+msgid "From"
+msgstr "Van"
+
+#: includes/birchschedule/view/staff/imp.php:233 modules/tblocking/imp.php:134
+msgid "To"
+msgstr "Tot"
+
+#: includes/birchschedule/view/staff/imp.php:323
+msgid "+ Add Schedule"
+msgstr "+ Planning toevoegen"
+
+#: includes/birchschedule/view/staff/imp.php:384
+#, php-format
+msgid "There is no locations. Click %s here %s to add one."
+msgstr "Er zijn geen locaties Klik %s hier %s om er een toe te voegen."
+
+#: includes/birchschedule/view/staff/imp.php:423
+msgid "Assign services that this provider can perform:"
+msgstr "Wijs diensten toe die deze provider kan uitvoeren:"
+
+#: includes/birchschedule/view/staff/imp.php:430
+#, php-format
+msgid "There is no services to assign. Click %s here %s to add one."
+msgstr ""
+"Er zijn geen diensten om toe te wijzen. Klik %s hier %s om er een toe te "
+"voegen."
+
+#: modules/acontrol/imp.php:294
+msgid "Staff Member"
+msgstr "Personeelslid"
+
+#: modules/acontrol/imp.php:316
+msgid "Business Manager"
+msgstr "Zakenmanager"
+
+#: modules/aportal/imp.php:150
+msgid "Cancel Page"
+msgstr "Pagina annuleren"
+
+#: modules/aportal/imp.php:157
+msgid "This page should contain shortcode [bpscheduler_cancel_appointment]."
+msgstr "Deze pagina moet korte code [bpscheduler_cancel_appointment] bevatten."
+
+#: modules/aportal/imp.php:163
+msgid "Reschedule Page"
+msgstr "Pagina herplannen"
+
+#: modules/aportal/imp.php:170
+msgid ""
+"This page should contain shortcode [bpscheduler_reschedule_appointment]."
+msgstr ""
+"Deze pagina moet korte code [bpscheduler_reschedule_appointment] bevatten."
+
+#: modules/aportal/imp.php:236
+#, php-format
+msgid "Clients can cancel appointments %s in advance."
+msgstr "Cliënten kunnen afspraken annuleren tot %s van tevoren. "
+
+#: modules/aportal/imp.php:240
+#, php-format
+msgid "Clients can reschedule appointments %s in advance."
+msgstr "Cliënten kunnen afspraken herplannen tot %s van tevoren."
+
+#: modules/aportal/imp.php:353
+msgid "Yes, cancel this appointment"
+msgstr "Ja, annuleer deze afspraak"
+
+#: modules/autoupdater/imp.php:74
+msgid "BirchPress"
+msgstr "BirchPress"
+
+#: modules/autoupdater/imp.php:76
+msgid "Support License Key"
+msgstr "Licentiesleutel voor ondersteuning"
+
+#: modules/autoupdater/imp.php:168 modules/autoupdater/imp.php:174
+msgid "Expiration Date: "
+msgstr "Expiratiedatum: "
+
+#: modules/autoupdater/imp.php:177
+msgid "Invalid license"
+msgstr "Ongeldige licentie"
+
+#: modules/autoupdater/imp.php:181
+msgid ""
+"Fill out the license key to receive access to automatic upgrades and support"
+msgstr ""
+"Vul de licentiesleutel in om toegang te krijgen tot automatische updates en "
+"ondersteuning"
+
+#: modules/bpreferences/imp.php:72
+#, php-format
+msgid "%s hour"
+msgstr "%s uur"
+
+#: modules/bpreferences/imp.php:73 modules/bpreferences/imp.php:74
+#: modules/bpreferences/imp.php:75 modules/bpreferences/imp.php:76
+#: modules/bpreferences/imp.php:77
+#, php-format
+msgid "%s hours"
+msgstr "%s uren"
+
+#: modules/bpreferences/imp.php:78 modules/bpreferences/imp.php:79
+#: modules/bpreferences/imp.php:80 modules/bpreferences/imp.php:81
+#: modules/bpreferences/imp.php:82 modules/bpreferences/imp.php:83
+#: modules/bpreferences/imp.php:84
+#, php-format
+msgid "%s days"
+msgstr "%s dagen"
+
+#: modules/bpreferences/imp.php:90
+#, php-format
+msgid "%s month"
+msgstr "%s maand"
+
+#: modules/bpreferences/imp.php:91 modules/bpreferences/imp.php:92
+#: modules/bpreferences/imp.php:93 modules/bpreferences/imp.php:94
+#: modules/bpreferences/imp.php:95
+#, php-format
+msgid "%s months"
+msgstr "%s maanden"
+
+#: modules/bpreferences/imp.php:104
+msgid "Booking Preferences"
+msgstr "Boekingsvoorkeuren"
+
+#: modules/bpreferences/imp.php:108
+msgid "Policies"
+msgstr "Beleid"
+
+#: modules/bpreferences/imp.php:157
+#, php-format
+msgid "Clients can book appointments up to %s before start time"
+msgstr "Cliënten kunnen afspraken maken tot %s voor de starttijd"
+
+#: modules/bpreferences/imp.php:161
+#, php-format
+msgid "Clients can book appointments up to %s in the future"
+msgstr "Cliënten kunnen afspraken maken tot %s in de toekomst"
+
+#: modules/bwindow/imp.php:129
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: modules/bwindow/imp.php:139 modules/bwindow/imp.php:153
+msgid "(Optional)"
+msgstr "(Optioneel)"
+
+#: modules/bwindow/imp.php:143
+msgid "End Date"
+msgstr "Einddatum"
+
+#: modules/ccode/imp.php:51
+msgid "Custom Code"
+msgstr "Unieke code "
+
+#: modules/ccode/imp.php:267
+msgid "Custom Code Updated"
+msgstr "Unieke code bijgewerkt"
+
+#: modules/cintegration/imp.php:96
+msgid "Sync iCal Interval"
+msgstr "Synchronisatie-interval voor iCal"
+
+#: modules/cintegration/imp.php:297
+msgid "BLOCKED"
+msgstr "GEBLOKKEERD"
+
+#: modules/cintegration/imp.php:556
+msgid "Calendar Integration"
+msgstr "Agenda intergratie"
+
+#: modules/cintegration/imp.php:595
+msgid "Calendar Address (iCal)"
+msgstr "Agenda-adres (iCal)"
+
+#: modules/cintegration/imp.php:608
+msgid "Import Calendars (iCal)"
+msgstr "Agenda's importeren (iCal)"
+
+#: modules/cintegration/imp.php:622
+msgid "+ Add by URL"
+msgstr "+ via url toevoegen"
+
+#: modules/cmanager/imp.php:43
+msgid "View"
+msgstr "Bekijken"
+
+#: modules/eadmin/imp.php:128
+msgid "Search for an existing client"
+msgstr "Zoeken naar een bestaande cliënt"
+
+#: modules/enotification/imp.php:85
+msgid "Client Reminder Interval"
+msgstr "Herinneringsinterval voor cliënten"
+
+#: modules/enotification/imp.php:174
+#, php-format
+msgid "Send alerts to clients %s Hrs prior to their appointment."
+msgstr "Stuur %s uur voor hun afspraak herinneringen naar cliënten."
+
+#: modules/enotification/imp.php:312
+msgid "Email Address"
+msgstr "E-mailadres"
+
+#: modules/enotification/imp.php:325
+msgid "Notifications"
+msgstr "Notificaties"
+
+#: modules/enotification/imp.php:335
+msgid "Notification to Provider"
+msgstr "Notificatie naar provider"
+
+#: modules/enotification/imp.php:338
+msgid "Notification to Client"
+msgstr "Notificatie naar cliënt"
+
+#: modules/enotification/imp.php:380
+msgid "Notification Settings Updated"
+msgstr "Notificatie-instellingen bijgewerkt"
+
+#: modules/enotification/imp.php:393
+msgid "Appointment Modified"
+msgstr "Afspraak gewijzigd"
+
+#: modules/enotification/imp.php:394
+msgid "Appointment Cancelled"
+msgstr "Afspraak geannuleerd"
+
+#: modules/enotification/imp.php:397
+msgid "Appointment Reminder"
+msgstr "Herinnering aan afspraak"
+
+#: modules/enotification/imp.php:405
+msgid "From Name"
+msgstr "Van naam"
+
+#: modules/enotification/imp.php:414
+msgid "From Email"
+msgstr "Van e-mail"
+
+#: modules/enotification/imp.php:425
+msgid "Reply To"
+msgstr "Antwoorden naar"
+
+#: modules/enotification/imp.php:436
+msgid "BCC"
+msgstr "Bcc"
+
+#: modules/enotification/imp.php:454
+msgid "Edit Email Templates"
+msgstr "E-mailsjablonen wijzigen"
+
+#: modules/enotification/imp.php:491
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: modules/enotification/imp.php:503
+msgid "Message"
+msgstr "Bericht"
+
+#: modules/enotification/imp.php:560
+#, php-format
+msgid "Enable email notification to %s"
+msgstr "Notificatie per e-mail aan %s inschakelen"
+
+#: modules/enotification/imp.php:571
+msgid "providers"
+msgstr "providers"
+
+#: modules/enotification/imp.php:575
+msgid "clients"
+msgstr "cliënten"
+
+#: modules/fbuilder/imp.php:32 modules/fbuilder/imp.php:821
+msgid "Single Line Text"
+msgstr "Enkele regel tekst"
+
+#: modules/fbuilder/imp.php:33 modules/fbuilder/imp.php:824
+msgid "Paragraph Text"
+msgstr "Paragraaf tekst"
+
+#: modules/fbuilder/imp.php:34 modules/fbuilder/imp.php:827
+msgid "Drop Down"
+msgstr "Vervolgkeuze"
+
+#: modules/fbuilder/imp.php:36 modules/fbuilder/imp.php:830
+msgid "Checkboxes"
+msgstr "Selectievakjes"
+
+#: modules/fbuilder/imp.php:37 modules/fbuilder/imp.php:833
+msgid "Radio Buttons"
+msgstr "Keuzerondjes"
+
+#: modules/fbuilder/imp.php:38
+msgid "Section Break"
+msgstr "Sectie-einde"
+
+#: modules/fbuilder/imp.php:647
+msgid "Field Deleted"
+msgstr "Veld verwijderd"
+
+#: modules/fbuilder/imp.php:677
+msgid "Add a Field"
+msgstr "Een veld toevoegen"
+
+#: modules/fbuilder/imp.php:684
+msgid "Form Builder"
+msgstr "Formulierbouwer"
+
+#: modules/fbuilder/imp.php:923
+msgid "Field Settings Updated"
+msgstr "Veldinstellingen bijgewerkt"
+
+#: modules/fbuilder/upgrader.php:36 modules/fbuilder/upgrader.php:358
+msgid "Date & Time"
+msgstr "Datum en tijdstip"
+
+#: modules/fbuilder/upgrader.php:56 modules/fbuilder/upgrader.php:372
+#: modules/fbuilder/field/predefined/clientsection_imp.php:140
+msgid "Are you a new or returning user?"
+msgstr "Bent u een nieuwe of een terugkerende gebruiker?"
+
+#: modules/fbuilder/upgrader.php:57 modules/fbuilder/upgrader.php:373
+msgid "New User"
+msgstr "Nieuwe gebruiker"
+
+#: modules/fbuilder/upgrader.php:58 modules/fbuilder/upgrader.php:374
+msgid "Returning User"
+msgstr "Terugkerende gebruiker"
+
+#: modules/fbuilder/upgrader.php:99
+#: modules/fbuilder/field/predefined/password_imp.php:38
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: modules/fbuilder/upgrader.php:105
+#: modules/fbuilder/field/predefined/password_imp.php:42
+msgid "Retype Password"
+msgstr "Wachtwoord opnieuw typen"
+
+#: modules/fbuilder/upgrader.php:166
+#: modules/fbuilder/field/predefined/submit_imp.php:39
+msgid "Lost your password?"
+msgstr "Uw wachtwoord verloren?"
+
+#: modules/fbuilder/field/email_imp.php:22
+#: modules/fbuilder/field/predefined/clientemail_imp.php:34
+msgid "Please input a valid email address"
+msgstr "Voer een geldig e-mailadres in"
+
+#: modules/fbuilder/field/imp.php:18 modules/fbuilder/field/imp.php:25
+#: modules/fbuilder/field/imp.php:32 modules/fbuilder/field/imp.php:39
+#: modules/fbuilder/field/imp.php:51 modules/fbuilder/field/imp.php:63
+#: modules/fbuilder/field/imp.php:75
+msgid "Untitled"
+msgstr "Zonder naam"
+
+#: modules/fbuilder/field/imp.php:44 modules/fbuilder/field/imp.php:56
+#: modules/fbuilder/field/imp.php:68
+msgid "First Choice"
+msgstr "Eerste keuze"
+
+#: modules/fbuilder/field/imp.php:45 modules/fbuilder/field/imp.php:57
+#: modules/fbuilder/field/imp.php:69
+msgid "Second Choice"
+msgstr "Tweede keuze"
+
+#: modules/fbuilder/field/imp.php:46 modules/fbuilder/field/imp.php:58
+#: modules/fbuilder/field/imp.php:70
+msgid "Third Choice"
+msgstr "Derde keuze"
+
+#: modules/fbuilder/field/imp.php:288
+msgid "Field Label"
+msgstr "Veldlabel"
+
+#: modules/fbuilder/field/imp.php:305
+msgid "The field is mandatory"
+msgstr "Het veld is verplicht"
+
+#: modules/fbuilder/field/imp.php:319
+msgid "Visibility"
+msgstr "Zichtbaarheid"
+
+#: modules/fbuilder/field/imp.php:328
+msgid "Customers and Admin"
+msgstr "Klanten en admin"
+
+#: modules/fbuilder/field/imp.php:336
+msgid "Admin Only"
+msgstr "Aleen admin"
+
+#: modules/fbuilder/field/imp.php:429
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:76
+#: modules/fbuilder/field/predefined/clientsection_imp.php:17
+#: modules/fbuilder/field/predefined/password_imp.php:17
+#: modules/fbuilder/field/predefined/submit_imp.php:17
+msgid "Predefined"
+msgstr "Voorgedefinieerd"
+
+#: modules/fbuilder/field/selectable_imp.php:32
+msgid "Choices"
+msgstr "Keuzes"
+
+#: modules/fbuilder/field/selectable_imp.php:39
+msgid "+ Add Choice"
+msgstr "+ Keuze toevoegen"
+
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:70
+msgid ""
+"Appointment Details ('Location','Service','Provider' & 'Date&Time' fields "
+"are predefined, click 'edit' to change the labels)"
+msgstr ""
+"Afspraakgegevens ('Locatie','Dienst','Provider' en 'Datum en tijdstip'-"
+"velden zijn voorgedefinieerd, klik op 'wijzigen' om de labels te wijzigen)"
+
+#: modules/fbuilder/field/predefined/appointmentsection_imp.php:91
+#: modules/fbuilder/field/predefined/clientsection_imp.php:131
+#: modules/fbuilder/field/predefined/password_imp.php:35
+#: modules/fbuilder/field/predefined/submit_imp.php:32
+msgid "Labels"
+msgstr "Labels"
+
+#: modules/fbuilder/field/predefined/clientemail_imp.php:47
+msgid ""
+"Email already exists. You may book using this email by selecting \"I am a "
+"returning user.\""
+msgstr ""
+"E-mail bestaat reeds. U kunt met deze e-mail boeken door \"Ik ben een "
+"terugkerende gebruiker\" te selecteren."
+
+#: modules/fbuilder/field/predefined/clientemail_imp.php:70
+msgid ""
+"Email does not exist. Please contact the administrator to create a user "
+"account."
+msgstr ""
+"E-mail bestaat niet. Neem contact op met de beheerder om een "
+"gebruikersaccount aan te maken."
+
+#: modules/fbuilder/field/predefined/clientemail_imp.php:73
+msgid ""
+"Email does not exist. You may book using this email by selecting \"I am a "
+"new user.\""
+msgstr ""
+"E-mail bestaat niet. U kunt met deze e-mail boeken door \"Ik ben een nieuwe "
+"gebruiker\" te selecteren."
+
+#: modules/fbuilder/field/predefined/clientemail_imp.php:78
+msgid "Email or password is incorrect."
+msgstr "E-mail of wachtwoord is onjuist."
+
+#: modules/fbuilder/field/predefined/clientsection_imp.php:58
+#, php-format
+msgid "Logged in as %s."
+msgstr "Aangemeld als %s."
+
+#: modules/fbuilder/field/predefined/clientsection_imp.php:62
+msgid "Log out?"
+msgstr "Afmelden?"
+
+#: modules/fbuilder/field/predefined/clientsection_imp.php:146
+msgid "I am a new user."
+msgstr "Ik ben een nieuwe gebruiker."
+
+#: modules/fbuilder/field/predefined/clientsection_imp.php:152
+msgid "I am a returning user."
+msgstr "Ik ben een terugkerende gebruiker."
+
+#: modules/fbuilder/field/predefined/clientsection_imp.php:165
+msgid "Enable user login"
+msgstr "Inloggen door gebruiker inschakelen"
+
+#: modules/fbuilder/field/predefined/clientsection_imp.php:172
+msgid "Enable new user registration"
+msgstr "Registratie nieuwe gebruiker inschakelen"
+
+#: modules/fbuilder/field/predefined/country_imp.php:39
+msgid "Default Country"
+msgstr "Standaard land"
+
+#: modules/fbuilder/field/predefined/password_imp.php:88
+msgid "Password is required"
+msgstr "Wachtwoord is vereist"
+
+#: modules/fbuilder/field/predefined/password_imp.php:93
+msgid "Password must be at least 6 digits."
+msgstr "Wachtwoord moet uit minimaal 6 cijfers bestaan. "
+
+#: modules/fbuilder/field/predefined/password_imp.php:96
+msgid "Both passwords should match"
+msgstr "Beide wachtwoorden moeten overeenkomen."
+
+#: modules/fbuilder/field/predefined/state_imp.php:73
+msgid "Default State/Province"
+msgstr "Standaard staat/provincie"
+
+#: modules/fbuilder/field/predefined/submit_imp.php:47
+msgid "Confirmation"
+msgstr "Bevestiging"
+
+#: modules/fbuilder/field/predefined/submit_imp.php:55
+msgid "Text"
+msgstr "Tekst"
+
+#: modules/fbuilder/field/predefined/submit_imp.php:62
+msgid "Redirect"
+msgstr "Omleiden"
+
+#: modules/fdadmin/imp.php:67
+msgid "Show all time slots"
+msgstr "Toon alle tijdvakken"
+
+#: modules/gbooking/imp.php:61 modules/gbooking/imp.php:169
+msgid "Capacity"
+msgstr "Capaciteit"
+
+#: modules/gbooking/imp.php:211 modules/gbooking/imp.php:221
+msgid "+ Add Client"
+msgstr "+ Nieuwe cliënt toevoegen"
+
+#: modules/gbooking/imp.php:320
+msgid "This client has been added."
+msgstr "Deze cliënt is toegevoegd."
+
+#: modules/gsettings/imp.php:38
+msgid "General"
+msgstr "Algemeen"
+
+#: modules/gsettings/imp.php:50
+msgid "General Options"
+msgstr "Algemene opties"
+
+#: modules/gsettings/imp.php:56
+msgid "Timezone"
+msgstr "Tijdzone"
+
+#: modules/gsettings/imp.php:58
+msgid "Date Format, Time Format"
+msgstr "Datumformaat, tijdformaat"
+
+#: modules/gsettings/imp.php:60
+msgid "Week Starts On"
+msgstr "De week begint op"
+
+#: modules/gsettings/imp.php:62
+msgid "Currency"
+msgstr "munteenheid"
+
+#: modules/gsettings/imp.php:64
+msgid "Default Calendar View"
+msgstr "Standaard agenda-overzicht"
+
+#: modules/gsettings/imp.php:90
+#, php-format
+msgid "<label>Timezone settings are located <a href='%s'>here</a>.</label>"
+msgstr ""
+"<label>De tijdzone-instellingen worden <a href='%s'>hier</a> vastgelegd.</"
+"label>"
+
+#: modules/gsettings/imp.php:97
+#, php-format
+msgid ""
+"<label>Date format, time format settings are located <a href='%s'>here</a>.</"
+"label>"
+msgstr ""
+"<label>De datumformaat- en tijdformaatinstellingen worden <a href='%s'>hier</"
+"a> vastgelegd.</label>"
+
+#: modules/gsettings/imp.php:104
+#, php-format
+msgid ""
+"<label>First day of week setting is located <a href='%s'>here</a>.</label>"
+msgstr ""
+"<label>De eerste-dag-van-de-week-instelling wordt <a href='%s'>hier</a> "
+"vastgelegd.</label>"
+
+#: modules/lbservices/imp.php:187
+msgid "Assign locations that can perform this service:"
+msgstr "Wijs locaties toe die deze dienst kunnen verlenen:"
+
+#: modules/lbservices/imp.php:194
+#, php-format
+msgid "There is no location to assign. Click %s here %s to add one."
+msgstr ""
+"Er is geen locatie om toe te wijzen. Klik %s hier %s om er een toe te voegen."
+
+#: modules/mstaff/imp.php:145
+msgid "Calendar Color"
+msgstr "Agendakleur"
+
+#: modules/pgauthorize/imp.php:50
+msgid "Authorize.net Integration"
+msgstr "Authorize.net integratie"
+
+#: modules/pgauthorize/imp.php:62
+msgid "Credit card (Authorize.net)"
+msgstr "Kredietkaart (Authorize.net)"
+
+#: modules/pgauthorize/imp.php:63
+msgid "Pay with your credit card via Authorize.net"
+msgstr "Betalen met uw kredietkaart via Authorize.net"
+
+#: modules/pgauthorize/imp.php:102
+#, php-format
+msgid "Authorize.net Transaction ID: %s"
+msgstr "Authorize.net transactie-id: %s"
+
+#: modules/pgauthorize/imp.php:116
+msgid "Click here if not redirected."
+msgstr "Klik hier indien u niet wordt omgeleid."
+
+#: modules/pgauthorize/imp.php:266 modules/pintegration/imp.php:265
+#: modules/wcredit/imp.php:380 modules/wintegration/imp.php:166
+msgid "Enable/Disable"
+msgstr "Inschakelen/uitschakelen"
+
+#: modules/pgauthorize/imp.php:275
+msgid "Enable Authorize.net"
+msgstr "Authorize.net inschakelen"
+
+#: modules/pgauthorize/imp.php:282
+msgid "Login ID"
+msgstr "Inlog-id"
+
+#: modules/pgauthorize/imp.php:296
+msgid "Transation Key"
+msgstr "Transactiesleutel"
+
+#: modules/pintegration/imp.php:38
+msgid "PayPal Integration"
+msgstr "PayPal integratie"
+
+#: modules/pintegration/imp.php:50
+msgid "PayPal"
+msgstr "PayPal"
+
+#: modules/pintegration/imp.php:52
+msgid ""
+"Pay via PayPal; you can pay with your credit card if you don’t have a PayPal "
+"account"
+msgstr ""
+"Betalen via PayPal. Als u geen PayPal-account hebt kunt u met uw "
+"kredietkaart betalen."
+
+#: modules/pintegration/imp.php:106
+#, php-format
+msgid "PayPal Transaction ID: %s"
+msgstr "PayPal transactie-id: %s"
+
+#: modules/pintegration/imp.php:274
+msgid "Enable PayPal"
+msgstr "PayPal inschakelen"
+
+#: modules/pintegration/imp.php:281
+msgid "PayPal Email"
+msgstr "PayPal e-mail"
+
+#: modules/ppayment/imp.php:100
+msgid "Prepayment Settings"
+msgstr "Pre-betalingsinstellingen"
+
+#: modules/ppayment/imp.php:124
+msgid "Prepayment Message"
+msgstr "Pre-betalingsbericht"
+
+#: modules/ppayment/imp.php:267
+msgid "Place order"
+msgstr "Opdracht plaatsen"
+
+#: modules/ppayment/imp.php:284
+msgid "Payments Settings Updated"
+msgstr "Betalingsinstellingen bijgewerkt"
+
+#: modules/ppayment/imp.php:440
+msgid "Enable prepayment"
+msgstr "Pre-betaling inschakelen"
+
+#: modules/ppayment/imp.php:455
+#, php-format
+msgid "Charge %s fixed booking fee."
+msgstr "Breng %s vaste boekingskosten in rekening."
+
+#: modules/ppayment/imp.php:467
+#, php-format
+msgid "Charge %s percent of service value."
+msgstr "Breng %s procent van de waarde van de dienst in rekening."
+
+#: modules/ppayment/upgrader.php:35
+msgid "Please make a payment of {deposit} to hold your appointment."
+msgstr "Doe een betaling of {deposit} om uw afspraak te behouden. "
+
+#: modules/senhanced/imp.php:37
+msgid " minutes"
+msgstr " minuten"
+
+#: modules/senhanced/imp.php:131
+#, php-format
+msgid "Enable flexible appointment start time with %s"
+msgstr "Schakel een flexibele starttijd in voor de afspraak met %s"
+
+#: modules/tblocking/imp.php:43
+msgid "Days Off"
+msgstr "Dagen vrij"
+
+#: modules/tblocking/imp.php:205
+msgid "Exceptions"
+msgstr "Uitzonderingen"
+
+#: modules/tblocking/imp.php:231
+msgid "+ Add Exception"
+msgstr "+ Uitzondering toevoegen"
+
+#: modules/uintegration/imp.php:135
+msgid "User Synchronization"
+msgstr "Gebruiker-synchronisatie"
+
+#: modules/uintegration/imp.php:136
+msgid "Syncing clients with WP users..."
+msgstr "Cliënten met WP-gebruikers synchroniseren..."
+
+#: modules/uintegration/imp.php:137
+msgid "synced"
+msgstr "gesynchroniseerd"
+
+#: modules/wcredit/imp.php:39 modules/wcredit/imp.php:110
+#: modules/wcredit/imp.php:111 modules/wcredit/imp.php:156
+msgid "WooCommerce Credit"
+msgstr "Woocommerce-krediet"
+
+#: modules/wcredit/imp.php:45
+msgid "The credit should be positive."
+msgstr "Het krediet moet positief zijn."
+
+#: modules/wcredit/imp.php:46
+msgid "The credit is not enough."
+msgstr "Het krediet is ontoereikend."
+
+#: modules/wcredit/imp.php:47
+#, php-format
+msgid "Used by order No. %s"
+msgstr "Gebruikt door opdrachtnr. %s"
+
+#: modules/wcredit/imp.php:48
+#, php-format
+msgid "Recharged by order No. %s"
+msgstr "Opgeladen met opdrachtnr. %s "
+
+#: modules/wcredit/imp.php:112
+msgid "Add WooCommerce Credit"
+msgstr "WooCommerce-krediet toevoegen"
+
+#: modules/wcredit/imp.php:113
+msgid "Add New WooCommerce Credit"
+msgstr "Nieuw WooCommerce-krediet toevoegen"
+
+#: modules/wcredit/imp.php:115
+msgid "Edit WooCommerce Credit"
+msgstr "WooCommerce-krediet aanpassen"
+
+#: modules/wcredit/imp.php:116
+msgid "New WooCommerce Credit"
+msgstr "Nieuw WooCommerce-krediet"
+
+#: modules/wcredit/imp.php:117 modules/wcredit/imp.php:118
+msgid "View WooCommerce Credit"
+msgstr "WooCommerce-krediet bekijken"
+
+#: modules/wcredit/imp.php:119
+msgid "Search WooCommerce credit"
+msgstr "WooCommerce-krediet zoeken"
+
+#: modules/wcredit/imp.php:120
+msgid "No WooCommerce credit found"
+msgstr "Geen WooCommerce-krediet gevonden"
+
+#: modules/wcredit/imp.php:121
+msgid "No WooCommerce credit found in trash"
+msgstr "Geen verwijderd WooCommerce-krediet gevonden"
+
+#: modules/wcredit/imp.php:122
+msgid "Parent WooCommerce Credit"
+msgstr "Ouder-WooCommerce-krediet"
+
+#: modules/wcredit/imp.php:124
+msgid "This is where WooCommerce credit are stored."
+msgstr "Dit is waar WooCommerce-krediet wordt opgeslagen"
+
+#: modules/wcredit/imp.php:295
+msgid "Credit Balance"
+msgstr "Kredietsaldo"
+
+#: modules/wcredit/imp.php:303
+msgid "+ Add Credit"
+msgstr "+ Krediet toevoegen"
+
+#: modules/wcredit/imp.php:389
+msgid "Enable WooCommerce Credit"
+msgstr "WooCommerce-krediet inschakelen"
+
+#: modules/wcredit/imp.php:396
+msgid "Buy Credit Amount from WooCommerce Products"
+msgstr "Koop een kredietbedrag bij WooCommerce-producten"
+
+#: modules/wcredit/imp.php:404 modules/wintegration/imp.php:361
+msgid "(Only simple products are listed here)"
+msgstr "(Alleen eenvoudige producten worden hier vermeld)"
+
+#: modules/wcredit/imp.php:463
+msgid "Customer Credit"
+msgstr "Klantenkrediet"
+
+#: modules/wcredit/imp.php:481
+msgid "Please login to use your credit."
+msgstr "Meld u aan om uw krediet te gebruiken."
+
+#: modules/wcredit/imp.php:503
+#, php-format
+msgid ""
+"Your current credit balance is %s. <br/>Enter a credit amount if you want to "
+"pay by customer credit."
+msgstr ""
+"Uw huidige kredietbalans is %s. <br/>Voer een kredietbedrag in als u met het "
+"klantenkrediet wilt betalen."
+
+#: modules/wcredit/imp.php:512
+msgid "Apply Custom Credit"
+msgstr "Pas aangepast krediet toe"
+
+#: modules/wintegration/imp.php:69
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: modules/wintegration/imp.php:89
+msgid "WooCommerce Integration"
+msgstr "WooCommerce integratie"
+
+#: modules/wintegration/imp.php:175
+msgid "Enable WooCommerce integration"
+msgstr "WooCommerce integratie inschakelen"
+
+#: modules/wintegration/imp.php:182
+msgid "Autocomplete Order"
+msgstr "Opdracht automatisch afronden"
+
+#: modules/wintegration/imp.php:191
+msgid ""
+"Enable WooCommerce automatically set appointment orders on Completed status "
+"right after a successfull payment."
+msgstr ""
+"Schakel in dat WooCommerce automatisch afspraakopdrachten op status "
+"'Afgerond' kan zetten, direct na een succesvolle betaling."
+
+#: modules/wintegration/imp.php:198
+msgid "Products Settings"
+msgstr "Productinstellingen"
+
+#: modules/wintegration/imp.php:210
+msgid "+ Add Product"
+msgstr "+ Product toevoegen"
+
+#: modules/wintegration/imp.php:345
+msgid "WooCommerce Product"
+msgstr "WooCommerce-product"
+
+#: modules/wintegration/imp.php:408
+msgid "Custom CSS"
+msgstr "Aangepaste css"
+
+#: modules/wintegration/imp.php:474
+msgid "WooCommerce Settings Updated"
+msgstr "WooCommerce-instellingen bijgewerkt"
+
+#: modules/wintegration/wc_imp.php:360
+msgid ""
+"There was a problem with your submission. Please check error messages below."
+msgstr ""
+"Er was een probleem met uw inzending. Controleer onderstaande "
+"foutboodschappen."
+
+#: modules/wintegration/wc_imp.php:467
+#, php-format
+msgid "WooCommerce Order ID: %s"
+msgstr "WooCommerce-opdracht-id: %s"
+
+#: modules/wintegration/wc_imp.php:729
+msgid "Add to cart"
+msgstr "Aan de winkelwagen toevoegen"

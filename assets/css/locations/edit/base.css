@@ -1,0 +1,9 @@
+#birchschedule-location-info input[type=text] {
+  width: 100%;
+  max-width: 24em;
+}
+#birchschedule-location-info select {
+  width: 100%;
+  height: auto;
+  max-width: 22em;
+}

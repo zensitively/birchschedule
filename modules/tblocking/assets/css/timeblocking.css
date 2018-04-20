@@ -1,0 +1,42 @@
+.birchschedule .birs_exception_item {
+    border-bottom: 1px solid #DFDFDF;
+    border-top: 1px solid white;
+    padding: 6px 8px 8px 8px;
+}
+
+.birchschedule .birs_exception_item label {
+    margin-right: 6px;
+}
+
+.birs_exception_item td input,
+.birs_exception_item td select {
+    width: 80%;
+}
+
+.birs_schedule_exception_new_box {
+    border-top: 1px solid white;
+    padding: 6px 0 0 8px;
+}
+
+.birchschedule .birs_schedule_exception_delete {
+    float: right;
+}
+
+.birs_exception_item > div {
+    margin-bottom: 4px;
+}
+
+.birs_schedule_exception > div {
+    margin-bottom: 4px;
+}
+
+.birs_inactive a, .birs_inactive a:hover {
+  background: #fff;
+  color: #333;
+}
+.ui-state-highlight.birs_inactive a {
+    background: #00a0d2;
+    color: #fff;
+}
+
+
