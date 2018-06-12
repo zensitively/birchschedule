@@ -219,10 +219,6 @@ birch_ns( 'birchschedule.uintegration', function( $ns ) {
 				}
 				$user_id = wp_insert_user( $user_data );
 			}
-			wp_update_post( array(
-				'ID' => $client['ID'],
-				'post_author' => $user_id
-			) );
 			add_action( 'user_register', array( $ns, 'sync_user_to_client' ) );
 			add_action( 'profile_update', array( $ns, 'sync_user_to_client' ) );
 			$ns->delete_meta_password( $client['ID'] );

@@ -11,6 +11,11 @@ birch_ns( 'birchschedule.archive', function( $ns ) {
 
 		$ns->wp_admin_init = function() use ( $ns, $birchschedule ) {
 
+			add_action( 'wp_ajax_birchschedule_archive_do_archive',
+				array( $ns, 'ajax_do_archive' ) );
+			add_action( 'admin_post_birchschedule_archive_get_archived_calendar',
+				array( $ns, 'get_archived_calendar' ) );
+
 			if ( !$ns->is_enabled()  || empty( $_GET['post'] ) ) {
 				return;
 			}
@@ -29,10 +34,6 @@ birch_ns( 'birchschedule.archive', function( $ns ) {
 			$birchschedule->view->register_script_data_fn(
 				'birchschedule_archive', 'birchschedule_archive',
 				array( $ns, 'get_script_data_fn_archive' ) );
-			add_action( 'wp_ajax_birchschedule_archive_do_archive',
-				array( $ns, 'ajax_do_archive' ) );
-			add_action( 'admin_post_birchschedule_archive_get_archived_calendar',
-				array( $ns, 'get_archived_calendar' ) );
 		};
 
 		$ns->wp_init = function() use( $ns ) {
@@ -86,10 +87,6 @@ birch_ns( 'birchschedule.archive', function( $ns ) {
 			if ( $selections ) {
 				return array_replace_recursive( $all_selections, $selections );
 			} else {
-				$staff['_birs_staff_archives'] = $all_selections;
-				$birchschedule->model->save( $staff, array(
-						'keys' => array( '_birs_staff_archives' )
-					) );
 				return $all_selections;
 			}
 		};
@@ -132,7 +129,10 @@ birch_ns( 'birchschedule.archive', function( $ns ) {
 					'keys' => array( '_birs_staff_archives' )
 				) );
 			$selections = $staff['_birs_staff_archives'];
-			if ( isset( $selections[$year][$month] ) && !$selections[$year][$month]['archived'] ) {
+			if( empty($selections) ) {
+  			$selections = array();
+			}
+			if ( !isset( $selections[$year][$month] ) || !$selections[$year][$month]['archived'] ) {
 				$ns->do_archive( $staff_id, $year, $month );
 				$selections[$year][$month]['archived'] = true;
 			}
@@ -141,7 +141,7 @@ birch_ns( 'birchschedule.archive', function( $ns ) {
 					'keys' => array( '_birs_staff_archives' )
 				) );
 			echo json_encode( array(
-					'selections' => $selections
+					'selections' => $ns->get_archive_selections( $staff_id )
 				) );
 			exit;
 		};
